@@ -1,0 +1,210 @@
+1004: |-
+  Use the features of the Purah Pad here.
+1010: |-
+  Check controls, save, or adjust game options.
+1005: |-
+  You can quickly set an ability.
+1011: |-
+  View distant things and mark them with pins.
+0004_0: |-
+  Open
+0010_0: |-
+  Open
+1006: |-
+  Touch an amiibo to the NFC touchpoint.
+1012: |-
+  Activate the ability in your right hand.
+0022_0: |-
+  In midair
+1007: |-
+  Equip or take out a weapon from your inventory.
+1013: |-
+  Your adventures will be detailed here.
+1008: |-
+  Equip or take out a shield from your inventory.
+1014: |-
+  You can throw the weapon in your hand.
+1020: |-
+  Dodge enemy attacks by hopping sideways.
+1009: |-
+  Equip or take out a bow from your inventory.
+1015: |-
+  Effective for targeting.
+1021: |-
+  Prepare and unleash a powerful attack.
+1016: |-
+  Parry at the right time to repel enemy attacks.
+1022: |-
+  Attack from above and do splash damage.
+0001_0: |-
+  Press and hold
+1017: |-
+  Hop on your shield and slide down hills.
+1023: |-
+  You will need to equip a shield before riding.
+0017_0: |-
+  Ready shield
+1018: |-
+  Allows you to move quietly.
+1024: |-
+  Call your horse to you if it's nearby.
+0017_1: |-
+  Jump
+1019: |-
+  Dodge enemy attacks by flipping backward.
+0017_2: |-
+  Ride
+1026: |-
+  Attach materials from your inventory to your arrows.
+1027: |-
+  Quickly take materials out of your inventory.
+1028: |-
+  Select material from your inventory to throw.
+0008_0: |-
+  Press and hold
+0014_0: |-
+  Press and hold
+0008_1: |-
+  Select
+0014_1: |-
+  Release
+0026_0: |-
+  Keep bow drawn
+0026_1: |-
+  Press and hold
+0026_2: |-
+  Select
+0005_0: |-
+  Press and hold
+0011_0: |-
+  Press
+0005_1: |-
+  Select
+0011_1: |-
+  Place a pin
+0023_0: |-
+  Steer
+0023_1: |-
+  Let go
+0023_2: |-
+  Dash
+0002_0: |-
+  Press and hold
+0002_1: |-
+  Release
+0018_0: |-
+  Press
+0020_0: |-
+  Target enemy
+0020_1: |-
+  Strafe
+0020_2: |-
+  Jump
+0000: |-
+  Use Weapon
+0001: |-
+  Raise Your Shield
+0009_0: |-
+  Ready bow
+0015_0: |-
+  Press and hold
+0002: |-
+  Attack with Bow
+0009_1: |-
+  Press and hold
+0027_0: |-
+  Press and hold
+0003: |-
+  Open Inventory
+0009_2: |-
+  Select
+0027_1: |-
+  Select
+0004: |-
+  Purah Pad
+0010: |-
+  Open System Menu
+0005: |-
+  Set Ability
+0011: |-
+  The Scope and Pins
+0006: |-
+  Use amiibo
+0012: |-
+  Use Ability
+0012_0: |-
+  Activate
+0007: |-
+  Select Weapon
+0013: |-
+  Open Adventure Log
+0024_0: |-
+  Whistle
+0008: |-
+  Select Shield
+0014: |-
+  Throw Weapon
+0020: |-
+  Side Hop
+0009: |-
+  Select Bow
+0015: |-
+  Lock On
+0021: |-
+  Charged Attacks
+0016: |-
+  Perfect Guard
+0022: |-
+  Jump Slash
+0017: |-
+  Shield Surf
+0023: |-
+  Sand-Seal Surfing
+0003_0: |-
+  Open
+0018: |-
+  Crouch
+0024: |-
+  Whistle
+0019_0: |-
+  Target enemy
+0021_0: |-
+  Press and hold
+0019: |-
+  Backflip
+0019_1: |-
+  Backpedal
+0021_1: |-
+  Release
+0026: |-
+  Attach Materials to Arrows
+0019_2: |-
+  Jump
+0027: |-
+  Quickly Take Out Materials
+0028: |-
+  Throw Material
+0000_0: |-
+  Attack
+0016_0: |-
+  Ready shield
+0016_1: |-
+  Parry
+0028_0: |-
+  Hold to get ready
+0028_1: |-
+  Hold, select material
+1000: |-
+  Attack with your equipped weapon.
+0007_0: |-
+  Press and hold
+0013_0: |-
+  Open
+1001: |-
+  Block when using a one-handed weapon.
+0007_1: |-
+  Select
+1002: |-
+  Equip a bow to attack enemies from afar.
+1003: |-
+  Equip weapons, armor, and other gear here.

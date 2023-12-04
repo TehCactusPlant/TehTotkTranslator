@@ -1,0 +1,2836 @@
+bruno_meyere_unknown: |-
+  Bruno Méyère
+gurvan_le_guen_noe: |-
+  Gurvan Le Guen
+inoue_fumiya_dh: |-
+  Fumiya Inoue
+irie_tokushun_imagica_bhe: |-
+  Tokushun Irie
+ishida_hiroki_ncl: |-
+  Hiroki Ishida
+kawata_yoshimasa_kenproduction: |-
+  Yoshimasa Kawata
+koike_yusuke_cri: |-
+  Yusuke Koike
+manel_gimeno_unknown: |-
+  Manel Gimeno
+mimura_go_ncl: |-
+  Go Mimura
+oshima_tatsuo_mls: |-
+  Tatsuo Oshima
+shimizu_yuki_ncl: |-
+  Yuki Shimizu
+shimotamari_takafumi_mls: |-
+  Takafumi Shimotamari
+suezaki_taiyo_mls: |-
+  Taiyo Suezaki
+victoria_valeria_becker_noe: |-
+  Victoria Valeria Becker
+yamada_yoshimitsu_ncl: |-
+  Yoshimitsu Yamada
+yamaki_atsushi_shirogumi: |-
+  Atsushi Yamaki
+amaduki_yusuke_imagica: |-
+  Yusuke Amaduki
+digital_hearts_co__ltd__corp: |-
+  DIGITAL HEARTS Co.,Ltd.
+inoue_masayoshi_mls: |-
+  Masayoshi Inoue
+kanamaru_yukihiro_srd: |-
+  Yukihiro Kanamaru
+matsuoka_daisuke_nac: |-
+  Daisuke Matsuoka
+nerd_technology_development_team_corp: |-
+  NERD Technology Development Team
+okuyama_hiroyuki_shirogumi: |-
+  Hiroyuki Okuyama
+ota_makoto_ncl: |-
+  Makoto Ota
+sakano_hiroki_polycraft: |-
+  Hiroki Sakano
+sakurai_yuki_seven dreams: |-
+  Yuki Sakurai
+sound_inn_studios_inc__corp: |-
+  SOUND INN STUDIOS INC.
+tamaya_junnosuke_dh: |-
+  Junnosuke Tamaya
+tamura_kensuke_artsvision: |-
+  Kensuke Tamura
+taniguchi_akitoshi_mc: |-
+  Akitoshi Taniguchi
+urushibata_yuki_imagica_bhe: |-
+  Yuki Urushibata
+yoneda_hideyuki_dh: |-
+  Hideyuki Yoneda
+anastasiya_biryukova_unknown: |-
+  Anastasiya Biryukova
+anastasiya_shestovskaya_unknown: |-
+  Anastasiya Shestovskaya
+endo_naohiro_twentyeleven: |-
+  Naohiro Endo
+fukui_sakika_cri: |-
+  Sakika Fukui
+hamada_yuria_mls: |-
+  Yuria Hamada
+koide_shinji_mls: |-
+  Shinji Koide
+martina_felli_unknown: |-
+  Martina Felli
+matsumoto_yuki_pmc: |-
+  Yuki Matsumoto
+mizuochi_yukiko_artsvision: |-
+  Yukiko Mizuochi
+nagasawa_kentaro_ncl: |-
+  Kentaro Nagasawa
+nishino_takanori_ncl: |-
+  Takanori Nishino
+otsuki_akari_imagica_bhe: |-
+  Akari Otsuki
+oyama_yoshiyuki_ncl: |-
+  Yoshiyuki Oyama
+sara_boelke_noa: |-
+  Sara Boelke
+suzuki_takashi_thoris: |-
+  Takashi Suzuki
+takahashi_bungo_mls: |-
+  Bungo Takahashi
+alondra_hidalgo_unknown: |-
+  Alondra Hidalgo
+arai_koh_mls: |-
+  Koh Arai
+christian_buter_noe: |-
+  Christian Buter
+fujihara_saki_mc: |-
+  Saki Fujihara
+fujii_keihan_mls: |-
+  Keihan Fujii
+jorge_heras_garcia_noe: |-
+  Jorge Heras García
+kou_ryou_bbds: |-
+  Ryou Kou
+matsuoka_arashi_mls: |-
+  Arashi Matsuoka
+miyajima_mayu_mls: |-
+  Mayu Miyajima
+miyanaga_makoto_ncl: |-
+  Makoto Miyanaga
+muneyasu_shunsuke_mc: |-
+  Shunsuke Muneyasu
+nishikawa_daisuke_mc: |-
+  Daisuke Nishikawa
+okui_takeshi_mls: |-
+  Takeshi Okui
+ptw_(singapore)_pte__ltd___taiwan_branch_corp: |-
+  PTW (Singapore) Pte. Ltd., Taiwan Branch
+ryan_kindel_noa: |-
+  Ryan Kindel
+unone_aki_unknown: |-
+  Aki Unone
+wakui_naoki_imagica_bhe: |-
+  Naoki Wakui
+diamond_desirae_unknown: |-
+  Diamond Desirae
+franziska_trunte_unknown: |-
+  Franziska Trunte
+inomata_yasushi_zerowave: |-
+  Yasushi Inomata
+jens_wouters_noe: |-
+  Jens Wouters
+jessica_monceau_unknown: |-
+  Jessica Monceau
+magome_kohei_individual: |-
+  Kohei Magome
+mairo_small_noa: |-
+  Mairo Small
+naka_shoko_ncl: |-
+  Shoko Naka
+nintendo_pictures_co__ltd__corp: |-
+  Nintendo Pictures Co.,Ltd.
+nosho_takahiro_ncl: |-
+  Takahiro Nosho
+sabrina_jouillat_noe: |-
+  Sabrina Jouillat
+sakaguchi_yuya_dh: |-
+  Yuya Sakaguchi
+taka_tomoyasu_ncl: |-
+  Tomoyasu Taka
+calvin_bulthuis_noa: |-
+  Calvin Bulthuis
+fujita_yasuhiro_mls: |-
+  Yasuhiro Fujita
+hagiwara_tomohiro_mls: |-
+  Tomohiro Hagiwara
+honbu_toru_mls: |-
+  Toru Honbu
+irie_koki_shirogumi: |-
+  Koki Irie
+marcus_baretta_noa: |-
+  Marcus Baretta
+morita_ryoko_ncl: |-
+  Ryoko Morita
+perrine_megret_unknown: |-
+  Perrine Megret
+suzanne_turgeon_noe: |-
+  Suzanne Turgeon
+takehiro_yoshida_mls: |-
+  Takehiro Yoshida
+timothy_faulkner_noe: |-
+  Timothy Faulkner
+usui_tsukasa_ncl: |-
+  Tsukasa Usui
+yui_kasumi_dh: |-
+  Kasumi Yui
+amabiki_tetsuya_mls: |-
+  Tetsuya Amabiki
+bill_hutchens_noa: |-
+  Bill Hutchens
+jaime_collepardo_unknown: |-
+  Jaime Collepardo
+laurence_uhlen_noe: |-
+  Laurence Uhlen
+miura_mikako_mls: |-
+  Mikako Miura
+mutou_nobuhiro_imagica: |-
+  Nobuhiro Mutou
+nihari_makiko_mls: |-
+  Makiko Nihari
+ohashi_yu_mls: |-
+  Yu Ohashi
+sarah_nist_noe: |-
+  Sarah Nist
+shibuya_ayano_kenproduction: |-
+  Ayano Shibuya
+yokoyama_mitsuru_unknown: |-
+  Mitsuru Yokoyama
+yonemaru_ayumi_artsvision: |-
+  Ayumi Yonemaru
+inoue_satoru_artsvision: |-
+  Satoru Inoue
+ishiyama_kaoru_mc: |-
+  Kaoru Ishiyama
+joshua_yagi-stanton_noa: |-
+  Joshua Yagi-Stanton
+kawaguchi_yuri_imagica_bhe: |-
+  Yuri Kawaguchi
+manna_yamasaki_noa: |-
+  Manna Yamasaki
+miyake_hiromichi_srd: |-
+  Hiromichi Miyake
+morimoto_eri_mls: |-
+  Eri Morimoto
+nagahara_keita_dh: |-
+  Keita Nagahara
+ogami_ryunosuke_mls: |-
+  Ryunosuke Ogami
+q_tron_inc__corp: |-
+  Q'tron Inc.
+yoneyama_yukiko_nac: |-
+  Yukiko Yoneyama
+zhang_ben_shirogumi: |-
+  Zhang Ben
+andrew_t__scott_noa: |-
+  Andrew T. Scott
+catherine_hoffman_noa: |-
+  Catherine Hoffman
+ehara_takahiko_pmc: |-
+  Takahiko Ehara
+evan_lobenstein_noa: |-
+  Evan Lobenstein
+inoue_sakio_mls: |-
+  Sakio Inoue
+kato_hideaki_imagica_bhe: |-
+  Hideaki Kato
+kawashima_takahiro_mls: |-
+  Takahiro Kawashima
+nicholas_matz_noa: |-
+  Nicholas Matz
+okubo_toshihiro_artsvision: |-
+  Toshihiro Okubo
+takeda_kouji_artsvision: |-
+  Kouji Takeda
+toda_yusuke_ncl: |-
+  Yusuke Toda
+tomoko_mikami_noa: |-
+  Tomoko Mikami
+xochitl_ugarte_unknown: |-
+  Xóchitl Ugarte
+alejandro_martinez_unknown: |-
+  Alejandro Martínez
+hagiya_kazuyuki_imagica_bhe: |-
+  Kazuyuki Hagiya
+hasegawa_mai_mls: |-
+  Mai Hasegawa
+iguchi_sayaka_mls: |-
+  Sayaka Iguchi
+keywords_studios_mexico_corp: |-
+  Keywords Studios México
+nakajima_carin_mls: |-
+  Carin Nakajima
+robert_heiret_noa: |-
+  Robert Heiret
+sonoda_yutaka_imagica: |-
+  Yutaka Sonoda
+anais_delva_unknown: |-
+  Anaïs Delva
+ihara_kunihito_mls: |-
+  Kunihito Ihara
+lara_gibran_noa: |-
+  Lara Gibran
+matsuda_takahiro_ncl: |-
+  Takahiro Matsuda
+miyaki_yoshio_quackluck: |-
+  Yoshio Miyaki
+natalia_gracheva_unknown: |-
+  Natalia Gracheva
+okuda_takahiro_ncl: |-
+  Takahiro Okuda
+sano_takashi_imagica: |-
+  Takashi Sano
+sube_wakana_artsvision: |-
+  Wakana Sube
+takaki_gentaro_srd: |-
+  Gentaro Takaki
+yamaguchi_misa_bbds: |-
+  Misa Yamaguchi
+yamakawa_chihiro_bbds: |-
+  Chihiro Yamakawa
+hinagata_takumi_mls: |-
+  Takumi Hinagata
+kento_oiwa_noa: |-
+  Kento Oiwa
+mirolyub_radoslavov_hristov_nerd: |-
+  Mirolyub Radoslavov Hristov
+nachi_hiroki_mc: |-
+  Hiroki Nachi
+nintendosdk_development_team_corp: |-
+  NintendoSDK Development Team
+sasaki_hideyoshi_dh: |-
+  Hideyoshi Sasaki
+tatezawa_takashi_polycraft: |-
+  Takashi Tatezawa
+teresa_dugnol_noe: |-
+  Teresa Dugnol
+tsuruoka_toshikazu_mls: |-
+  Toshikazu Tsuruoka
+amma_masato_ncl: |-
+  Masato Amma
+fernanda_ortiz_unknown: |-
+  Fernanda Ortíz
+francesco_rizzi_unknown: |-
+  Francesco Rizzi
+hashimoto_toshiyuki_mls: |-
+  Toshiyuki Hashimoto
+ito_shingo_pmc: |-
+  Shingo Ito
+iwawaki_toshio_srd: |-
+  Toshio Iwawaki
+jodai_junshi_ncl: |-
+  Junshi Jodai
+kawabata_masayuki_mls: |-
+  Masayuki Kawabata
+kenneth_treffry_noa: |-
+  Kenneth Treffry
+miura_hiroaki_anima: |-
+  Hiroaki Miura
+naito_masafumi_mls: |-
+  Masafumi Naito
+nakagawa_yasunori_mls: |-
+  Yasunori Nakagawa
+oda_yasuhiro_cri: |-
+  Yasuhiro Oda
+okita_momoka_cri: |-
+  Momoka Okita
+saito_kota_mls: |-
+  Kota Saito
+sakaguchi_naoto_dh: |-
+  Naoto Sakaguchi
+sakai_asuka_mc: |-
+  Asuka Sakai
+sugiura_hirohide_mls: |-
+  Hirohide Sugiura
+takeuchi_yu_imagica: |-
+  Yu Takeuchi
+tanaka_koji_bbds: |-
+  Koji Tanaka
+yamashita_shinji_unknown: |-
+  Shinji Yamashita
+ben_howard-hale_noe: |-
+  Ben Howard-Hale
+kawamata_ryuichi_ncl: |-
+  Ryuichi Kawamata
+kitayama_moto_dh: |-
+  Moto Kitayama
+quack-luck_inc__corp: |-
+  quack-luck Inc.
+ueda_nao_ncl: |-
+  Nao Ueda
+uemura_naoki_mls: |-
+  Naoki Uemura
+wakiyama_tomonari_thoris: |-
+  Tomonari Wakiyama
+wang_qiuchen_pmc: |-
+  Qiuchen Wang
+anton_ivanchikov_noe: |-
+  Anton Ivanchikov
+asakura_atsushi_ncl: |-
+  Atsushi Asakura
+david_martin_navarro_noe: |-
+  David Martín Navarro
+gab_bergollo_drouyn_noa: |-
+  Gab Bergollo Drouyn
+hazuki_nara_cri: |-
+  Hazuki Nara
+ito_yoshio_pmc: |-
+  Yoshio Ito
+iwanaga_kousuke_imagica: |-
+  Kousuke Iwanaga
+izumi_yuki_imagica: |-
+  Yuki Izumi
+kubota_hiroyuki_mls: |-
+  Hiroyuki Kubota
+morita_jyo_mls: |-
+  Jyo Morita
+olivia_vives_unknown: |-
+  Olivia Vives
+sound_racer_ltd__corp: |-
+  Sound Racer Ltd.
+takaguchi_kousuke_kenproduction: |-
+  Kousuke Takaguchi
+tsuda_showko_kenproduction: |-
+  Showko Tsuda
+daniele_albrito_noe: |-
+  Daniele Albrito
+davina_midori_hendroff_imagica_bhe: |-
+  Davina Midori Hendroff
+donald_reignoux_unknown: |-
+  Donald Reignoux
+elin_rummel_noa: |-
+  Elin Rummel
+fukumoto_naonari_srd: |-
+  Naonari Fukumoto
+hashimoto_yuma_mls: |-
+  Yuma Hashimoto
+kaida_yuhko_kenproduction: |-
+  Yuhko Kaida
+kitaoka_jun_mls: |-
+  Jun Kitaoka
+kuroda_motosuke_shirogumi: |-
+  Motosuke Kuroda
+lauren_mayfield_unknown: |-
+  Lauren Mayfield
+lauro_joshua_remulla_noa: |-
+  Lauro Joshua Remulla
+miyatake_hirotada_ncl: |-
+  Hirotada Miyatake
+tsutsumi_manaka_dh: |-
+  Manaka Tsutsumi
+yamaguchi_sachie_mls: |-
+  Sachie Yamaguchi
+yamaguchi_takamasa_mls: |-
+  Takamasa Yamaguchi
+yokoyama_natsuki_mls: |-
+  Natsuki Yokoyama
+aaron_leedham_noa: |-
+  Aaron Leedham
+alejandra_murillo_noa: |-
+  Alejandra Murillo
+amanda_lopes_noa: |-
+  Amanda Lopes
+black_beard_design_studio_inc__corp: |-
+  Black Beard Design Studio Inc.
+christine_tran_noa: |-
+  Christine Tran
+hashimoto_yuya_mls: |-
+  Yuya Hashimoto
+higashimura_yuri_wachajack: |-
+  Yuri Higashimura
+iwamoto_mitsuo_ncl: |-
+  Mitsuo Iwamoto
+kimura_ryota_mc: |-
+  Ryota Kimura
+kotouno_jun_seven dreams: |-
+  Jun Kotouno
+kurnia_freddy_bbds: |-
+  Freddy Kurnia
+nakagawa_takeshi_bbds: |-
+  Takeshi Nakagawa
+nonaka_taro_ncl: |-
+  Taro Nonaka
+sato_ryotaro_ncl: |-
+  Ryotaro Sato
+silke_matthias_unknown: |-
+  Silke Matthias
+sylvain_lemarie_unknown: |-
+  Sylvain Lemarié
+takashi_baker_noa: |-
+  Takashi Baker
+yagi_hiroyuki_ncl: |-
+  Hiroyuki Yagi
+yamanaka_taiki_mls: |-
+  Taiki Yamanaka
+adachi_masato_mls: |-
+  Masato Adachi
+asai_koji_bbds: |-
+  Koji Asai
+eiju_umemura_nhl: |-
+  Eiju Umemura
+gima_shinya_mls: |-
+  Shinya Gima
+inata_wataru_mls: |-
+  Wataru Inata
+kumakura_yasuo_mls: |-
+  Yasuo Kumakura
+nakamura_eiji_s-racer: |-
+  Eiji Nakamura
+nikolas_blom_noa: |-
+  Nikolas Blom
+sasaki_shintaro_ncl: |-
+  Shintaro Sasaki
+sebastian_bruck_noe: |-
+  Sebastian Brück
+sergey_chikhachev_unknown: |-
+  Sergey Chikhachev
+side_uk_corp: |-
+  SIDE UK
+takehara_manabu_ncl: |-
+  Manabu Takehara
+yannick_carrey_noe: |-
+  Yannick Carrey
+ashley_minor_noa: |-
+  Ashley Minor
+enzo_fortuny_unknown: |-
+  Enzo Fortuny
+helmut_krauss_unknown: |-
+  Helmut Krauss
+imaizumi_hideki_imagica: |-
+  Hideki Imaizumi
+joshua_lee_noa: |-
+  Joshua Lee
+karen_ressler_noa: |-
+  Karen Ressler
+kawamura_masafumi_ncl: |-
+  Masafumi Kawamura
+massimo_di_benedetto_unknown: |-
+  Massimo Di Benedetto
+nakamura_yuki_mls: |-
+  Yuki Nakamura
+ogaki_yuka_mls: |-
+  Yuka Ogaki
+olarn_bantukul_stu: |-
+  Olarn Bantukul
+sawamura_yuya_dh: |-
+  Yuya Sawamura
+sugano_shoichi_mls: |-
+  Shoichi Sugano
+tanaka_suguru_shirogumi: |-
+  Suguru Tanaka
+yang_tungyu_imagica_bhe: |-
+  Tungyu Yang
+adachi_shingo_mc: |-
+  Shingo Adachi
+christelle_liviero_aracena_noa: |-
+  Christelle Liviero Aracena
+enrique_sanchez_rosa_noe: |-
+  Enrique Sánchez Rosa
+hitoshi_nishizawa_noa: |-
+  Hitoshi Nishizawa
+jeewan_chun_nok: |-
+  Jeewan Chun
+jianhao_cai_imagica_bhe: |-
+  JianHao Cai
+kemmotsu_yoshihide_imagica: |-
+  Yoshihide Kemmotsu
+kitada_yukari_ncl: |-
+  Yukari Kitada
+kurazono_yo_mls: |-
+  Yo Kurazono
+quinn_moreau_noa: |-
+  Quinn Moreau
+senoo_masumi_mls: |-
+  Masumi Senoo
+shirotaka_kaishi_dh: |-
+  Kaishi Shirotaka
+stephane_zussy_noe: |-
+  Stéphane Zussy
+swen_harder_noe: |-
+  Swen Harder
+tan_boh_sheh_mls: |-
+  Tan Boh Sheh
+wong_szeki_mls: |-
+  Szeki Wong
+amit_raut_shirogumi: |-
+  Raut Amit
+furusawa_hirofumi_mls: |-
+  Hirofumi Furusawa
+furuta_kazehiko_mc: |-
+  Kazehiko Furuta
+hidaka_shozo_ncl: |-
+  Shozo Hidaka
+imanaka_naoyuki_cri: |-
+  Naoyuki Imanaka
+jaime_alberto_carrillo_unknown: |-
+  Jaime Alberto Carrillo
+jinguji_ryota_ncl: |-
+  Ryota Jinguji
+marijke_pustjens_noe: |-
+  Marijke Pustjens
+matsumoto_mariko_bbds: |-
+  Mariko Matsumoto
+nishida_masayasu_rococo: |-
+  Masayasu Nishida
+ota_rie_seven dreams: |-
+  Rie Ota
+ryan_kelley_noa: |-
+  Ryan Kelley
+takasaki_ryoichi_dh: |-
+  Ryoichi Takasaki
+tominaga_kentaro_ncl: |-
+  Kentaro Tominaga
+dylan_rondeau_noa: |-
+  Dylan Rondeau
+ishikawa_yuki_mls: |-
+  Yuki Ishikawa
+jesse_olaguez_noa: |-
+  Jesse Olaguez
+jolanda_granato_unknown: |-
+  Jolanda Granato
+kashiwabara_chie_digitalfrontier: |-
+  Chie Kashiwabara
+kawasaki_mariko_seven dreams: |-
+  Mariko Kawasaki
+kubo_shota_mls: |-
+  Shota Kubo
+laura_vinado_noa: |-
+  Laura Vinado
+matsubara_mayuko_seven dreams: |-
+  Mayuko Matsubara
+okamura_ayako_mls: |-
+  Ayako Okamura
+rita_huang_noa: |-
+  Rita Huang
+sawada_kaho_ncl: |-
+  Kaho Sawada
+shimizu_daigo_ncl: |-
+  Daigo Shimizu
+tokunaga_yasuhiro_ncl: |-
+  Yasuhiro Tokunaga
+wachajack_inc__corp: |-
+  WACHAJACK Inc.
+william_romick_noa: |-
+  William Romick
+honda_rina_ncl: |-
+  Rina Honda
+inoue_keijiro_ncl: |-
+  Keijiro Inoue
+lydia_aydlette_noa: |-
+  Lydia Aydlette
+maihan_tran_unknown: |-
+  Maihan Tran
+matthew_fosbrook_noe: |-
+  Matthew Fosbrook
+miyaoka_teruhiko_dh: |-
+  Teruhiko Miyaoka
+takashi_katagiri_noe: |-
+  Takashi Katagiri
+wang_zhenyi_mls: |-
+  Zhenyi Wang
+ariadna_jimenez_unknown: |-
+  Ariadna Jiménez
+chen_bolin_ncl: |-
+  Bolin Chen
+david_figlar_noa: |-
+  David Figlar
+honda_akira_nac: |-
+  Akira Honda
+itou_hajime_ncl: |-
+  Hajime Itou
+jack_veggin_noa: |-
+  Jack Veggin
+kato_nobuya_mc: |-
+  Nobuya Kato
+kuranuki_masahiro_quackluck: |-
+  Masahiro Kuranuki
+marco_balbi_unknown: |-
+  Marco Balbi
+miyamoto_shigeru_unknown: |-
+  Shigeru Miyamoto
+natalia_fischuk_unknown: |-
+  Natalia Fischuk
+okayasu_nobuhiko_mls: |-
+  Nobuhiko Okayasu
+saito_tatsuya_digitalfrontier: |-
+  Tatsuya Saito
+takiguchi_kenta_mls: |-
+  Kenta Takiguchi
+uchida_kaname_pmc: |-
+  Kaname Uchida
+wakai_hajime_ncl: |-
+  Hajime Wakai
+winda_benedetti_noa: |-
+  Winda Benedetti
+arakawa_tetsushi_smileorder: |-
+  Tetsushi Arakawa
+ariga_satoru_cri: |-
+  Satoru Ariga
+bongrand_jean-baptiste_animationcafe: |-
+  Jean-Baptiste Bongrand
+hamakawa_saki_pmc: |-
+  Saki Hamakawa
+hino_yasuhide_charabans: |-
+  Yasuhide Hino
+inaba_tomoki_mls: |-
+  Tomoki Inaba
+kawagoe_takumi_ncl: |-
+  Takumi Kawagoe
+logan_nyman_unknown: |-
+  Logan Nyman
+mariya_ivaschenko_unknown: |-
+  Mariya Ivaschenko
+morita_shuto_dh: |-
+  Shuto Morita
+noda_haruna_ncl: |-
+  Haruna Noda
+oonishi_kousuke_artsvision: |-
+  Kousuke Oonishi
+rich_amtower_noa: |-
+  Rich Amtower
+rita_di_lascio_noe: |-
+  Rita Di Lascio
+shimoda_yuichi_mc: |-
+  Yuichi Shimoda
+shirai_shunichi_ncl: |-
+  Shunichi Shirai
+shoji_masato_cri: |-
+  Masato Shoji
+sophia_langert_unknown: |-
+  Sophia Längert
+tatsumi_natsuya_dh: |-
+  Natsuya Tatsumi
+yasuda_yoshito_ncl: |-
+  Yoshito Yasuda
+alex_lied_noa: |-
+  Alex Lied
+alyssa_yuhl_noa: |-
+  Alyssa Yuhl
+hiramatsu_noriko_mls: |-
+  Noriko Hiramatsu
+kishimoto_keisuke_pmc: |-
+  Keisuke Kishimoto
+kunimori_kiyoshi_mls: |-
+  Kiyoshi Kunimori
+laura_soto_toral_noe: |-
+  Laura Soto Toral
+ramon_canals_unknown: |-
+  Ramón Canals
+sarah_kelly_noe: |-
+  Sarah Kelly
+sebastien_guido_nerd: |-
+  Sébastien Guido
+wakigami_yukihiro_ncl: |-
+  Yukihiro Wakigami
+aibara_natsuki_mls: |-
+  Natsuki Aibara
+andrew_hall_noe: |-
+  Andrew Hall
+cornelia_waibel_unknown: |-
+  Cornelia Waibel
+fujikawa_youhei_imagica_bhe: |-
+  Youhei Fujikawa
+fukui_takuma_srd: |-
+  Takuma Fukui
+hayashi_daichi_artsvision: |-
+  Daichi Hayashi
+horikawa_yasuo_nac: |-
+  Yasuo Horikawa
+kimura_tamio_imagica_bhe: |-
+  Tamio Kimura
+nakamura_takuya_mls: |-
+  Takuya Nakamura
+obata_fumiya_mls: |-
+  Fumiya Obata
+olivier_jacquemin-guillaume_noe: |-
+  Olivier Jacquemin-Guillaume
+ono_masayo_shirogumi: |-
+  Masayo Ono
+alessandro_pagano_noe: |-
+  Alessandro Pagano
+alex_juul_noa: |-
+  Alex Juul
+alexander_gruzdev_unknown: |-
+  Alexander Gruzdev
+ando_mirei_dh: |-
+  Mirei Ando
+hamagishi_kanae_ncl: |-
+  Kanae Hamagishi
+kawakatsu_ryosuke_ncl: |-
+  Ryosuke Kawakatsu
+kiuchi_takafumi_ncl: |-
+  Takafumi Kiuchi
+monden_yukiko_artsvision: |-
+  Yukiko Monden
+ng_hokwai_ncl: |-
+  HokWai Ng
+sakuraba_arisa_artsvision: |-
+  Arisa Sakuraba
+shida_ryota_imagica_bhe: |-
+  Ryota Shida
+takizawa_satoru_ncl: |-
+  Satoru Takizawa
+takizawa_shota_mls: |-
+  Shota Takizawa
+wada_takumi_dh: |-
+  Takumi Wada
+wang_mengyang_ncl: |-
+  Mengyang Wang
+yamakawa_akinobu_mls: |-
+  Akinobu Yamakawa
+_____imageworks_studio_corp: |-
+     / Imageworks Studio
+ethan_dill_noa: |-
+  Ethan Dill
+isshiki_mayu_artsvision: |-
+  Mayu Isshiki
+kawabata_mai_kenproduction: |-
+  Mai Kawabata
+lutz_ohl_noe: |-
+  Lutz Ohl
+nishio_satoko_mls: |-
+  Satoko Nishio
+simone_lupinacci_unknown: |-
+  Simone Lupinacci
+sugimoto_ayaka_mls: |-
+  Ayaka Sugimoto
+suzuki_shungo_ncl: |-
+  Shungo Suzuki
+zamoyski_andrzej_mls: |-
+  Andrzej Zamoyski
+angeles_garrido_noe: |-
+  Ángeles Garrido
+chris_hackney_unknown: |-
+  Chris Hackney
+christina_stoffel_noe: |-
+  Christina Stoffel
+edson_matus_unknown: |-
+  Edson Matus
+hiromoto_rei_imagica: |-
+  Rei Hiromoto
+hori_takafumi_mls: |-
+  Takafumi Hori
+ichikawa_yoshiaki_rococo: |-
+  Yoshiaki Ichikawa
+jeremie_covillault_unknown: |-
+  Jérémie Covillault
+kawashima_toshiki_shirogumi: |-
+  Toshiki Kawashima
+kurita_ami_digitalfrontier: |-
+  Ami Kurita
+masumoto_takuya_kenproduction: |-
+  Takuya Masumoto
+mori_natsuki_artsvision: |-
+  Natsuki Mori
+nobori_daisuke_ncl: |-
+  Daisuke Nobori
+sato_hiroto_dh: |-
+  Hiroto Sato
+shimada_junya_animationcafe: |-
+  Junya Shimada
+amemiya_chika_mls: |-
+  Chika Amemiya
+georg_schmalhofer_noe: |-
+  Georg Schmalhofer
+hiromatsu_kotaro_ncl: |-
+  Kotaro Hiromatsu
+ikegami_shota_dh: |-
+  Shota Ikegami
+katharina_glowotz_noe: |-
+  Katharina Glowotz
+kris_taquka_angcuk_knigge_noa: |-
+  Kris Taquka'angcuk Knigge
+muto_yuki_imagica: |-
+  Yuki Muto
+ohmori_mitsuhiro_nac: |-
+  Mitsuhiro Ohmori
+robert_kinsfather_unknown: |-
+  Robert Kinsfather
+sakasai_hiroshi_ncl: |-
+  Hiroshi Sakasai
+seven_dreams_inc__corp: |-
+  SEVEN DREAMS INC.
+shoji_kaori_mls: |-
+  Kaori Shoji
+amanda_gracia_unknown: |-
+  Amanda Gracia
+chiara_botta_noe: |-
+  Chiara Botta
+deguchi_takuma_srd: |-
+  Takuma Deguchi
+fujimoto_shiori_mls: |-
+  Shiori Fujimoto
+funaki_ryosuke_ncl: |-
+  Ryosuke Funaki
+hasegawa_yusuke_bbds: |-
+  Yusuke Hasegawa
+minami_koichi_dh: |-
+  Koichi Minami
+nakago_toshihiko_srd: |-
+  Toshihiko Nakago
+nishimura_masaru_mls: |-
+  Masaru Nishimura
+ogawa_yuji_pmc: |-
+  Yuji Ogawa
+oiso_takuma_ncl: |-
+  Takuma Oiso
+polygon_magic__inc__corp: |-
+  POLYGON MAGIC, INC.
+sakuraba_yoshihiko_ncl: |-
+  Yoshihiko Sakuraba
+sekino_takumi_ncl: |-
+  Takumi Sekino
+varvara_chaban_unknown: |-
+  Varvara Chaban
+yi_peng_ique: |-
+  Yi Peng
+alex_hernandez-puertas_noe: |-
+  Álex Hernández-Puertas
+amanda_newman_noa: |-
+  Amanda Newman
+arakaki_ririka_bbds: |-
+  Ririka Arakaki
+hiramatsu_junya_ncl: |-
+  Junya Hiramatsu
+jesus_gordo_martin_noe: |-
+  Jesús Gordo Martín
+kyuma_koichi_ncl: |-
+  Koichi Kyuma
+maria_maksutova_noe: |-
+  Maria Maksutova
+morishima_hiroyuki_ncl: |-
+  Hiroyuki Morishima
+prokhor_chekhovskoy_unknown: |-
+  Prokhor Chekhovskoy
+saito_nobuhiro_cri: |-
+  Nobuhiro Saito
+shimamura_yu_kenproduction: |-
+  Yu Shimamura
+the_halp_network_corp: |-
+  The Halp Network
+tomita_toshiya_charabans: |-
+  Toshiya Tomita
+yokoyama_kyoko_unknown: |-
+  Kyoko Yokoyama
+abe_hiroshi_mls: |-
+  Hiroshi Abe
+fabio_brignoli_noe: |-
+  Fabio Brignoli
+ito_fumiya_mls: |-
+  Fumiya Ito
+jurgen_wolters_unknown: |-
+  Jürgen Wolters
+kasuya_kazune_mls: |-
+  Kazune Kasuya
+katsurashima_maya_individual: |-
+  Maya Katsurashima
+kawabata_shingo_mls: |-
+  Shingo Kawabata
+kawamura_chihei_ncl: |-
+  Chihei Kawamura
+kubo_yosuke_imagica: |-
+  Yosuke Kubo
+kurihara_yuri_mls: |-
+  Yuri Kurihara
+minekawa_chiharu_s-racer: |-
+  Chiharu Minekawa
+nakajima_hiroki_dh: |-
+  Hiroki Nakajima
+orita_hirofumi_ncl: |-
+  Hirofumi Orita
+raymond_elliget_noa: |-
+  Raymond Elliget
+sakamaki_yuka_dh: |-
+  Yuka Sakamaki
+thaddee_wiseur_noa: |-
+  Thaddée Wiseur
+ueda_hiroshi_ncl: |-
+  Hiroshi Ueda
+yamamoto_takuji_mls: |-
+  Takuji Yamamoto
+zheng_yufei_ncl: |-
+  Yufei Zheng
+demura_yuji_ncl: |-
+  Yuji Demura
+furukawa_shuntaro_unknown: |-
+  Shuntaro Furukawa
+herve_grull_unknown: |-
+  Hervé Grull
+julien_veron_noe: |-
+  Julien Veron
+mikhail_belyakovich_unknown: |-
+  Mikhail Belyakovich
+nac_inc__corp: |-
+  NAC Inc.
+nakashima_yosuke_mls: |-
+  Yosuke Nakashima
+polina_shenoeva_noe: |-
+  Polina Shenoeva
+smile_technology_united__inc__corp: |-
+  SMILE TECHNOLOGY UNITED, INC.
+yamada_kazuki_dh: |-
+  Kazuki Yamada
+yamamoto_kana_mls: |-
+  Kana Yamamoto
+ann_lin_noa: |-
+  Ann Lin
+daisuke_fukuyama_noe: |-
+  Daisuke Fukuyama
+honma_takahiro_nac: |-
+  Takahiro Honma
+kataoka_manaka_ncl: |-
+  Manaka Kataoka
+kondo_sho_polycraft: |-
+  Sho Kondo
+matano_yoshinobu_dh: |-
+  Yoshinobu Matano
+michael_hussinger_noe: |-
+  Michael Hussinger
+miyagawa_takahiro_ncl: |-
+  Takahiro Miyagawa
+shellynne_philips-vonture_unknown: |-
+  Shellynne Philips-Vonture
+takahashi_hiromi_mls: |-
+  Hiromi Takahashi
+tamura_tatsuo_imagica: |-
+  Tatsuo Tamura
+yokoyama_takashi_dh: |-
+  Takashi Yokoyama
+alex_zarza_noa: |-
+  Álex Zarza
+carolina_quesada_noa: |-
+  Carolina Quesada
+danny_camacho_unknown: |-
+  Danny Camacho
+doi_toshiyuki_srd: |-
+  Toshiyuki Doi
+eric_garcia_unknown: |-
+  Eric Garcia
+imagica_digitalscape_co__ltd__corp: |-
+  IMAGICA DIGITALSCAPE Co.,Ltd.
+kobayashi_yuta_mls: |-
+  Yuta Kobayashi
+murata_shuichi_mls: |-
+  Shuichi Murata
+tokaji_yuya_mls: |-
+  Yuya Tokaji
+ando_ayaka_mls: |-
+  Ayaka Ando
+andrea_jahn_noe: |-
+  Andrea Jähn
+casey_longest_noa: |-
+  Casey Longest
+jessica_angeles_unknown: |-
+  Jessica Ángeles
+koshita_kouki_digitalfrontier: |-
+  Kouki Koshita
+matsumoto_ikuko_mls: |-
+  Ikuko Matsumoto
+min_dongryong_rococo: |-
+  Dongryong Min
+moritsu_shumpei_dh: |-
+  Shumpei Moritsu
+nils_dudal_noe: |-
+  Nils Dudal
+nishimura_naoki_ncl: |-
+  Naoki Nishimura
+paolo_de_santis_unknown: |-
+  Paolo De Santis
+sergio_madrigal_bustamante_unknown: |-
+  Sergio Madrigal Bustamante
+takayama_takahiro_ncl: |-
+  Takahiro Takayama
+valeria_castellino_noe: |-
+  Valeria Castellino
+veronica_m__reyes_pena_noa: |-
+  Verónica M. Reyes Peña
+andi_gibson_unknown: |-
+  Andi Gibson
+hasegawa_takamichi_mls: |-
+  Takamichi Hasegawa
+hayashi_masaki_dh: |-
+  Masaki Hayashi
+hori_akina_imagica_bhe: |-
+  Akina Hori
+israel_cruz-morales_noa: |-
+  Israel Cruz-Morales
+kitahara_kazuki_mls: |-
+  Kazuki Kitahara
+masuda_soichiro_cri: |-
+  Soichiro Masuda
+masuji_shoya_ncl: |-
+  Shoya Masuji
+maya_aoki_tuttle_unknown: |-
+  Maya Aoki Tuttle
+mori_masaki_mc: |-
+  Masaki Mori
+nerea_alfonso_unknown: |-
+  Nerea Alfonso
+nozaki_yuka_bbds: |-
+  Yuka Nozaki
+ptw_korea_co___ltd__corp: |-
+  PTW Korea Co., Ltd.
+sakooka_yosuke_srd: |-
+  Yosuke Sakooka
+sato_kazuya_charabans: |-
+  Kazuya Sato
+takuya_goto_shirogumi: |-
+  Takuya Goto
+tokunaga_masahiro_dh: |-
+  Masahiro Tokunaga
+yabashi_shotaro_seven dreams: |-
+  Shotaro Yabashi
+yamazaki_ayumi_mls: |-
+  Ayumi Yamazaki
+yasukawa_tatsuya_mls: |-
+  Tatsuya Yasukawa
+yunjin_park_nok: |-
+  Yunjin Park
+cameron_johnson_noa: |-
+  Cameron Johnson
+hector_arvizu_noa: |-
+  Hector Arvizu
+horikoshi_chie_unknown: |-
+  Chie Horikoshi
+kimura_taiki_bbds: |-
+  Taiki Kimura
+koizumi_haruka_mls: |-
+  Haruka Koizumi
+maruta_kohei_bbds: |-
+  Kohei Maruta
+moriwaki_tadafumi_dh: |-
+  Tadafumi Moriwaki
+motomiya_tadatsugu_mls: |-
+  Tadatsugu Motomiya
+ryan_bristol_noa: |-
+  Ryan Bristol
+sato_kohei_mls: |-
+  Kohei Sato
+smileorder_co___ltd__corp: |-
+  SmileOrder Co., Ltd.
+takamatsu_hiroki__mls: |-
+  Hiroki Takamatsu
+takemura_yuji_mls: |-
+  Yuji Takemura
+akitomi_osamu_dh: |-
+  Osamu Akitomi
+dario_ramirez_unknown: |-
+  Darío Ramírez
+frederic_souterelle_unknown: |-
+  Frédéric Souterelle
+miura_koichi_ncl: |-
+  Koichi Miura
+morgan_ritchie_noa: |-
+  Morgan Ritchie
+morita_tomomi_seven dreams: |-
+  Tomomi Morita
+moriya_takashi_pmc: |-
+  Takashi Moriya
+murata_kazuma_dh: |-
+  Kazuma Murata
+nakashima_keisuke_pmc: |-
+  Keisuke Nakashima
+nathalie_sionneau_unknown: |-
+  Nathalie Sionneau
+okawa_takafumi_ncl: |-
+  Takafumi Okawa
+pepe_antequera_unknown: |-
+  Pepe Antequera
+ruben_moya_unknown: |-
+  Rubén Moya
+sakata_yuma_ncl: |-
+  Yuma Sakata
+viola_muller_unknown: |-
+  Viola Müller
+zoran_tasevski_noe: |-
+  Zoran Tasevski
+ayashiro_aimi_mc: |-
+  Aimi Ayashiro
+endo_tatsuya_nac: |-
+  Tatsuya Endo
+hosoi_osamu_artsvision: |-
+  Osamu Hosoi
+ishibashi_lushia_bbds: |-
+  Lushia Ishibashi
+ishimaru_chieri_digitalfrontier: |-
+  Chieri Ishimaru
+ito_yui_mls: |-
+  Yui Ito
+jose_mejino_noa: |-
+  Jose Mejino
+kaburagi_rina_imagica_bhe: |-
+  Rina Kaburagi
+ono_hayato_mc: |-
+  Hayato Ono
+syu_pansi_cri: |-
+  Pansi Syu
+takeda_junko_imagica: |-
+  Junko Takeda
+tominaga_umi_cri: |-
+  Umi Tominaga
+tony_ferreira_noa: |-
+  Tony Ferreira
+watanabe_kei_mls: |-
+  Kei Watanabe
+christopher_yepes-barron_noa: |-
+  Christopher Yepes-Barron
+hirooka_taiki_pmc: |-
+  Taiki Hirooka
+hirose_hideaki_mls: |-
+  Hideaki Hirose
+iwasawa_tomoya_imagica: |-
+  Tomoya Iwasawa
+moriyasu_shinya_mls: |-
+  Shinya Moriyasu
+nagai_daisuke_dh: |-
+  Daisuke Nagai
+ohashi_masato_ncl: |-
+  Masato Ohashi
+sara_hoad_noa: |-
+  Sara Hoad
+sawada_yoshiyuki_ncl: |-
+  Yoshiyuki Sawada
+sol_plata_loera_noa: |-
+  Sol Plata Loera
+yanagisawa_takayuki_ncl: |-
+  Takayuki Yanagisawa
+yodawara_makoto_qualia writers: |-
+  Makoto Yodawara
+yonemori_yuki_imagica: |-
+  Yuki Yonemori
+alfonso_diaz_jimenez_noe: |-
+  Alfonso Díaz Jiménez
+amelia_gotham_unknown: |-
+  Amelia Gotham
+endo_isamu_ncl: |-
+  Isamu Endo
+fujino_yohei_ncl: |-
+  Yohei Fujino
+fukuda_miki_dh: |-
+  Miki Fukuda
+hakodate_narimasa_mc: |-
+  Narimasa Hakodate
+hazama_yuki_ncl: |-
+  Yuki Hazama
+horikoshi_ryohei_cri: |-
+  Ryohei Horikoshi
+julia_bianco_schoeffling_unknown: |-
+  Julia Bianco Schoeffling
+kitaura_tomoya_dh: |-
+  Tomoya Kitaura
+sato_haruki_ncl: |-
+  Haruki Sato
+soonil_kim_nok: |-
+  Soonil Kim
+tada_makoto_ncl: |-
+  Makoto Tada
+tom_hertzog_noa: |-
+  Tom Hertzog
+yasuda_takuro_ncl: |-
+  Takuro Yasuda
+yayun_ling_ique: |-
+  Yayun Ling
+yokota_mahito_ncl: |-
+  Mahito Yokota
+yuasa_kengo_mls: |-
+  Kengo Yuasa
+andy_soto_noa: |-
+  Andy Soto
+brynne_caudill_noa: |-
+  Brynne Caudill
+fukada_naoki_ncl: |-
+  Naoki Fukada
+honda_masahito_shirogumi: |-
+  Masahito Honda
+ishizuka_masaya_imagica_bhe: |-
+  Masaya Ishizuka
+james_d__mortellaro_unknown: |-
+  James D. Mortellaro
+sato_katsuhisa_ncl: |-
+  Katsuhisa Sato
+fujiwara_mamoru_cri: |-
+  Mamoru Fujiwara
+giulia_maniglio_unknown: |-
+  Giulia Maniglio
+hirose_kenichi_ncl: |-
+  Kenichi Hirose
+inna_talalay_noe: |-
+  Inna Talalay
+mikami_tatsuro_mls: |-
+  Tatsuro Mikami
+nasser_najafian_shirogumi: |-
+  Najafian Nasser
+sam_buquen_noa: |-
+  Sam Buquen
+shiihara_karon_ncl: |-
+  Karon Shiihara
+studio_oops_inc__corp: |-
+  Studio Oops Inc.
+suzuki_tomoe_mls: |-
+  Tomoe Suzuki
+william__chip__beaman_unknown: |-
+  William "Chip" Beaman
+yokoi_mitsuya_imagica_bhe: |-
+  Mitsuya Yokoi
+yoram_schipper_noe: |-
+  Yoram Schipper
+ahmed_bounouar_noe: |-
+  Ahmed Bounouar
+domoto_atsushi_mls: |-
+  Atsushi Domoto
+emily_stansell_noa: |-
+  Emily Stansell
+inomata_hirotoki_shirogumi: |-
+  Hirotoki Inomata
+maribel_pomar_unknown: |-
+  Maribel Pomar
+morimoto_atsuya_dh: |-
+  Atsuya Morimoto
+morita_yudai_imagica: |-
+  Yudai Morita
+sasaki_osamu_imagica: |-
+  Osamu Sasaki
+shida_aya_ncl: |-
+  Aya Shida
+valerie_bachere_unknown: |-
+  Valérie Bachère
+yanett_cepeda_valor_noa: |-
+  Yanett Cepeda Valor
+brian_carlson_noa: |-
+  Brian Carlson
+daniele_braglia_noe: |-
+  Daniele Braglia
+inoue_takahiro_imagica_bhe: |-
+  Takahiro Inoue
+izumi_yohei_ncl: |-
+  Yohei Izumi
+kawasaki_nao_mc: |-
+  Nao Kawasaki
+kikuchi_kohei_nac: |-
+  Kohei Kikuchi
+kunitake_riwa_mc: |-
+  Riwa Kunitake
+kuriyama_ryoshun_dh: |-
+  Ryoshun Kuriyama
+maejima_kazunori_ncl: |-
+  Kazunori Maejima
+massimiliano_lotti_unknown: |-
+  Massimiliano Lotti
+megan_best_noa: |-
+  Megan Best
+mori_takato_dh: |-
+  Takato Mori
+nishimura_naoko_dh: |-
+  Naoko Nishimura
+reiko_ninomiya_noa: |-
+  Reiko Ninomiya
+salvador_martinez_unknown: |-
+  Salvador Martínez
+shibayama_yasunori_mc: |-
+  Yasunori Shibayama
+takao_yasuhiro_ncl: |-
+  Yasuhiro Takao
+taniyama_naomi_quackluck: |-
+  Naomi Taniyama
+yato_shinji_mls: |-
+  Shinji Yato
+48_windows_santa_monica__ca_corp: |-
+  48 Windows Santa Monica, CA
+alan_velazquez_unknown: |-
+  Alan Velázquez
+arne_glinka_noe: |-
+  Arne Glinka
+chihiro_ogawa_ncl: |-
+  Chihiro Ogawa
+damir_gadylyaev_noe: |-
+  Damir Gadylyaev
+erin_peterson_noa: |-
+  Erin Peterson
+frithjof_koepp_noe: |-
+  Frithjof Koepp
+hoshino_ayaka_bbds: |-
+  Ayaka Hoshino
+inoue_kengo_mls: |-
+  Kengo Inoue
+iwamoto_akira_shirogumi: |-
+  Akira Iwamoto
+katsuyama_akihiko_dh: |-
+  Akihiko Katsuyama
+koganemaru_shun_nac: |-
+  Shun Koganemaru
+monserrat_licona_unknown: |-
+  Monserrat Licona
+orsolya_karolyi_mc: |-
+  Orsolya Karolyi
+sven_potzl_noe: |-
+  Sven Pötzl
+yamamoto_junichi_imagica: |-
+  Junichi Yamamoto
+adriano_antonini_noe: |-
+  Adriano Antonini
+cassandra_valtier_unknown: |-
+  Cassandra Valtier
+kaji_yuki_ncl: |-
+  Yuki Kaji
+kaori_hia_mc: |-
+  Kaori Hia
+lennart_rotteveel_noe: |-
+  Lennart Rotteveel
+matsutani_kenji_srd: |-
+  Kenji Matsutani
+matthieu_lamouroux_noe: |-
+  Matthieu Lamouroux
+miguel_angel_jenner_unknown: |-
+  Miguel Ángel Jenner
+shimoda_rei_kenproduction: |-
+  Rei Shimoda
+uechi_takafumi_mls: |-
+  Takafumi Uechi
+yoshida_shigeki_ncl: |-
+  Shigeki Yoshida
+zac_evans_noa: |-
+  Zac Evans
+haven_bloome_noa: |-
+  Haven Bloome
+ishihara_kiyomitsu_smileorder: |-
+  Kiyomitsu Ishihara
+jeffrey_storbo_noa: |-
+  Jeffrey Storbo
+kamijima_aya_bbds: |-
+  Aya Kamijima
+komatsubara_natsuo_mls: |-
+  Natsuo Komatsubara
+motonari_rie_mls: |-
+  Rie Motonari
+robert_banks_noa: |-
+  Robert Banks
+sean_shen_nhl: |-
+  Sean Shen
+suwa_sayaka_mls: |-
+  Sayaka Suwa
+taketoshi_takehisa_ncl: |-
+  Takehisa Taketoshi
+tateno_saburo_mls: |-
+  Saburo Tateno
+tsuneyama_daiki_mls: |-
+  Daiki Tsuneyama
+antje_von_der_ahe_unknown: |-
+  Antje von der Ahe
+aratani_tomoe_ncl: |-
+  Tomoe Aratani
+carlos_garcia-perez_noa: |-
+  Carlos Garcia-Perez
+heather_gonzalez_unknown: |-
+  Heather Gonzalez
+hokama_kango_mls: |-
+  Kango Hokama
+kato_urara_imagica_bhe: |-
+  Urara Kato
+keisuke_fukushima_mc: |-
+  Keisuke Fukushima
+kitayama_shigetoshi_ncl: |-
+  Shigetoshi Kitayama
+kubota_reimi_thoris: |-
+  Reimi Kubota
+maxwell_stevens_noa: |-
+  Maxwell Stevens
+ou_jika_imagica_bhe: |-
+  Jika Ou
+sascha_michalke_noe: |-
+  Sascha Michalke
+sato_hiroki_pmc: |-
+  Hiroki Sato
+sawai_kanta_mc: |-
+  Kanta Sawai
+tanaka_jun_mls: |-
+  Jun Tanaka
+xiaochun_qiu_ique: |-
+  Xiaochun Qiu
+yamagishi_kazuma_imagica_bhe: |-
+  Kazuma Yamagishi
+zerowave_inc_corp: |-
+  ZEROWAVE,Inc
+clara_schwarze_unknown: |-
+  Clara Schwarze
+daniel_peterson_noa: |-
+  Daniel Peterson
+dongyeon_kim_nok: |-
+  Dongyeon Kim
+hosokawa_mareki_ncl: |-
+  Mareki Hosokawa
+kawahara_saeko_mls: |-
+  Saeko Kawahara
+koresawa_takumi_mls: |-
+  Takumi Koresawa
+matsuzawa_takahiro_mls: |-
+  Takahiro Matsuzawa
+miya_seeley_noa: |-
+  Miya Seeley
+oshimi_ayano_mls: |-
+  Ayano Oshimi
+park_jonghoon_ncl: |-
+  Jonghoon Park
+sasaki_motohiro_seven dreams: |-
+  Motohiro Sasaki
+takechi_naoya_mc: |-
+  Naoya Takechi
+wada_kota_ncl: |-
+  Kota Wada
+yamada_taku_mls: |-
+  Taku Yamada
+alex_anderson_noa: |-
+  Alex Anderson
+angelica_cervantes_unknown: |-
+  Angélica Cervantes
+araki_kosuke_pmc: |-
+  Kosuke Araki
+asaba_keisuke_seven dreams: |-
+  Keisuke Asaba
+charlie_gondak_unknown: |-
+  Charlie Gondak
+fujimoto_hiroaki_imagica: |-
+  Hiroaki Fujimoto
+fukumoto_koki_imagica_bhe: |-
+  Koki Fukumoto
+giaime_carbonara_noe: |-
+  Giaime Carbonara
+hagai_mari_artsvision: |-
+  Mari Hagai
+hashizume_yuki_srd: |-
+  Yuki Hashizume
+ikeda_takeshi_mc: |-
+  Takeshi Ikeda
+imoto_daisuke_mls: |-
+  Daisuke Imoto
+julio_manzaneda_medina_noe: |-
+  Julio Manzaneda Medina
+kanchi_taishi_mc: |-
+  Taishi Kanchi
+matsuzawa_aika_cri: |-
+  Aika Matsuzawa
+nemoto_mafuyu_bbds: |-
+  Mafuyu Nemoto
+nishiki_takumi_imagica_bhe: |-
+  Takumi Nishiki
+saito_akiko_mls: |-
+  Akiko Saito
+sako_miyuu_mls: |-
+  Miyuu Sako
+totai_miho_cri: |-
+  Miho Totai
+alessandro_germano_unknown: |-
+  Alessandro Germano
+alisa_efimenko_unknown: |-
+  Alisa Efimenko
+arai_yuta_anima: |-
+  Yuta Arai
+audrey_drake_rigg_noa: |-
+  Audrey Drake Rigg
+christian_zeiger_unknown: |-
+  Christian Zeiger
+daniel_bracy_noa: |-
+  Daniel Bracy
+dmitrii_kaloev_noe: |-
+  Dmitrii Kaloev
+gerardo_reyero_unknown: |-
+  Gerardo Reyero
+inoue_naoki_mc: |-
+  Naoki Inoue
+marta_barbara_unknown: |-
+  Marta Barbará
+miyuki_matsunaga_noa: |-
+  Miyuki Matsunaga
+moroi_daiki_polycraft: |-
+  Daiki Moroi
+nakamura_hiroki_mls: |-
+  Hiroki Nakamura
+ricardo_tejedo_unknown: |-
+  Ricardo Tejedo
+sawada_mariko_mls: |-
+  Mariko Sawada
+scot_ritchey_noa: |-
+  Scot Ritchey
+sekimoto_takahito_mls: |-
+  Takahito Sekimoto
+sekine_kazuki_imagica_bhe: |-
+  Kazuki Sekine
+shimizu_hidenori_mls: |-
+  Hidenori Shimizu
+shimizu_miku_ncl: |-
+  Miku Shimizu
+takamura_yuji_dh: |-
+  Yuji Takamura
+todo_hiroaki_mls: |-
+  Hiroaki Todo
+yagi_takao_qualia writers: |-
+  Takao Yagi
+_____bauhaus_entertainment_corp: |-
+     / BAUHAUS ENTERTAINMENT
+arai_shuhei_mls: |-
+  Shuhei Arai
+eladio_bazaldua_noa: |-
+  Eladio Bazaldua
+koizumi_yuki_shirogumi: |-
+  Yuki Koizumi
+lupita_leal_unknown: |-
+  Lupita Leal
+marco_morbin_noe: |-
+  Marco Morbin
+mark_camperell__cas_mpse_unknown: |-
+  Mark Camperell, CAS MPSE
+minji_chhaysy-park_noa: |-
+  Minji Chhaysy-Park
+murakami_tatsuya_imagica: |-
+  Tatsuya Murakami
+ohata_norimasa_shirogumi: |-
+  Norimasa Ohata
+sato_koichi_ncl: |-
+  Koichi Sato
+shimizu_haruka_kenproduction: |-
+  Haruka Shimizu
+tomita_ryuki_dh: |-
+  Ryuki Tomita
+tsuchiya_mariko_mls: |-
+  Mariko Tsuchiya
+tsuji_yuki_ncl: |-
+  Yuki Tsuji
+tyler_fragie_noa: |-
+  Tyler Fragie
+usui_jyunichi_ncl: |-
+  Jyunichi Usui
+alexey_vladimirovich_voytyuk_unknown: |-
+  Alexey Vladimirovich Voytyuk
+aoki_rika_mls: |-
+  Rika Aoki
+honne_yasuyuki_mls: |-
+  Yasuyuki Honne
+kyle_melendez_daigre_noa: |-
+  Kyle Melendez Daigre
+laura_monedero_unknown: |-
+  Laura Monedero
+narigasawa_noboru_mls: |-
+  Noboru Narigasawa
+osako_satoru_ncl: |-
+  Satoru Osako
+takahito_kishi_bbds: |-
+  Takahito Kishi
+taniguchi_hiroki_zerowave: |-
+  Hiroki Taniguchi
+tateishi_shunsuke_mls: |-
+  Shunsuke Tateishi
+will_grimme_noa: |-
+  Will Grimme
+clemence_dieryck_noe: |-
+  Clémence Dieryck
+hanako_furuya_noe: |-
+  Hanako Furuya
+hisamatsu_kohei_bbds: |-
+  Kohei Hisamatsu
+iwai_ryota_ncl: |-
+  Ryota Iwai
+mashimo_miho_imagica_bhe: |-
+  Miho Mashimo
+matsumoto_akira_pmc: |-
+  Akira Matsumoto
+monolithsoftware_inc__corp: |-
+  MONOLITHSOFTWARE INC.
+morise_yuko_animationcafe: |-
+  Yuko Morise
+nishida_yutaro_mls: |-
+  Yutaro Nishida
+sean_chiplock_unknown: |-
+  Sean Chiplock
+takahashi_teruaki_mls: |-
+  Teruaki Takahashi
+takami_norihiro_mls: |-
+  Norihiro Takami
+watanabe_shiori_imagica: |-
+  Shiori Watanabe
+yolanda_vidal_unknown: |-
+  Yolanda Vidal
+austin_krier_unknown: |-
+  Austin Krier
+charlyne_pestel_unknown: |-
+  Charlyne Pestel
+josh_ratsavong_noa: |-
+  Josh Ratsavong
+kadosaka_yuko_mc: |-
+  Yuko Kadosaka
+maruyama_yukiko_mls: |-
+  Yukiko Maruyama
+michael_sahlin_noa: |-
+  Michael Sahlin
+nagai_tomoyoshi_qtron: |-
+  Tomoyoshi Nagai
+nikolay_bystrov_unknown: |-
+  Nikolay Bystrov
+owen_cooney_noa: |-
+  Owen Cooney
+shinoda_hirohito_ncl: |-
+  Hirohito Shinoda
+toda_masahiko_cri: |-
+  Masahiko Toda
+yamamoto_naoya_ncl: |-
+  Naoya Yamamoto
+yoshida_isami_ncl: |-
+  Isami Yoshida
+ariel_del_rio_de_angelis_noe: |-
+  Ariel del Rio de Angelis
+bruno_gramigna_noe: |-
+  Bruno Gramigna
+gene_pencil_noa: |-
+  Gene Pencil
+melina_rojas_unknown: |-
+  Melina Rojas
+miyagawa_yohei_ncl: |-
+  Yohei Miyagawa
+pepe_tono_macias_unknown: |-
+  Pepe Toño Macías
+raul_llorens_unknown: |-
+  Raúl Llorens
+shiraki_yuumi_mls: |-
+  Yuumi Shiraki
+tsukahara_rina_mls: |-
+  Rina Tsukahara
+elena_shulman_unknown: |-
+  Elena Shulman
+hamabata_yutaka_dh: |-
+  Yutaka Hamabata
+irina_kaffka_noe: |-
+  Irina Kaffka
+iwamoto_daiki_ncl: |-
+  Daiki Iwamoto
+jean-paul_hausmann_noe: |-
+  Jean-Paul Hausmann
+kokubo_yuki_pmc: |-
+  Yuki Kokubo
+miyoshi_maasa_ncl: |-
+  Maasa Miyoshi
+nishihara_erika_mls: |-
+  Erika Nishihara
+saheki_yusuke_digitalfrontier: |-
+  Yusuke Saheki
+takuya_nishiwaki_noa: |-
+  Takuya Nishiwaki
+tatsumi_tomoaki_mc: |-
+  Tomoaki Tatsumi
+tsukasa_tashiro_bbds: |-
+  Tsukasa Tashiro
+ueno_kimihiro_shirogumi: |-
+  Kimihiro Ueno
+watanabe_kazuhiko_digitalfrontier: |-
+  Kazuhiko Watanabe
+yamada_kota_seven dreams: |-
+  Kota Yamada
+carson_buck-flinchum_noa: |-
+  Carson Buck-Flinchum
+emmanuel_millan_unknown: |-
+  Emmanuel Millán
+frances_eckrich_noa: |-
+  Frances Eckrich
+higuchi_osamu_srd: |-
+  Osamu Higuchi
+hikosaka_maino_imagica: |-
+  Maino Hikosaka
+iwase_satoko_mls: |-
+  Satoko Iwase
+joe_hernandez_unknown: |-
+  Joe Hernandez
+kasai_yosuke_ncl: |-
+  Yosuke Kasai
+kometani_saori_mls: |-
+  Saori Kometani
+shimizu_daisuke_ncl: |-
+  Daisuke Shimizu
+toda_akihito_individual: |-
+  Akihito Toda
+toya_kazutaka_mls: |-
+  Kazutaka Toya
+akita_shinobu_dh: |-
+  Shinobu Akita
+caroline_mozzone_unknown: |-
+  Caroline Mozzone
+chiba_tadashi_pmc: |-
+  Tadashi Chiba
+david_causseque_noe: |-
+  David Caussèque
+kerri_shak_unknown: |-
+  Kerri Shak
+kyoungim_na_nok: |-
+  Kyoungim Na
+ludovic_tientcheu_ponkin_noa: |-
+  Ludovic Tientcheu Ponkin
+miura_moe_mls: |-
+  Moe Miura
+morinaga_tabi_ncl: |-
+  Tabi Morinaga
+nishimura_toshiki_dh: |-
+  Toshiki Nishimura
+oka_rika_dh: |-
+  Rika Oka
+suzuki_mai_cri: |-
+  Mai Suzuki
+yusuke_saito_noa: |-
+  Yusuke Saito
+daniele_alibrandi_noe: |-
+  Daniele Alibrandi
+elisabetta_cesone__unknown: |-
+  Elisabetta Cesone 
+fusegawa_kazuhiro_kenproduction: |-
+  Kazuhiro Fusegawa
+hosoi_kazuhiro_ncl: |-
+  Kazuhiro Hosoi
+iwasaki_kanako_nac: |-
+  Kanako Iwasaki
+kashima_kyosuke_ncl: |-
+  Kyosuke Kashima
+mori_naoki_ncl: |-
+  Naoki Mori
+nagai_yuka_ncl: |-
+  Yuka Nagai
+nora_jokhosha_unknown: |-
+  Nora Jokhosha
+orishige_masato_ncl: |-
+  Masato Orishige
+yanai_emiko_mc: |-
+  Emiko Yanai
+yun_hyeongmin_rococo: |-
+  Hyeongmin Yun
+cristina_sola_picas_noe: |-
+  Cristina Solà Picas
+daniel_riordan_unknown: |-
+  Daniel Riordan
+haruka_sliwinski_mc: |-
+  Haruka Sliwinski
+kagami_riki_artsvision: |-
+  Riki Kagami
+kobayashi_ryuji_ncl: |-
+  Ryuji Kobayashi
+martina_deimel_noe: |-
+  Martina Deimel
+matsuta_hitomi_ncl: |-
+  Hitomi Matsuta
+matt_mercer_unknown: |-
+  Matt Mercer
+obata_wataru_mls: |-
+  Wataru Obata
+ohno_shotaro_mls: |-
+  Shotaro Ohno
+takahashi_kazuma_ncl: |-
+  Kazuma Takahashi
+takanashi_kengo_artsvision: |-
+  Kengo Takanashi
+tokita_takuma_ncl: |-
+  Takuma Tokita
+awanohara_megumi_unknown: |-
+  Megumi Awanohara
+endo_kazuyuki_ncl: |-
+  Kazuyuki Endo
+hirai_naoki_mls: |-
+  Naoki Hirai
+inoue_yasutaka_bbds: |-
+  Yasutaka Inoue
+iwasa_yuhei_mls: |-
+  Yuhei Iwasa
+kidera_shiori_mls: |-
+  Shiori Kidera
+koide_kana_dh: |-
+  Kana Koide
+leo_mcdonagh_noe: |-
+  Leo McDonagh
+nagata_yosuke_nac: |-
+  Yosuke Nagata
+nohara_mari_mls: |-
+  Mari Nohara
+paulina_weiner_unknown: |-
+  Paulina Weiner
+scott_willson_noa: |-
+  Scott Willson
+seita_ryoma_mls: |-
+  Ryoma Seita
+stacey_gray_unknown: |-
+  Stacey Gray
+tamaoki_kota_mls: |-
+  Kota Tamaoki
+terashima_akane_mc: |-
+  Akane Terashima
+wakata_yukinobu_cri: |-
+  Yukinobu Wakata
+brigitte_aubry_unknown: |-
+  Brigitte Aubry
+catherine_higgins_unknown: |-
+  Catherine Higgins
+cherami_leigh_unknown: |-
+  Cherami Leigh
+crowyn_kaisa_noa: |-
+  Crowyn Kaisa
+kuboki_takashi_mls: |-
+  Takashi Kuboki
+matsuzaki_yusuke_dh: |-
+  Yusuke Matsuzaki
+namiki_kazama_seven dreams: |-
+  Kazama Namiki
+ogawa_yusuke_mls: |-
+  Yusuke Ogawa
+osawa_hiroyoshi_mls: |-
+  Hiroyoshi Osawa
+rhiannon_winkler_noa: |-
+  Rhiannon Winkler
+takahashi_shinichiro_dh: |-
+  Shinichiro Takahashi
+brianna_ferderer_noa: |-
+  Brianna Ferderer
+ichimura_natsuko_mls: |-
+  Natsuko Ichimura
+ikeda_ryunoshin_mls: |-
+  Ryunoshin Ikeda
+lina_ivanova_unknown: |-
+  Lina Ivanova
+natalia_kaznacheeva_unknown: |-
+  Natalia Kaznacheeva
+sean_kennedy_noa: |-
+  Sean Kennedy
+shirakawa_mari_ncl: |-
+  Mari Shirakawa
+stefania_montagnese_noe: |-
+  Stefania Montagnese
+tamura_riyu_ncl: |-
+  Riyu Tamura
+tanaka_hideki_mls: |-
+  Hideki Tanaka
+anima_inc__corp: |-
+  anima Inc.
+cesar_perez_noa: |-
+  César Pérez
+grace_yon_noe: |-
+  Grace Yon
+inomata_ryo_ncl: |-
+  Ryo Inomata
+inoue_kojiro_ncl: |-
+  Kojiro Inoue
+kobayashi_daisuke_digitalfrontier: |-
+  Daisuke Kobayashi
+kumagai_kanaru_mls: |-
+  Kanaru Kumagai
+nagahara_kazuhito_mc: |-
+  Kazuhito Nagahara
+nagano_aya_pmc: |-
+  Aya Nagano
+takahashi_atsushi_pmc: |-
+  Atsushi Takahashi
+yuki_kazunari_seven dreams: |-
+  Kazunari Yuki
+charabans_inc__corp: |-
+  charabans,inc.
+ikeno_masaki_ncl: |-
+  Masaki Ikeno
+morizane_honami_individual: |-
+  Honami Morizane
+nagame_kota_mc: |-
+  Kota Nagame
+pedro_jose_moreno_villar_noe: |-
+  Pedro José Moreno Villar
+sam_abouharb_noa: |-
+  Sam AbouHarb
+sato_megumi_dh: |-
+  Megumi Sato
+artsvision_co__ltd__corp: |-
+  ARTSVISION Co.,Ltd.
+digital_frontier_inc__corp: |-
+  DIGITAL FRONTIER Inc.
+ebisawa_yasushi_ncl: |-
+  Yasushi Ebisawa
+hamaura_minoru_srd: |-
+  Minoru Hamaura
+ichimiya_kazuma_mls: |-
+  Kazuma Ichimiya
+izutsu_haruka_mls: |-
+  Haruka Izutsu
+jacopo_calatroni_unknown: |-
+  Jacopo Calatroni
+justin_dyke_noa: |-
+  Justin Dyke
+kagino_sota_ncl: |-
+  Sota Kagino
+kentaro_nishimura_noa: |-
+  Kentaro Nishimura
+miyazaki_mayuko_imagica_bhe: |-
+  Mayuko Miyazaki
+neuron_age_co__ltd__corp: |-
+  NEURON･AGE CO.,LTD.
+osada_junya_ncl: |-
+  Junya Osada
+simone_morelli_noe: |-
+  Simone Morelli
+suzuki_keita_dh: |-
+  Keita Suzuki
+takei_masahiro_mls: |-
+  Masahiro Takei
+takeuchi_yasutaka_ncl: |-
+  Yasutaka Takeuchi
+yamaguchi_kyoko_kenproduction: |-
+  Kyoko Yamaguchi
+adriana_casas_unknown: |-
+  Adriana Casas
+alessandro_zurla_unknown: |-
+  Alessandro Zurla
+anastasiia_voronkova_noe: |-
+  Anastasiia Voronkova
+hari_leigh_unknown: |-
+  Hari Leigh
+iida_mitsuo_mls: |-
+  Mitsuo Iida
+kato_masasumi_dh: |-
+  Masasumi Kato
+kawaguchi_eriko_mls: |-
+  Eriko Kawaguchi
+kobayashi_riki_ncl: |-
+  Riki Kobayashi
+localsoft__s_l___corp: |-
+  Localsoft, S.L. 
+miyagawa_shun_nac: |-
+  Shun Miyagawa
+ryan_christopherson_noa: |-
+  Ryan Christopherson
+takahashi_naoto_mls: |-
+  Naoto Takahashi
+yusa_takuya_mls: |-
+  Takuya Yusa
+evan_bauer_noa: |-
+  Evan Bauer
+fujisaki_makoto_smileorder: |-
+  Makoto Fujisaki
+kim_yoori_pmc: |-
+  Yoori Kim
+nich_maragos_noa: |-
+  Nich Maragos
+ogiwara_yuji_pmc: |-
+  Yuji Ogiwara
+sakamoto_tadashi_ncl: |-
+  Tadashi Sakamoto
+samara_wagner_noa: |-
+  Samara Wagner
+sato_hiroyasu_mls: |-
+  Hiroyasu Sato
+takaki_shogo_ncl: |-
+  Shogo Takaki
+takeshita_yoshitaka_srd: |-
+  Yoshitaka Takeshita
+william_iamazi_ferro_mls: |-
+  William Iamazi Ferro
+alejandro_silva_unknown: |-
+  Alejandro Silva
+astro production_inc__corp: |-
+  Astro Production Inc.
+colton_bankhead_noa: |-
+  Colton Bankhead
+furutani_kaito_imagica_bhe: |-
+  Kaito Furutani
+hiromatsu_serika_kenproduction: |-
+  Serika Hiromatsu
+kanou_hideki_imagica: |-
+  Hideki Kanou
+kurei_hiroki_animationcafe: |-
+  Hiroki Kurei
+marcia_toledo_noa: |-
+  Marcia Toledo
+mason_lange_noa: |-
+  Mason Lange
+nicko_gonzalez_noa: |-
+  Nicko Gonzalez
+taguchi_hiroki_ncl: |-
+  Hiroki Taguchi
+taniyama_tetsuya_mls: |-
+  Tetsuya Taniyama
+tomoko_henley_noa: |-
+  Tomoko Henley
+watanabe_shota_ncl: |-
+  Shota Watanabe
+yamane_ayaka_mc: |-
+  Ayaka Yamane
+adeline_chetail_unknown: |-
+  Adeline Chetail
+andy_kolden_noa: |-
+  Andy Kolden
+aristides_gomez_animationcafe: |-
+  Gomez Aristides
+azuma_ayahiko_mls: |-
+  Ayahiko Azuma
+barbara_pisani_noe: |-
+  Barbara Pisani
+carlo_esposito_noa: |-
+  Carlo Esposito
+dirk_petrick_unknown: |-
+  Dirk Petrick
+hayashidani_daiki_mls: |-
+  Daiki Hayashidani
+imai_takehiro_mls: |-
+  Takehiro Imai
+kirk_buchanan_noa: |-
+  Kirk Buchanan
+maruyama_yuka_kenproduction: |-
+  Yuka Maruyama
+nomura_tadashi_mls: |-
+  Tadashi Nomura
+raul_guerrero_plaza_noe: |-
+  Raúl Guerrero Plaza
+sanda_atsushi_dh: |-
+  Atsushi Sanda
+srd_co___ltd__corp: |-
+  SRD Co., Ltd.
+steven_grimm_noa: |-
+  Steven Grimm
+takahashi_miwa_mls: |-
+  Miwa Takahashi
+uchino_yuta_seven dreams: |-
+  Yuta Uchino
+uematsu_haruya_ncl: |-
+  Haruya Uematsu
+uno_kanako_mls: |-
+  Kanako Uno
+young_kim_noa: |-
+  Young Kim
+animationcafe_inc__corp: |-
+  AnimationCafe INC.
+aonuma_eiji_unknown: |-
+  Eiji Aonuma
+corey_bunnell_ncl: |-
+  Corey Bunnell
+iwasaki_ryo_artsvision: |-
+  Ryo Iwasaki
+masuzawa_erina_mls: |-
+  Erina Masuzawa
+nara_hiroki_mls: |-
+  Hiroki Nara
+nic_romm_unknown: |-
+  Nic Romm
+ooka_yumi_dynapix: |-
+  Yumi Ooka
+sakaguchi_yuma_neuron: |-
+  Yuma Sakaguchi
+shinozaki_yuki_pmc: |-
+  Yuki Shinozaki
+soga_hiroyuki_mls: |-
+  Hiroyuki Soga
+thoris_co___ltd__corp: |-
+  Thoris Co., Ltd.
+yamada_tomohiro_anima: |-
+  Tomohiro Yamada
+yonezu_makoto_ncl: |-
+  Makoto Yonezu
+aamer_khan_noa: |-
+  Aamer Khan
+biwasaka_shinichiro_ncl: |-
+  Shinichiro Biwasaka
+hino_miho_kenproduction: |-
+  Miho Hino
+iga_naomi_ncl: |-
+  Naomi Iga
+jason_mahaffa_noa: |-
+  Jason Mahaffa
+kawashima_akihiro_seven dreams: |-
+  Akihiro Kawashima
+miyagi_shoya_mls: |-
+  Shoya Miyagi
+monserrat_mendoza_gonzalez_unknown: |-
+  Monserrat Mendoza González
+moriyama_toyoharu_mls: |-
+  Toyoharu Moriyama
+sato_hideki_imagica_bhe: |-
+  Hideki Sato
+shimamura_tatsuya_imagica_bhe: |-
+  Tatsuya Shimamura
+suga_yuri_imagica_bhe: |-
+  Yuri Suga
+tamamori_shun_mls: |-
+  Shun Tamamori
+tania_de_domenico_unknown: |-
+  Tania De Domenico
+tilo_schmitz_unknown: |-
+  Tilo Schmitz
+yamaura_tetsuya_ncl: |-
+  Tetsuya Yamaura
+angel_moreno_colmena_noe: |-
+  Ángel Moreno Colmena
+chiba_syusaku_mls: |-
+  Syusaku Chiba
+claudia_smith_noe: |-
+  Claudia Smith
+face_music_corp: |-
+  Face Music
+graham_gidney_noa: |-
+  Graham Gidney
+hasegawa_tomo_cri: |-
+  Tomo Hasegawa
+hishinuma_seiichi_mls: |-
+  Seiichi Hishinuma
+james_dillon_noa: |-
+  James Dillon
+jinbo_chihiro_rococo: |-
+  Chihiro Jinbo
+jonathan_ota_noa: |-
+  Jonathan Ota
+michael_benedetto_noa: |-
+  Michael Benedetto
+muto_michiko_mls: |-
+  Michiko Muto
+ogasawara_shin_imagica: |-
+  Shin Ogasawara
+omatsu_saina_mls: |-
+  Saina Omatsu
+sofia_o_connell_unknown: |-
+  Sofia O'Connell
+takeguchi_masahiro_ncl: |-
+  Masahiro Takeguchi
+takita_saki_ncl: |-
+  Saki Takita
+yoshizawa_ryo_dh: |-
+  Ryo Yoshizawa
+arimitsu_masahiro_mls: |-
+  Masahiro Arimitsu
+hamaya_yuta_unknown: |-
+  Yuta Hamaya
+hana_sova_noa: |-
+  Hana Sova
+higashi_tomomichi_imagica_bhe: |-
+  Tomomichi Higashi
+kato_atsuko_qtron: |-
+  Atsuko Kato
+kevin_murray_noe: |-
+  Kevin Murray
+laetitia_lefebvre_unknown: |-
+  Laëtitia Lefebvre
+mizoguchi_karen_mls: |-
+  Karen Mizoguchi
+polycraft_co___ltd__corp: |-
+  Polycraft Co., Ltd.
+scott_crisp_unknown: |-
+  Scott Crisp
+tsurunosono_ryuichi_dynapix: |-
+  Ryuichi Tsurunosono
+chaen_ichiro_imagica: |-
+  Ichiro Chaen
+daijiro_imoto_noa: |-
+  Daijiro Imoto
+empty_sea_audio_corp: |-
+  Empty Sea Audio
+florian_hoffmann_unknown: |-
+  Florian Hoffmann
+hirano_hiroki_ncl: |-
+  Hiroki Hirano
+irina_indigo_unknown: |-
+  Irina Índigo
+isokane_takahiro_srd: |-
+  Takahiro Isokane
+julia_casper_unknown: |-
+  Julia Casper
+kimura_daiki_srd: |-
+  Daiki Kimura
+kobayashi_takuya_dh: |-
+  Takuya Kobayashi
+magdalena_turba_unknown: |-
+  Magdalena Turba
+marcel_navarro_unknown: |-
+  Marcel Navarro
+ochi_shoka_ncl: |-
+  Shoka Ochi
+sakai_yutaro_ncl: |-
+  Yutaro Sakai
+thomas_den_haan_noe: |-
+  Thomas den Haan
+tsumita_yuichiro_mls: |-
+  Yuichiro Tsumita
+akasaka_jumpei_ncl: |-
+  Jumpei Akasaka
+hannah_siebert_noe: |-
+  Hannah Siebert
+haze_younts_noa: |-
+  Haze Younts
+jake_lokholm_noa: |-
+  Jake Lokholm
+marjolaine_drouin_noa: |-
+  Marjolaine Drouin
+marta_martin_unknown: |-
+  Marta Martín
+ryan_peterson_noa: |-
+  Ryan Peterson
+sofia_gnyubkina_bbds: |-
+  Sofia Gnyubkina
+takahashi_shinya_unknown: |-
+  Shinya Takahashi
+ty_cummings_noa: |-
+  Ty Cummings
+yamanaka_tomoyo_mls: |-
+  Tomoyo Yamanaka
+aoki_kunio_mls: |-
+  Kunio Aoki
+kerygma_flores_unknown: |-
+  Kerygma Flores
+koido_takaaki_mls: |-
+  Takaaki Koido
+kyle_schlagel_noa: |-
+  Kyle Schlagel
+maeda_naoto_imagica_bhe: |-
+  Naoto Maeda
+maxim_onischenko_unknown: |-
+  Maxim Onischenko
+oyama_tomo_ncl: |-
+  Tomo Oyama
+saskia_doorschodt_noe: |-
+  Saskia Doorschodt
+sato_mayu_mls: |-
+  Mayu Sato
+shirogumi_inc__corp: |-
+  SHIROGUMI Inc.
+wei-wei_lin_noa: |-
+  Wei-Wei Lin
+cristina_vee_valenzuela_unknown: |-
+  Cristina Vee Valenzuela
+deborah_morese_unknown: |-
+  Deborah Morese
+gao_fang_cri: |-
+  Fang Gao
+gunnar_friedrich_noe: |-
+  Gunnar Friedrich
+maeda_mai_dh: |-
+  Mai Maeda
+maeno_ryuju_ncl: |-
+  Ryuju Maeno
+shinohara_kota_pmc: |-
+  Kota Shinohara
+tomo_ishiyama_noa: |-
+  Tomo Ishiyama
+ueno_shohei_mc: |-
+  Shohei Ueno
+cgcg_studio_inc__corp: |-
+  CGCG STUDIO Inc.
+hiraoka_manabu_ncl: |-
+  Manabu Hiraoka
+jennifer_wei__unknown: |-
+  Jennifer Weiß
+miyahara_shuta_mls: |-
+  Shuta Miyahara
+mori_wataru_ncl: |-
+  Wataru Mori
+morito_sachi_mc: |-
+  Sachi Morito
+murakami_masatoshi__mls: |-
+  Masatoshi Murakami
+pasquale_miceli_noe: |-
+  Pasquale Miceli
+rene_dawn-claude_unknown: |-
+  René Dawn-Claude
+yajima_takeshi_pmc: |-
+  Takeshi Yajima
+alicia_vega_lamela_noe: |-
+  Alicia Vega Lamela
+cho_yunju_ncl: |-
+  Yunju Cho
+iwata_yuki_dh: |-
+  Yuki Iwata
+joel_mulachs_unknown: |-
+  Joël Mulachs
+kato_ramu_individual: |-
+  Ramu Kato
+kobori_miyuki_kenproduction: |-
+  Miyuki Kobori
+matsukubo_iho_artsvision: |-
+  Iho Matsukubo
+miyagawa_nagisa_individual: |-
+  Nagisa Miyagawa
+mogi_noriko_imagica_bhe: |-
+  Noriko Mogi
+abe_hideaki_ncl: |-
+  Hideaki Abe
+araceli_mazon_figueroa_noe: |-
+  Araceli Mazón Figueroa
+hara_shohei_dynapix: |-
+  Shohei Hara
+immense_graffiti_inc__corp: |-
+  Immense Graffiti Inc.
+ito_daiki_mls: |-
+  Daiki Ito
+kaman_chui_mc: |-
+  Kaman Chui
+kanetani_hitoshi_ncl: |-
+  Hitoshi Kanetani
+karen_yuen_noa: |-
+  Karen Yuen
+kindra_timmerwilke_noa: |-
+  Kindra Timmerwilke
+kristina_sherman_unknown: |-
+  Kristina Sherman
+nishino_akiko_pmc: |-
+  Akiko Nishino
+omote_hiroki_mls: |-
+  Hiroki Omote
+ono_kotaro_dh: |-
+  Kotaro Ono
+q_dequina_noa: |-
+  Q Dequina
+rianti_hidayat_seven dreams: |-
+  Hidayat Rianti
+sawaguchi_hirotake_mls: |-
+  Hirotake Sawaguchi
+sumaki_kazuya_ncl: |-
+  Kazuya Sumaki
+suzuki_hayato_dh: |-
+  Hayato Suzuki
+test_engineering_technicians_noa: |-
+  Test Engineering Technicians
+yamada_yuki_ncl: |-
+  Yuki Yamada
+yamamoto_kazuki_dh: |-
+  Kazuki Yamamoto
+yamamoto_yuta_ncl: |-
+  Yuta Yamamoto
+yoshioka_jun_mls: |-
+  Jun Yoshioka
+akihira_maher_noa: |-
+  Akihira Maher
+ariyoshi_yuki_imagica_bhe: |-
+  Yuki Ariyoshi
+hatanaka_kosei_cri: |-
+  Kosei Hatanaka
+imamura_yoshino_quackluck: |-
+  Yoshino Imamura
+jordan_amaro_ncl: |-
+  Jordan Amaro
+kuramochi_sho_mls: |-
+  Sho Kuramochi
+mathieu_springinsfeld_noe: |-
+  Mathieu Springinsfeld
+nakamura_taro_mls: |-
+  Taro Nakamura
+nakata_takafumi_unknown: |-
+  Takafumi Nakata
+reo_nagumo_s-racer: |-
+  Reo Nagumo
+tanaka_masaki_mls: |-
+  Masaki Tanaka
+typhoon_graphics_co___ltd__corp: |-
+  Typhoon Graphics Co., Ltd.
+egashira_masami_dh: |-
+  Masami Egashira
+furukawa_akira_ncl: |-
+  Akira Furukawa
+guillermo_reinlein_unknown: |-
+  Guillermo Reinlein
+hayami_shun_ncl: |-
+  Shun Hayami
+igarashi_moe_mls: |-
+  Moe Igarashi
+ikeuchi_junki_ncl: |-
+  Junki Ikeuchi
+iwakiri_akari_mls: |-
+  Akari Iwakiri
+jon_mcguire_noa: |-
+  Jon McGuire
+maruko_ryota_ncl: |-
+  Ryota Maruko
+marzia_faustinelli_noe: |-
+  Marzia Faustinelli
+mori_kenichi_nac: |-
+  Kenichi Mori
+saito_tomohisa_ncl: |-
+  Tomohisa Saito
+sasaki_ryota_mls: |-
+  Ryota Sasaki
+takahashi_kazuya_imagica: |-
+  Kazuya Takahashi
+takizaki_hisashi_mc: |-
+  Hisashi Takizaki
+uchiyama_hiroshi_mls: |-
+  Hiroshi Uchiyama
+yamada_shinji_mls: |-
+  Shinji Yamada
+aida_sayaka_artsvision: |-
+  Sayaka Aida
+alessandro_crosa_noe: |-
+  Alessandro Crosa
+elizabeth_maxwell_unknown: |-
+  Elizabeth Maxwell
+florence_d_anterroches_noe: |-
+  Florence d'Anterroches
+frank_caraan_noa: |-
+  Frank Caraan
+ian_haney_noa: |-
+  Ian Haney
+ishida_takeshi_ncl: |-
+  Takeshi Ishida
+iwasaki_shintaro_mls: |-
+  Shintaro Iwasaki
+kataoka_toyoki_ncl: |-
+  Toyoki Kataoka
+koike_majid_unknown: |-
+  Majid Koike
+marco_andrade_noa: |-
+  Marco Andrade
+mario_club_co___ltd__corp: |-
+  Mario Club Co., Ltd.
+negishi_satoshi_shirogumi: |-
+  Satoshi Negishi
+tokuno_akari_dh: |-
+  Akari Tokuno
+yoriko_marusich_noa: |-
+  Yoriko Marusich
+aikawa_natsuki_kenproduction: |-
+  Natsuki Aikawa
+andrei_archakov_unknown: |-
+  Andrei Archakov
+billy_carroll_noa: |-
+  Billy Carroll
+chris_domingo_noa: |-
+  Chris Domingo
+dutch_hixenbaugh_noa: |-
+  Dutch Hixenbaugh
+elizabeth_arteaga_noa: |-
+  Elizabeth Arteaga
+ishiyama_naoki_ncl: |-
+  Naoki Ishiyama
+kay_cal_noa: |-
+  Kay Cal
+kitamura_keigo_quackluck: |-
+  Keigo Kitamura
+kondo_sakie_mc: |-
+  Sakie Kondo
+makiko_szolas_noa: |-
+  Makiko Szolas
+matsuoka_kengo_bbds: |-
+  Kengo Matsuoka
+mogami_tsuguo_kenproduction: |-
+  Tsuguo Mogami
+shimura_nami_mls: |-
+  Nami Shimura
+tanaka_ryunosuke_mls: |-
+  Ryunosuke Tanaka
+teraoka_natsuki_mls: |-
+  Natsuki Teraoka
+urakawa_kanako_mls: |-
+  Kanako Urakawa
+wei_ting_lin_pmc: |-
+  Wei Ting Lin
+yevheniia_galajdova_noe: |-
+  Yevheniia Galajdova
+fujibayashi_hidemaro_ncl: |-
+  Hidemaro Fujibayashi
+fujimoto_chika_dh: |-
+  Chika Fujimoto
+joachim_lust_noe: |-
+  Joachim Lust
+katsuma_kento_digitalfrontier: |-
+  Kento Katsuma
+kawabe_yumiko_imagica_bhe: |-
+  Yumiko Kawabe
+laurent_godinot_noe: |-
+  Laurent Godinot
+morita_tatsuya_cri: |-
+  Tatsuya Morita
+muto_masaki_ncl: |-
+  Masaki Muto
+niitani_ryusuke_ncl: |-
+  Ryusuke Niitani
+patricia_summersett_unknown: |-
+  Patricia Summersett
+shimazu_kuon_mls: |-
+  Kuon Shimazu
+shinoda_erika_mls: |-
+  Erika Shinoda
+soyama_rie_dh: |-
+  Rie Soyama
+sugiura_kanta_imagica_bhe: |-
+  Kanta Sugiura
+tim_o_leary_noa: |-
+  Tim O'Leary
+yamaue_shikou_ncl: |-
+  Shikou Yamaue
+eduardo_zepeda_unknown: |-
+  Eduardo Zepeda
+farahnaz_nikray_free: |-
+  Nikray Farahnaz
+fujisawa_hideaki_cri: |-
+  Hideaki Fujisawa
+iwata_kazuya_mls: |-
+  Kazuya Iwata
+kikumi_hikari_imagica_bhe: |-
+  Hikari Kikumi
+kodama_mitsutoshi_ncl: |-
+  Mitsutoshi Kodama
+miyagi_ayaki_ncl: |-
+  Ayaki Miyagi
+miyazaki_atsuyoshi_free: |-
+  Atsuyoshi Miyazaki
+nakaide_takanori_nac: |-
+  Takanori Nakaide
+nonaka_hideaki_artsvision: |-
+  Hideaki Nonaka
+okamura_yuichiro_ncl: |-
+  Yuichiro Okamura
+osaki_masayoshi_dh: |-
+  Masayoshi Osaki
+ptw_shanghai_co___ltd__corp: |-
+  PTW Shanghai Co., Ltd.
+raul_valadez_unknown: |-
+  Raúl Valadez
+steven_kim_noa: |-
+  Steven Kim
+tamura_naoya_mls: |-
+  Naoya Tamura
+ando_hiroshi_mls: |-
+  Hiroshi Ando
+arakawa_risa_digitalfrontier: |-
+  Risa Arakawa
+benoit_dupac_unknown: |-
+  Benoît DuPac
+hasegawa_taiga_mls: |-
+  Taiga Hasegawa
+iemura_saki_mls: |-
+  Saki Iemura
+ihar_havenka_noe: |-
+  Ihar Havenka
+katsuo_wataru_mls: |-
+  Wataru Katsuo
+kenproduction_co___ltd__corp: |-
+  Kenproduction Co., Ltd.
+kristof_deboel_noe: |-
+  Kristof Deboel
+pamela_waters_noa: |-
+  Pamela Waters
+phoenix_tidwell_noa: |-
+  Phoenix Tidwell
+takasuka_dai_ncl: |-
+  Dai Takasuka
+thomas_schmuckert_unknown: |-
+  Thomas Schmuckert
+yamaguchi_noboru_artsvision: |-
+  Noboru Yamaguchi
+yamamoto_makiko_imagica_bhe: |-
+  Makiko Yamamoto
+akita_shota_mls: |-
+  Shota Akita
+alfonso_valles_unknown: |-
+  Alfonso Vallés
+beatrice_caggiula_unknown: |-
+  Beatrice Caggiula
+chiara_leoncini_unknown: |-
+  Chiara Leoncini
+david_valdez-lazo_noa: |-
+  David Valdez-Lazo
+fukuyama_heita_srd: |-
+  Heita Fukuyama
+hirokane_mariko_individual: |-
+  Mariko Hirokane
+jordan_price_noa: |-
+  Jordan Price
+kawamura_kazuhide_mls: |-
+  Kazuhide Kawamura
+konishi_fumi_mls: |-
+  Fumi Konishi
+laurent_siddi_noe: |-
+  Laurent Siddi
+margarita_jabner_noe: |-
+  Margarita Jabner
+meli_g_unknown: |-
+  Meli G
+morita_kazuaki_srd: |-
+  Kazuaki Morita
+oguchi_mari_imagica_bhe: |-
+  Mari Oguchi
+omura_keiichiro_ncl: |-
+  Keiichiro Omura
+onodera_toshikazu_mls: |-
+  Toshikazu Onodera
+peter_eiselt_noe: |-
+  Peter Eiselt
+rococo_inc__corp: |-
+  ROCOCO,Inc.
+sabrina_bonfitto_unknown: |-
+  Sabrina Bonfitto
+sara_sainz_nieto_noe: |-
+  Sara Sainz Nieto
+shinomiya_go_kenproduction: |-
+  Go Shinomiya
+tiziana_martello_unknown: |-
+  Tiziana Martello
+twenty_eleven_co__ltd__corp: |-
+  TWENTY ELEVEN Co. Ltd.
+arakawa_shotaro_zerowave: |-
+  Shotaro Arakawa
+cristian_castellanos_noa: |-
+  Cristian Castellanos
+erika_webright_noa: |-
+  Erika Webright
+evan_wright_noa: |-
+  Evan Wright
+furukawa_masaki_mc: |-
+  Masaki Furukawa
+fuwa_tomoko_individual: |-
+  Tomoko Fuwa
+hampton_tomomi_mls: |-
+  Tomomi Hampton
+hatada_shinji_srd: |-
+  Shinji Hatada
+ichigaya_kana_ncl: |-
+  Kana Ichigaya
+itatsu_jumpei_mls: |-
+  Jumpei Itatsu
+ling_fong_fan_noe: |-
+  Ling Fong Fan
+toshihisa_nikaido_mls: |-
+  Toshihisa Nikaido
+ueno_mu_anima: |-
+  Mu Ueno
+ces_entertainment_inc_corp: |-
+  CES entertainment Inc
+fukushima_takatsugu_cri: |-
+  Takatsugu Fukushima
+hathlogic_inc__corp: |-
+  Hathlogic Inc.
+isabel_faccini_borjas_imagica_bhe: |-
+  Isabel Faccini Borjas
+maria_luisa_maganya_unknown: |-
+  Maria Luisa Maganya
+matsui_eriko_ncl: |-
+  Eriko Matsui
+mitsuishi_taiki_ncl: |-
+  Taiki Mitsuishi
+murakami_naoto_mls: |-
+  Naoto Murakami
+sawamura_eiko_rococo: |-
+  Eiko Sawamura
+usuda_tadahiro_mls: |-
+  Tadahiro Usuda
+dohta_takuhiro_ncl: |-
+  Takuhiro Dohta
+kikuchi_kazunari_cri: |-
+  Kazunari Kikuchi
+kira_yuki_dh: |-
+  Yuki Kira
+kurimura_tomomitsu_dh: |-
+  Tomomitsu Kurimura
+otani_ryohei_mc: |-
+  Ryohei Otani
+rees_holsberry_noa: |-
+  Rees Holsberry
+sato_yuji_charabans: |-
+  Yuji Sato
+sato_yuya_ncl: |-
+  Yuya Sato
+tachi_mizuki_anima: |-
+  Mizuki Tachi
+takao_yuichiro_bbds: |-
+  Yuichiro Takao
+taniwa_hiroyuki_srd: |-
+  Hiroyuki Taniwa
+toshimori_hiroyoshi_dh: |-
+  Hiroyoshi Toshimori
+toyama_shuma_ncl: |-
+  Shuma Toyama
+uramoto_rina_mc: |-
+  Rina Uramoto
+yamawaki_takumi_dh: |-
+  Takumi Yamawaki
+andrea_marino_noe: |-
+  Andrea Marino
+byune_sanggi_mls: |-
+  Sanggi Byune
+cathy_cerda_unknown: |-
+  Cathy Cerda
+creek_&_river_co___ltd__corp: |-
+  CREEK & RIVER Co., Ltd.
+kira_hiroyuki_srd: |-
+  Hiroyuki Kira
+kuwano_yuki_mls: |-
+  Yuki Kuwano
+nakayama_taiki_cri: |-
+  Taiki Nakayama
+osaki_shinya_srd: |-
+  Shinya Osaki
+philippe_phothisane_nerd: |-
+  Philippe Phothisane
+ptw_international_uk_ltd__corp: |-
+  PTW International UK Ltd.
+sakai_kenta_mls: |-
+  Kenta Sakai
+sergio_mesa_unknown: |-
+  Sergio Mesa
+shimizu_shinya_dh: |-
+  Shinya Shimizu
+toyama_yukitaka_nac: |-
+  Yukitaka Toyama
+yuguchi_mai_mls: |-
+  Mai Yuguchi
+andy_podell_noa: |-
+  Andy Podell
+bernard_lanneau_unknown: |-
+  Bernard Lanneau
+carles_llado_unknown: |-
+  Carles Lladó
+elena_barra_unknown: |-
+  Elena Barra
+galia_rodriguez_hornedo_noa: |-
+  Galia Rodríguez Hornedo
+hara_masahiro_mc: |-
+  Masahiro Hara
+hoonkyung_lee_nok: |-
+  Hoonkyung Lee
+horiuchi_hayato_mc: |-
+  Hayato Horiuchi
+jiong_zhang_ique: |-
+  Jiong Zhang
+kaneoka_kazue_ncl: |-
+  Kazue Kaneoka
+katie_dunlop_noa: |-
+  Katie Dunlop
+kondo_keita_mls: |-
+  Keita Kondo
+nishikawa_keisuke_ncl: |-
+  Keisuke Nishikawa
+okudera_yoji_ncl: |-
+  Yoji Okudera
+sumiyoshi_nobuhiro_srd: |-
+  Nobuhiro Sumiyoshi
+akao_minami_ncl: |-
+  Minami Akao
+ilja_koster__unknown: |-
+  Ilja Köster 
+okamoto_junya_srd: |-
+  Junya Okamoto
+ou_reizyuu_bbds: |-
+  Reizyuu Ou
+pietro_ubaldi_unknown: |-
+  Pietro Ubaldi
+qualia_writers_inc__corp: |-
+  Qualia Writers Inc.
+sean_egan_noa: |-
+  Sean Egan
+shinma_nobuyuki_mls: |-
+  Nobuyuki Shinma
+simpson_katherine_mc: |-
+  Katherine Simpson
+stanislav_tikunov_unknown: |-
+  Stanislav Tikunov
+takabayashi_chiharu_ncl: |-
+  Chiharu Takabayashi
+alessandro_tardito_noe: |-
+  Alessandro Tardito
+julie_costanza_unknown: |-
+  Julie Costanza
+kawamoto_kazumasa_imagica_bhe: |-
+  Kazumasa Kawamoto
+nonaka_tamiyo_kenproduction: |-
+  Tamiyo Nonaka
+tominaga_eri_cri: |-
+  Eri Tominaga
+yamamoto_takuya_seven dreams: |-
+  Takuya Yamamoto
+yamazoe_yoshinori_mls: |-
+  Yoshinori Yamazoe
+yumoto_tokuhiro_mls: |-
+  Tokuhiro Yumoto

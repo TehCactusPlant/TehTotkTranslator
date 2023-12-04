@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  No shame, huh?
+TerrorLightning_01: |-
+  Ah! No!
+TerrorInsect_00: |-
+  Stay away! Bugs!
+NakedPlayer_01: |-
+  Going around unclothed...
+TerrorLightning_02: |-
+  It'll singe my wings!
+TerrorInsect_01: |-
+  Ewww!
+NakedPlayer_02: |-
+  Maybe...cover up a little?
+TerrorInsect_02: |-
+  Go away!
+TerrorEnemy_00: |-
+  Waaah! Help!
+TerrorEnemy_01: |-
+  Somebody, please!
+TerrorEnemy_02: |-
+  I'm being attacked!
+TerrorImpulse_00: |-
+  Stop that!
+TerrorHorse_00: |-
+  Yikes!
+TerrorImpulse_01: |-
+  Do that somewhere else.
+TerrorHorse_01: |-
+  Why me?!
+TerrorImpulse_02: |-
+  Not so close!
+TerrorHorse_02: |-
+  Watch it!
+TerrorGuardian_00: |-
+  Gotta run!
+TerrorGuardian_01: |-
+  What is that?!
+TerrorGuardian_02: |-
+  Gotta get away!
+TerrorSword_00: |-
+  Eeep!
+TerrorSword_01: |-
+  What's the big idea?
+TerrorSword_02: |-
+  Not at me!
+TerrorAnimal_00: |-
+  Don't eat me!
+ClearTerrorEnemy_00: |-
+  Phew... Safe at last...
+TerrorBomb_00: |-
+  Not near me!
+TerrorAnimal_01: |-
+  Leave me alone!
+ClearTerrorEnemy_01: |-
+  Ah, that was scary...
+TerrorBomb_01: |-
+  What are you doing?!
+TerrorAnimal_02: |-
+  Someone help!
+ClearTerrorEnemy_02: |-
+  Is everything OK now?
+TerrorBomb_02: |-
+  Yikes!
+TerrorIce_00: |-
+  Eeesh!
+TerrorFire_00: |-
+  I don't want to get burned!
+TerrorIce_01: |-
+  Waaah!
+TerrorFire_01: |-
+  That's hot!
+TerrorIce_02: |-
+  Gaaah! Cold!
+TerrorFire_02: |-
+  Hot! Hot!
+TerrorFlash_00: |-
+  My eyes!
+TerrorFlash_01: |-
+  Yaaargh!
+ClearTerrorGuardian_00: |-
+  I thought I was done for...
+TerrorArrow_00: |-
+  What are you doing?!
+TerrorFlash_02: |-
+  Waaah!
+ClearTerrorGuardian_01: |-
+  It's safe now, right?
+TerrorArrow_01: |-
+  Stop it!
+ClearTerrorGuardian_02: |-
+  I was terrified...
+TerrorArrow_02: |-
+  What?!
+TerrorGeneric_00: |-
+  Yikes!
+TerrorExplosion_00: |-
+  Oof!
+TerrorGeneric_01: |-
+  Whoa!
+TerrorExplosion_01: |-
+  Watch out!
+TerrorGeneric_02: |-
+  Eek!
+TerrorExplosion_02: |-
+  Urk!
+TerrorLightning_00: |-
+  Kyah! Lightning!

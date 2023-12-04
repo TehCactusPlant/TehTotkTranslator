@@ -1,0 +1,28 @@
+Pa_SortWindow_00-Pa_Guide_00-T_Guide_00: |-
+  Sort
+Pa_SlideListB_00-Pa_SlideItem_00-T_Kakeru_00: |-
+  x
+ListPattern_MaterialThrow: |-
+  Select a material to throw.
+ListPattern_Attachment: |-
+  Select a material to attach.
+Type: |-
+  By type
+Pa_Guide_00-T_Guide_00: |-
+  Select
+SpecialParts: |-
+  Zonai devices
+ScraBuild: |-
+  By Fuse attack power
+Pa_Guide_01-T_Guide_00: |-
+  Sort
+Pa_Guide_03-T_Guide_00: |-
+  Back
+Strength: |-
+  By strength
+Use: |-
+  By most used
+0000: |-
+  None
+Pa_Guide_02-T_Guide_00: |-
+  Drop

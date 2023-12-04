@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  You look chilly.
+TerrorLightning_01: |-
+  Gaaah!
+TerrorInsect_00: |-
+  Cut it out.
+NakedPlayer_01: |-
+  Showin' off or somethin'?
+TerrorLightning_02: |-
+  Whoa there!
+TerrorInsect_01: |-
+  Whoa!
+NakedPlayer_02: |-
+  So scrawny...
+TerrorInsect_02: |-
+  Agh!
+TerrorEnemy_00: |-
+  Hey!
+TerrorEnemy_01: |-
+  Cut it out.
+TerrorEnemy_02: |-
+  Whoa!
+TerrorImpulse_00: |-
+  Whoa!
+TerrorHorse_00: |-
+  Hey!
+TerrorImpulse_01: |-
+  Huh?
+TerrorHorse_01: |-
+  Bwah!
+TerrorImpulse_02: |-
+  Guh!
+TerrorHorse_02: |-
+  Whoa!
+TerrorGuardian_00: |-
+  This is bad!
+TerrorGuardian_01: |-
+  Whoa!
+TerrorGuardian_02: |-
+  Hyaaah!
+TerrorSword_00: |-
+  Whoa!
+TerrorSword_01: |-
+  Cut it out.
+TerrorSword_02: |-
+  Hey!
+TerrorAnimal_00: |-
+  This is bad!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  Hey!
+TerrorAnimal_01: |-
+  I'll be eaten!
+ClearTerrorEnemy_01: |-
+  Deep breaths...
+TerrorBomb_01: |-
+  Cut it out.
+TerrorAnimal_02: |-
+  Eeek!
+ClearTerrorEnemy_02: |-
+  Oof...
+TerrorBomb_02: |-
+  Whoa!
+TerrorIce_00: |-
+  Whoa!
+TerrorFire_00: |-
+  Never hot enough.
+TerrorIce_01: |-
+  Eeek!
+TerrorFire_01: |-
+  That's annoying.
+TerrorIce_02: |-
+  That's chilly!
+TerrorFire_02: |-
+  What are you doing?
+TerrorFlash_00: |-
+  Whoa!
+TerrorFlash_01: |-
+  My eyes sting!
+ClearTerrorGuardian_00: |-
+  Phew...
+TerrorArrow_00: |-
+  Cut it out.
+TerrorFlash_02: |-
+  Grrr!
+ClearTerrorGuardian_01: |-
+  I'm saved.
+TerrorArrow_01: |-
+  Don't aim at me.
+ClearTerrorGuardian_02: |-
+  I thought I was done for...
+TerrorArrow_02: |-
+  Urgh!
+TerrorGeneric_00: |-
+  *grumble*
+TerrorExplosion_00: |-
+  Gyaaah!
+TerrorGeneric_01: |-
+  Whoa there!
+TerrorExplosion_01: |-
+  Waaah!
+TerrorGeneric_02: |-
+  Hey!
+TerrorExplosion_02: |-
+  WHOA!
+TerrorLightning_00: |-
+  Bwaaah!

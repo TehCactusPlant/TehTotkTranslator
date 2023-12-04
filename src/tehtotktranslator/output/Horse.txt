@@ -1,0 +1,46 @@
+GameRomHorseReins_03_Name: |-
+  Knight's Bridle
+GameRomHorseSaddle_07_Name: |-
+  Towing Harness
+Horse_Link_Mane_08_Name: |-
+  Long Purple Mane
+Horse_Link_Mane_Name: |-
+  Normal Mane
+GameRomHorseSaddle_02_Name: |-
+  Royal Saddle
+Horse_Link_Mane_03_Name: |-
+  French-Braided Mane
+GameRomHorseSaddle_05_Name: |-
+  Extravagant Saddle
+Horse_Link_Mane_06_Name: |-
+  Long Blue Mane
+GameRomHorseReins_04_Name: |-
+  Monster Bridle
+GameRomHorseSaddle_00_Name: |-
+  Stable Saddle
+Horse_Link_Mane_01_Name: |-
+  Long Mane
+Horse_Link_Mane_09_Name: |-
+  Floral Mane
+GameRomHorseReins_00_Name: |-
+  Stable Bridle
+GameRomHorseSaddle_03_Name: |-
+  Knight's Saddle
+Horse_Link_Mane_04_Name: |-
+  Braided Mane
+GameRomHorseReins_02_Name: |-
+  Royal Bridle
+Horse_Link_Mane_07_Name: |-
+  Long Green Mane
+GameRomHorseReins_05_Name: |-
+  Extravagant Bridle
+GameRomHorseSaddle_01_Name: |-
+  Traveler's Saddle
+Horse_Link_Mane_02_Name: |-
+  Mohawk Mane
+GameRomHorseReins_01_Name: |-
+  Traveler's Bridle
+GameRomHorseSaddle_04_Name: |-
+  Monster Saddle
+Horse_Link_Mane_05_Name: |-
+  Long Red Mane

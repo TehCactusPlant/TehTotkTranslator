@@ -1,0 +1,350 @@
+MiddleBoss_Goron: |-
+  Rising from the Death Mountain Crater
+Miner: |-
+  The Sage of Spirit
+Army_HyruleCastle: |-
+  Scourge of Hyrule Castle
+Army_TribunePirate: |-
+  Occupiers of the Akkala Sea
+Ground_040: |-
+  Medingo Pool
+Giant_3Bros_2nd: |-
+  The Middle Hinox Brother
+Ground_042: |-
+  Grinnden Plains
+Giant_3Bros_1st: |-
+  The Eldest Hinox Brother
+Ground_043: |-
+  Death Mountain East Tunnel
+MinusKohga_Final: |-
+  Wielder of Ultimate Yiga Power
+ShrineGolems: |-
+  Guardians of the Shrine of Light
+SkyIsland_Tabanta: |-
+  Guardian of Tabantha Sky Archipelago
+Ground_044: |-
+  Gut Check Rock
+MercenaryChallenge_Hateru: |-
+  Marauders of Necluda
+Ground_045: |-
+  Irch Plain South
+Ground_047: |-
+  Hyrule Castle West
+LostForest: |-
+  Lurker in the Lost Woods
+Ground_048: |-
+  Bridge of Hylia
+Ground_049: |-
+  Strock Lake South
+SkyIsland_Drake_GerudoWest: |-
+  Scourge of Gerudo Sky
+DungeonBoss_Zonau: |-
+  Scourge of the Spirit Temple
+DungeonBoss_Gerudo: |-
+  Scourge of the Lightning Temple
+Tulin: |-
+  Young Rito Warrior
+Ground_050: |-
+  Great Plateau
+Ground_051: |-
+  Harker Lake East
+LargeDungeonFire: |-
+  Lost Gorondia Rediscovered
+Ground_052: |-
+  East Akkala Plains
+Ground_053: |-
+  Birida Lookout West
+LargeDungeonWind: |-
+  The Legendary Stormwind Ark
+Under_Dekutree: |-
+  Scourge of the Deku Tree
+Ground_054: |-
+  Biron Snowshelf
+SkyIsland_Akkare: |-
+  Guardian of Sokkala Sky Archipelago
+Ground_055: |-
+  Phalian Highlands
+LargeDungeonWater: |-
+  The Great Wellspring of Hyrule
+Ground_056: |-
+  Lake Floria
+DungeonBoss_Zora: |-
+  Scourge of the Water Temple
+Ground_057: |-
+  Trilby Valley
+Yona: |-
+  Caretaker to the Zora
+Ground_058: |-
+  Trilby Plain
+Ground_059: |-
+  Hebra West Summit South
+SkyIsland_HateruSouth: |-
+  Guardian of South Necluda Sky Archipelago
+Army_TribuneCave: |-
+  Occupiers of the Foothill Monster Den
+MercenaryChallenge_Hebra: |-
+  Marauders of Hebra
+Ground_060: |-
+  Hebra West Summit North
+Ground_061: |-
+  Hebra North Crest
+DungeonBoss_Rito: |-
+  Scourge of the Wind Temple
+Ground_062: |-
+  Horwell Bridge South
+Ground_100: |-
+  Herin Lake South
+MercenaryChallenge_Eldin: |-
+  Marauders of Eldin
+Ground_063: |-
+  Popla Foothills North
+Ground_101: |-
+  Meadela's Mantle
+Village_Fishing: |-
+  Occupiers of Lurelin Village
+Ground_064: |-
+  Malin Bay East
+Ground_102: |-
+  Hills of Baumer
+Ground_065: |-
+  Loshlo Harbor West
+Ground_103: |-
+  Sahasra Slope
+Ground_066: |-
+  Mable Ridge
+Ground_104: |-
+  South Akkala Plains West
+Ground_067: |-
+  Spectacle Rock
+Ground_105: |-
+  Kolami Bridge
+Army_Ganondorf: |-
+  War in the Depths of Hyrule
+Ground_068: |-
+  Batrea Lake East
+Ground_106: |-
+  Palu Wasteland South
+Ground_069: |-
+  Rowan Plain
+Ground_107: |-
+  East Barrens
+Yunbo_Pappet: |-
+  Clearly Not Himself
+Ground_108: |-
+  Toruma Dunes
+SkyIsland_Drake_LanaryuEast: |-
+  Scourge of Necluda Sky
+Gerudo_Queen_Nick_Name: |-
+  Chief of the Gerudo
+Ground_001: |-
+  Jia Highlands
+SkyIsland_HebraWest: |-
+  Guardian of West Hebra Sky Archipelago
+Ground_002: |-
+  Deya Village Ruins Well
+Ground_070: |-
+  Byroad to Lanayru Wetlands
+LastBoss: |-
+  Draconified Demon King
+Elder_Sheikah: |-
+  The Sheikah Elder
+Ganondorf_M: |-
+  Master of the Secret Stone
+Ground_003: |-
+  Aris Beach
+Ground_071: |-
+  Lanayru Range North
+LargeDungeonSoul: |-
+  The Vessel of Spirit's Resting Place
+Ground_004: |-
+  Drenan Highlands
+Ground_072: |-
+  Upland Lindor
+Ground_110: |-
+  Gerudo Desert
+Ground_005: |-
+  Ulria Grotto East Cave
+Ground_073: |-
+  Lake Totori South
+Ground_006: |-
+  Ulria Grotto South Cave
+Ground_074: |-
+  Corta Lake Cave
+FirstSkyIsland_BlockMaster: |-
+  Guardian of the Great Sky Island
+Ground_007: |-
+  Deplian Badlands
+Ground_075: |-
+  Ruto Precipice
+Ground_113: |-
+  East Rutimala Hill
+Giant_3Bros_3rd: |-
+  The Youngest Hinox Brother
+Ground_008: |-
+  Ebon Mountain West
+Ground_076: |-
+  Rodai Lakefront Tunnel
+Lanayru_EnemyHunt_Boss: |-
+  Scourge of Ja'Abu Ridge Fort
+Raul: |-
+  Source of the Right Arm
+SkyIsland_HyruleNorth: |-
+  Guardian of North Hyrule Sky Archipelago
+Ground_009: |-
+  Ovli Plain
+Ground_077: |-
+  Romani Plains
+MercenaryChallenge_Akkare: |-
+  Marauders of Akkala
+MercenaryChallenge_Firone: |-
+  Marauders of Faron
+Yunbo_Nick_Name: |-
+  YunoboCo President
+Ground_078: |-
+  Washa's Bluff East
+MercenaryChallenge_HyrulePlain: |-
+  Marauders of Hyrule Field
+SkyIsland_Lanayru: |-
+  Guardian of Lanayru Sky Archipelago
+Army_GerudoAzitoOutside: |-
+  Guardians of the Hideout
+Ground_010: |-
+  Eldin Eastern Highlands
+LikeLike_Tar: |-
+  Ambusher of Mipha Court
+Ground_011: |-
+  Laparoh Mesa
+Ground_012: |-
+  Carok Bridge
+Ground_080: |-
+  Royal Hidden Passage
+Ground_013: |-
+  Piper Ridge
+Ground_081: |-
+  Giant's Forest
+Ground_014: |-
+  North Akkala Beach
+Ground_082: |-
+  Ancient Zora Waterworks
+PhantomGanon: |-
+  The Demon King's Phantom Saboteur
+Ground_015: |-
+  North Akkala Beach Cave
+Ground_083: |-
+  West Hebra
+Ground_016: |-
+  North Akkala Foothill
+Ground_084: |-
+  Dueling Peaks South
+Ground_017: |-
+  Tanagar Canyon
+Ground_018: |-
+  Tanagar Canyon East Cave
+Ground_086: |-
+  Coliseum Ruins
+MinusKohga: |-
+  Leader of the Yiga Clan
+Ground_019: |-
+  Guchini Plain
+Ground_087: |-
+  South Tabantha Snowfield
+Ground_088: |-
+  Windvane Meadow
+Ground_089: |-
+  North Hyrule Plain
+Ganondorf: |-
+  The Menace Unleashed
+SkyIsland_Firone: |-
+  Guardian of Thunderhead Isles
+Ground_020: |-
+  Hanu Pond
+Ground_021: |-
+  Gleeok Bridge West
+King_Zora: |-
+  Prince of the Zora
+SkyIsland_Hateru: |-
+  Guardian of Necluda Sky Archipelago
+Ground_022: |-
+  Blatchery Plain
+Ground_090: |-
+  Aldor Foothills
+Ground_023: |-
+  Kaepora Pass
+Ground_091: |-
+  Hebra Headspring
+Ground_024: |-
+  Gerudo Mountain
+Ground_092: |-
+  Horse God Bridge West
+Rito_SkyHighIsland: |-
+  Guardian of the Rising Island Chain
+Ground_025: |-
+  Gama Cove
+Ground_093: |-
+  Deplian Badlands South
+Ground_026: |-
+  Calora Lakefront Cave
+Ground_094: |-
+  Skull Lake Cave
+SkyIsland_Drake_HebraWest: |-
+  Scourge of Hebra Sky
+Drefan: |-
+  King of the Zora
+Ground_027: |-
+  Goronbi River West
+Ground_095: |-
+  Hebra East Summit North
+SkyIsland_FironeWest: |-
+  Guardian of Faron Sky Archipelago
+Ground_028: |-
+  Goro Cove
+Ground_096: |-
+  Rayne Highlands
+SkyIsland_HyruleWest: |-
+  Guardian of South Hyrule Sky Archipelago
+Ground_029: |-
+  Crenel Road
+Ground_097: |-
+  South Akkala Plains
+MinusField: |-
+  Scourge of the Depths
+SkyIsland_AkkareEast: |-
+  Guardian of North Akkala Sky Archipelago
+LargeDungeonThunder: |-
+  The Mural's Myth, Risen from the Sands
+SaihateEnemies: |-
+  Pirate Hideout
+Ground_030: |-
+  Crenel Hills Cave
+Ground_031: |-
+  Zauz Island Well
+Ground_032: |-
+  Satori Mountain South
+SkyIsland_HyruleWestCentral: |-
+  Guardian of West Hyrule Sky Archipelago
+Ground_033: |-
+  Satori Mountain Foothill Cave
+Ground_034: |-
+  Taafei Hill Cave
+SaihateEnemies01: |-
+  Toronbo Beach North
+Ground_035: |-
+  Tamio River
+SaihateEnemies02: |-
+  Toronbo Beach South
+Ground_036: |-
+  Dalite Forest
+SaihateEnemies03: |-
+  Koholit Rock
+Ground_037: |-
+  Tal Tal Peak
+SkyIsland_ZoraField: |-
+  Guardian of Wellspring Island
+Ground_038: |-
+  Lake Darman
+Ground_039: |-
+  Ludfo's Bog
+Purah: |-
+  Head of Lookout Landing
+DungeonBoss_Goron: |-
+  Scourge of the Fire Temple

@@ -1,0 +1,92 @@
+Obj_AutoBuilderDraft_07_Name: |-
+  Instant Scaffold
+Obj_AutoBuilderDraftAssassin_19_Name: |-
+  Floodlights
+Obj_AutoBuilderDraftAssassin_01_Name: |-
+  Flamethrower Balloon
+Obj_AutoBuilderDraftAssassin_12_Name: |-
+  Fishing Trawler
+Obj_AutoBuilderDraftAssassin_23_Name: |-
+  Bomb Bouquet
+Obj_AutoBuilderDraftAssassin_06_Name: |-
+  Vertical Escape
+Obj_AutoBuilderDraft_03_Name: |-
+  Bolt Boat
+Obj_AutoBuilderDraftAssassin_26_Name: |-
+  Smoke Rocket
+Obj_AutoBuilderDraft_08_Name: |-
+  Launch Pad
+Obj_AutoBuilderDraftAssassin_09_Name: |-
+  Water Freezer
+Obj_AutoBuilderDraftAssassin_30_Name: |-
+  All-Purpose Raft
+Obj_AutoBuilderDraftAssassin_02_Name: |-
+  Three Wheeler
+Obj_AutoBuilderDraftAssassin_13_Name: |-
+  Wagon
+Obj_AutoBuilderDraftAssassin_24_Name: |-
+  Triple Cannon
+Obj_AutoBuilderDraft_10_Name: |-
+  Hot-Air Balloon
+Obj_AutoBuilderDraftAssassin_07_Name: |-
+  Cargo Carrier
+Obj_AutoBuilderDraftAssassin_33_Name: |-
+  Beam Spinner
+Obj_AutoBuilderDraft_04_Name: |-
+  Bridge
+Obj_AutoBuilderDraftAssassin_27_Name: |-
+  Charged Charger
+Obj_AutoBuilderDraftAssassin_20_Name: |-
+  Instant Scaffold
+Obj_AutoBuilderDraftAssassin_31_Name: |-
+  Excavator
+Obj_AutoBuilderDraftAssassin_03_Name: |-
+  Fanboat
+Obj_AutoBuilderDraftAssassin_14_Name: |-
+  Instant Kitchen
+Obj_AutoBuilderDraft_00_Name: |-
+  Fanplane
+Obj_AutoBuilderDraft_11_Name: |-
+  Beam Cycle
+Obj_AutoBuilderDraftAssassin_08_Name: |-
+  Big Rig
+Obj_AutoBuilderDraft_05_Name: |-
+  Dirigible
+Obj_AutoBuilderDraftAssassin_17_Name: |-
+  Icebreaker
+Obj_AutoBuilderDraftAssassin_28_Name: |-
+  Rainmaker
+Obj_AutoBuilderDraftAssassin_10_Name: |-
+  Liftoff Glider
+Obj_AutoBuilderDraftAssassin_21_Name: |-
+  Monocycle
+Obj_AutoBuilderDraftAssassin_32_Name: |-
+  Assault Cart
+Obj_AutoBuilderDraftAssassin_04_Name: |-
+  Headlight Raft
+Obj_AutoBuilderDraftAssassin_15_Name: |-
+  Super Spring
+Obj_AutoBuilderDraft_01_Name: |-
+  Rocket Platform
+Obj_AutoBuilderDraft_06_Name: |-
+  Instant Cannon
+Obj_AutoBuilderDraftAssassin_18_Name: |-
+  Aerial Cannon
+Obj_AutoBuilderDraftAssassin_29_Name: |-
+  Whirling Basher
+Obj_AutoBuilderDraft_09_Name: |-
+  Automated Ally
+Obj_AutoBuilderDraftAssassin_00_Name: |-
+  Tank
+Obj_AutoBuilderDraftAssassin_11_Name: |-
+  Shock Trap
+Obj_AutoBuilderDraftAssassin_22_Name: |-
+  Raiding Plane
+Obj_AutoBuilderDraftAssassin_05_Name: |-
+  Beam Turret
+Obj_AutoBuilderDraftAssassin_16_Name: |-
+  Sprinkler System
+Obj_AutoBuilderDraft_02_Name: |-
+  Hovercraft
+Obj_AutoBuilderDraftAssassin_25_Name: |-
+  Scatter Trap

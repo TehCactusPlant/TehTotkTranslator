@@ -1,0 +1,114 @@
+TerrorLightning_01: |-
+  Gah!
+TerrorInsect_00: |-
+  Stay back!
+TerrorLightning_02: |-
+  Ease up!
+TerrorInsect_01: |-
+  Gah!
+TerrorInsect_02: |-
+  What is happening?!
+TerrorEnemy_00: |-
+  Argh!
+TerrorEnemy_01: |-
+  Gah!
+TerrorEnemy_02: |-
+  I require assistance!
+TerrorImpulse_00: |-
+  Whoa!
+TerrorHorse_00: |-
+  Enough!
+TerrorImpulse_01: |-
+  Eeek!
+TerrorHorse_01: |-
+  Cease that at once!
+TerrorImpulse_02: |-
+  Gah!
+TerrorHorse_02: |-
+  Gah!
+TerrorGuardian_00: |-
+  I must escape!
+TerrorGuardian_01: |-
+  Gah!
+TerrorGuardian_02: |-
+  Argh!
+WaterPumpWater_00: |-
+  Water!
+TerrorSword_00: |-
+  Gah!
+WaterPumpWater_01: |-
+  My fins feel damp.
+TerrorSword_01: |-
+  Enough!
+WaterPumpWater_02: |-
+  Glorious.
+TerrorSword_02: |-
+  Easy there!
+TerrorAnimal_00: |-
+  I must withdraw!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  What is happening?!
+TerrorAnimal_01: |-
+  Gah!
+ClearTerrorEnemy_01: |-
+  I am saved.
+TerrorBomb_01: |-
+  What are you thinking?!
+TerrorAnimal_02: |-
+  Here it comes!
+ClearTerrorEnemy_02: |-
+  Phew.
+TerrorBomb_02: |-
+  Hm?
+TerrorIce_00: |-
+  Wow!
+TerrorFire_00: |-
+  Such heat!
+TerrorIce_01: |-
+  Huh!
+TerrorFire_01: |-
+  The heat!
+TerrorIce_02: |-
+  Enough of this!
+Enokida_00: |-
+  Hudson? It's been a while.
+TerrorFire_02: |-
+  It is quite hot!
+TerrorFlash_00: |-
+  What now?!
+Enokida_01: |-
+  Is that Hudson?
+TerrorFlash_01: |-
+  Eeek!
+ClearTerrorGuardian_00: |-
+  Phew... I am saved.
+Enokida_02: |-
+  Ah, if it isn't Hudson!
+TerrorArrow_00: |-
+  Hmph!
+TerrorFlash_02: |-
+  It is too bright!
+ClearTerrorGuardian_01: |-
+  Phew...
+TerrorArrow_01: |-
+  Whatever are you doing?
+ClearTerrorGuardian_02: |-
+  All is well...
+TerrorArrow_02: |-
+  Ah!
+TerrorGeneric_00: |-
+  Hmph!
+TerrorExplosion_00: |-
+  Argh!
+TerrorGeneric_01: |-
+  Hm?!
+TerrorExplosion_01: |-
+  Gah!
+TerrorGeneric_02: |-
+  What now?!
+TerrorExplosion_02: |-
+  Ease up!
+TerrorLightning_00: |-
+  Argh!

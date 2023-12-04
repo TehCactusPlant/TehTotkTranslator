@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  He has no feathers!
+TerrorLightning_01: |-
+  Watch out!
+TerrorInsect_00: |-
+  Why me?!
+NakedPlayer_01: |-
+  Aren't you chilly?
+TerrorLightning_02: |-
+  What is happening?
+TerrorInsect_01: |-
+  Not good, not good!
+NakedPlayer_02: |-
+  Out here with no clothes...
+TerrorInsect_02: |-
+  Leave me alone!
+TerrorEnemy_00: |-
+  Hey! Stop that!
+TerrorEnemy_01: |-
+  Yikes!
+TerrorEnemy_02: |-
+  Don't come any closer!
+TerrorImpulse_00: |-
+  Nooo!
+TerrorHorse_00: |-
+  Watch it!
+TerrorImpulse_01: |-
+  Hey, hey!
+TerrorHorse_01: |-
+  Don't trample me!
+TerrorImpulse_02: |-
+  Watch it!
+TerrorHorse_02: |-
+  Hey! Be careful!
+TerrorGuardian_00: |-
+  What even is it?!
+TerrorGuardian_01: |-
+  Save me!
+TerrorGuardian_02: |-
+  Save yourself!
+TerrorSword_00: |-
+  What are you doing?!
+TerrorSword_01: |-
+  Quit messing around!
+TerrorSword_02: |-
+  Don't point that at me!
+TerrorAnimal_00: |-
+  Help me!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  What the?!
+TerrorAnimal_01: |-
+  What did I do to you?!
+ClearTerrorEnemy_01: |-
+  That was close...
+TerrorBomb_01: |-
+  That's dangerous!
+TerrorAnimal_02: |-
+  It saw me!
+ClearTerrorEnemy_02: |-
+  I think it's safe now.
+TerrorBomb_02: |-
+  Whoa!
+TerrorIce_00: |-
+  Hey now!
+TerrorFire_00: |-
+  Hot!
+TerrorIce_01: |-
+  Gyaaah!
+TerrorFire_01: |-
+  Hot, hot!
+TerrorIce_02: |-
+  My feathers will get damp!
+Enokida_00: |-
+  Hello, President Hudson!
+TerrorFire_02: |-
+  This is too much!
+TerrorFlash_00: |-
+  Urgh...too bright!
+Enokida_01: |-
+  How are you, sir?
+TerrorFlash_01: |-
+  What the?!
+ClearTerrorGuardian_00: |-
+  Phew... I'm saved...
+Enokida_02: |-
+  Looking good today, sir!
+TerrorArrow_00: |-
+  That's dangerous!
+TerrorFlash_02: |-
+  Whoa!
+ClearTerrorGuardian_01: |-
+  Saved in the nick of time.
+TerrorArrow_01: |-
+  What are you thinking?!
+ClearTerrorGuardian_02: |-
+  I think I'm out of danger.
+TerrorArrow_02: |-
+  Hey! Stop that!
+TerrorGeneric_00: |-
+  What?!
+TerrorExplosion_00: |-
+  Uwaaah!
+TerrorGeneric_01: |-
+  Gaaah!
+TerrorExplosion_01: |-
+  What happened?!
+TerrorGeneric_02: |-
+  Urgh!
+TerrorExplosion_02: |-
+  Fire in the hole!
+TerrorLightning_00: |-
+  Waaaaaah!

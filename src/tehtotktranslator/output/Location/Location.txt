@@ -1,0 +1,2802 @@
+BarumePlain: |-
+  Barula Plain
+CheckPoint046: |-
+  Apapes Lightroot
+Dungeon081: |-
+  Zakusu Shrine
+Dungeon125: |-
+  Mayaotaki Shrine
+HyruleEastTown: |-
+  East Castle Town
+PaparaPlateau: |-
+  Stalry Plateau
+StonePillers: |-
+  Ancient Columns
+Well_0049: |-
+  Hateno Village North Well
+CheckPoint047: |-
+  Tatayam Lightroot
+Dungeon082: |-
+  Simosiwak Shrine
+Dungeon126: |-
+  Makurukis Shrine
+FenaMt: |-
+  Mount Nabooru
+GameGutsCriff: |-
+  Gut Check Rock
+MapArea_TamulSea_Underground: |-
+  Akkala Sea Depths
+MinusField_CresiaPeninsula: |-
+  Cresia Pit Mine
+MinusField_GanondorfArea: |-
+  Gloom's Lair
+MinusField_LomeiIsland: |-
+  Lomei Depths Labyrinth
+ShimukaPlateau: |-
+  Robred Dropoff
+Cave_HyruleForest_0006: |-
+  Pico Pond Cave
+CheckPoint048: |-
+  Iayusus Lightroot
+Dungeon083: |-
+  Yansamin Shrine
+Dungeon127: |-
+  Josiu Shrine
+GarakishiPass: |-
+  Shadow Pass
+HeburaPeak: |-
+  Hebra Peak
+KitanoBay: |-
+  Hateno Bay
+MapArea_LanayruSea_Sky: |-
+  Lanayru Sea Sky
+MinusField_DasukidaMt: |-
+  Dunsel Canyon Mine
+MinusField_KimarikaMt: |-
+  Canyon of Awakening Mine
+ShopGeneral_Zora: |-
+  General Store
+TerumeMt: |-
+  Mount Taran
+AdeyaLake: |-
+  Deya Lake
+Cave_HyruleForest_0007: |-
+  Yiga Clan Maritta Branch
+Cave_LanayruMountain_0014: |-
+  Robred Dropoff Cave
+CheckPoint049: |-
+  Kegopa Lightroot
+ChuonoPond: |-
+  Zelkoa Pond
+Dungeon084: |-
+  Jojon Shrine
+Dungeon128: |-
+  Ga-ahisas Shrine
+LargeDungeonFire_5F: |-
+  Fire Temple 5F
+MapRegion_Firone_Sky: |-
+  Faron Sky
+MinusField_GashamahiMt: |-
+  Crenel Canyon Mine
+MuguriPlain: |-
+  Blatchery Plain
+RutesLake: |-
+  Corta Lake
+SmallDemonStatue: |-
+  Bargainer Statue
+SonoPrairie: |-
+  Trilby Plain
+TrakaIsland_New: |-
+  Molida Island
+YamabiLake: |-
+  Yambi Lake
+Cave_HyruleForest_0008: |-
+  Deplian Badlands Cave
+DeepHole_RirimukuMt: |-
+  Drenan Highlands Chasm
+Dungeon085: |-
+  Sifumim Shrine
+Dungeon129: |-
+  Sinatanika Shrine
+MapArea_GerudoHighlands_Underground: |-
+  Gerudo Highlands Depths
+MapArea_HeburaMountains: |-
+  Hebra Mountains
+MapRegion_Hateru: |-
+  Necluda
+RiaroTrees: |-
+  Hickaly Woods
+SasamuroBeach: |-
+  Clarnet Coast
+ShopGeneral_BaseCamp: |-
+  General Store
+Cave_Hebra_0021: |-
+  Hebra Great Skeleton
+Cave_LanayruMountain_0016: |-
+  Walnot Mountain Cave
+DeepHole_Firone: |-
+  Tobio's Hollow Chasm
+Dungeon086: |-
+  Otak Shrine
+GishiHill: |-
+  Piper Ridge
+HeburaWestSummit: |-
+  Hebra West Summit
+JogoBridge: |-
+  Rebonae Bridge
+LargeDungeonHyruleCastle: |-
+  Hyrule Castle
+MapArea_HyruleHill_Underground: |-
+  Hyrule Ridge Depths
+PeridoBarrier: |-
+  Champion's Gate
+SojijiPark: |-
+  Sanidin Park Ruins
+AkkareBridge: |-
+  Akkala Span
+AmimePlateau: |-
+  Nette Plateau
+BigalLake: |-
+  Medingo Pool
+Cave_GerudoDesert_0022: |-
+  Mount Nabooru Cave
+Cave_Hebra_0022: |-
+  Hebra Mountains Northwest Cave
+Dungeon087: |-
+  Miryotanog Shrine
+FlogPond: |-
+  Hopper Pond
+HagoromoLake: |-
+  Lantern Lake
+KazusuPass: |-
+  Kaepora Pass
+LomeiIslands: |-
+  Lomei Labyrinth Island
+MinusField_BlindForest: |-
+  Gleeok Den
+NangoPond: |-
+  Zelo Pond
+NantanCastle: |-
+  South Lomei Labyrinth
+PukiroroMt: |-
+  Zodobon Highlands
+ShopGeneral_UMiiVillage: |-
+  General Store
+Cave_Hebra_0023: |-
+  Brightcap Cave
+CheckPoint100: |-
+  Muzasu Lightroot
+Dungeon030: |-
+  Kiuyoyou Shrine
+Dungeon088: |-
+  Kimayat Shrine
+MapArea_HyruleForest_Underground: |-
+  Great Hyrule Forest Depths
+MapArea_TamulOutback_Underground: |-
+  Deep Akkala Depths
+MinusField_GanondorfEntrance: |-
+  Gloom's Approach
+PstaLake: |-
+  Mido Swamp
+ShinyarkiPlateau: |-
+  Rauru Hillside
+SusonoRiver: |-
+  Tamio River
+TakkikaPlain: |-
+  Nima Plain
+WiseFountain: |-
+  Spring of Wisdom
+CheckPoint101: |-
+  Uinoj Lightroot
+Corosseo: |-
+  Coliseum Ruins
+Dungeon031: |-
+  Ekochiu Shrine
+Dungeon089: |-
+  Momosik Shrine
+KitakkarePlateau: |-
+  North Akkala Foothill
+LargeDungeonThunder_6F: |-
+  Lightning Temple 6F
+MapArea_LiveMountain_Underground: |-
+  Mount Lanayru Depths
+MinusField_HimeidaMt: |-
+  Meda Canyon Mine
+MinusField_MemeMt: |-
+  Ploymus Canyon Mine
+NewspaperCompany: |-
+  Lucky Clover Gazette
+BuidaLake: |-
+  Rassla Lake
+Cave_Hebra_0025: |-
+  Rospro Pass Cave
+CheckPoint102: |-
+  Katoij Lightroot
+Dungeon032: |-
+  Tadarok Shrine
+MasazuBridge: |-
+  Moat Bridge
+MinusField_Taura: |-
+  Abandoned Lurelin Mine
+OsanjoBridge: |-
+  Helmhead Bridge
+ZoraZonauTerminal: |-
+  Ancient Zora Waterworks
+Cave_Hebra_0026: |-
+  Talonto Peak Cave
+CheckPoint103: |-
+  Kataki Lightroot
+Dungeon033: |-
+  Karahatag Shrine
+MiddleTrees: |-
+  Midla Woods
+MinusField_KapporeMt: |-
+  Faloraa Canyon Mine
+CastleTownMark: |-
+  Hyrule Castle Town Ruins
+CheckPoint104: |-
+  Mihcihc Lightroot
+DeepHole_ImeruMt: |-
+  Elma Knolls Chasm
+Dungeon034: |-
+  Tenbez Shrine
+KakamoLake: |-
+  Telta Lake
+KitakkareBeach: |-
+  North Akkala Beach
+MinusField_ExpaTrees: |-
+  Retsam Grove
+MinusField_FairyForest: |-
+  Grove of Spirits
+OtsukoWet: |-
+  Torin Wetland
+TennoMt: |-
+  Washa's Bluff
+Cave_Firone_0016: |-
+  Cora Lakefront Cave
+CentralExchange: |-
+  Exchange Ruins
+DeepHole_HimeidaMt: |-
+  Meda Mountain Chasm
+Dungeon035: |-
+  Kisinona Shrine
+Dungeon140: |-
+  Kudanisar Shrine
+LargeDungeonHyruleCastle_B1: |-
+  Hyrule Castle B1
+MapArea_GerudoDesert_Underground: |-
+  Gerudo Desert Depths
+MasazuRock: |-
+  Quarry Ruins
+MinusField_MoriMt: |-
+  Ulri Canyon Mine
+MinusField_MorudaMt: |-
+  Daval Canyon Mine
+TotsugeBridge: |-
+  Carok Bridge
+BameHill: |-
+  Passer Hill
+Cave_Lanayru_0048: |-
+  Ralis Channel
+CheckPoint106: |-
+  Sijnin Lightroot
+Dungeon036: |-
+  Oshozan-u Shrine
+Dungeon141: |-
+  Joju-u-u Shrine
+HyralIslands: |-
+  Hylia Island
+KokuppiSnow: |-
+  Kopeeki Drifts
+LargeDungeonHyruleCastle_B2: |-
+  Hyrule Castle B2
+MinusField_MizemakuMt: |-
+  Walnot Canyon Mine
+SkyIsland0010: |-
+  Zonaite Forge Island
+StartPoint_WakeupAltar: |-
+  Room of Awakening
+TabantaBridge: |-
+  Tabantha Great Bridge
+TabantaHatago: |-
+  Snowfield Stable
+WestGerudo: |-
+  West Barrens
+Cave_Lanayru_0049: |-
+  Upland Zorana Summit Cave
+CheckPoint107: |-
+  Yikot Lightroot
+DanioPlain: |-
+  Ukuku Plains
+DeepHole_FirstLandSouth: |-
+  Great Plateau South Chasm
+Dungeon037: |-
+  Gasas Shrine
+Dungeon142: |-
+  Jiosin Shrine
+LargeDungeonHyruleCastle_B3: |-
+  Hyrule Castle B3
+RaberaWet: |-
+  Rabella Wetlands
+SkyIsland0011: |-
+  Starview Island
+AnoleLake: |-
+  Gorko Lake
+CheckPoint064: |-
+  Cugukaram Lightroot
+CheckPoint108: |-
+  Ramobnukas Lightroot
+DasukidaPlateau: |-
+  Dunsel Plateau
+Dungeon038: |-
+  Ijo-o Shrine
+Dungeon143: |-
+  Gatanisis Shrine
+MapArea_HyruleForest_Sky: |-
+  Great Hyrule Forest Sky
+MapArea_HyruleHill: |-
+  Hyrule Ridge
+MinusField_KikinosaMt: |-
+  Lindor Canyon Mine
+NishakkarePlain: |-
+  Kanalet Ridge
+PlayerHouse: |-
+  Link's House
+RibuchaPlateau: |-
+  Aldor Foothills
+SkyIsland0012: |-
+  North Lomei Castle Top Floor
+SkyIslands_Gerudo01: |-
+  East Gerudo Sky Archipelago
+SkyIslands_Tamul01: |-
+  Sokkala Sky Archipelago
+CheckPoint065: |-
+  Tikanur Lightroot
+DeepHole_Cokiri: |-
+  Deku Tree Chasm
+Dungeon039: |-
+  Turakamik Shrine
+Dungeon144: |-
+  Morok Shrine
+Gerudo: |-
+  Gerudo Town
+KunaiLake: |-
+  Aquame Lake
+LargeDungeonThunder_1F: |-
+  Lightning Temple 1F
+MapArea_LanayruWaterSources: |-
+  Lanayru Great Spring
+MapRegion_HyrulePrairie_Underground: |-
+  Central Hyrule Depths
+MinusField_JijigegeMt: |-
+  Rozudo Canyon Mine
+MinusField_UMiiVillage: |-
+  Abandoned Tarrey Mine
+RoshiganLake: |-
+  South Nabi Lake
+ScrapShop: |-
+  Break-a-Part Shop
+ShopInn_Hateno: |-
+  Inn
+SkyIsland0013: |-
+  South Lomei Castle Top Floor
+SkyIslands_Gerudo02: |-
+  North Gerudo Sky Archipelago
+SkyIslands_Tamul02: |-
+  North Akkala Sky Archipelago
+SmeltShopGolem_00: |-
+  Forge Construct
+TamaLake: |-
+  Tama Pond
+ToriaBridge: |-
+  Boneyard Bridge
+TrakaIsland_West: |-
+  Wes Island
+Well_0010: |-
+  Aquame Lake Well
+Well_0043B: |-
+  Komo Shoreline Cave
+YuaSnow: |-
+  Naydra Snowfield
+BottuBay: |-
+  Spool Bight
+Dungeon145: |-
+  Jinodok Shrine
+GerudoDesertCrack: |-
+  Desert Rift
+LaveBeach: |-
+  Laverra Beach
+MapRegion_HyrulePrairie_Sky: |-
+  Central Hyrule Sky
+MinakkareBridge: |-
+  Sokkala Bridge
+ShitanoPond: |-
+  Firly Pond
+SkyIsland0014: |-
+  Lomei Sky Labyrinth
+SmeltShopGolem_01: |-
+  Forge Construct
+TafeaHill: |-
+  Taafei Hill
+UrokoCape: |-
+  Cape Cales
+Well_0011: |-
+  Outskirt Stable Well
+XekuBridge: |-
+  Digdogg Suspension Bridge
+CheckPoint067: |-
+  So-oaw Lightroot
+DokamamaPlain: |-
+  Sahasra Slope
+Dungeon146: |-
+  Sihajog Shrine
+KuroidaPlateau: |-
+  Breman Peak
+MapArea_HyruleHill_Sky: |-
+  Hyrule Ridge Sky
+MinakkarePlain: |-
+  South Akkala Plains
+MinusField_HatenoGate: |-
+  Secluded Coliseum
+PaiyuBay: |-
+  Horon Lagoon
+RashamaPlain: |-
+  North Hyrule Plain
+ShopInn_Gerudo: |-
+  Inn
+SmeltShopGolem_02: |-
+  Forge Construct
+SouthGerudoRuins: |-
+  Southern Oasis
+Well_0012: |-
+  Outskirt Hill Well
+AgePlateau: |-
+  Jia Highlands
+CheckPoint010: |-
+  Camobatures Lightroot
+CheckPoint068: |-
+  Nogukoyk Lightroot
+ChirakaVillage: |-
+  Goponga Village Ruins
+Dungeon147: |-
+  Minetak Shrine
+Hyrule_Out: |-
+  Hyrule Castle Moat
+KunaiBridge: |-
+  Aquame Bridge
+SmeltShopGolem_03: |-
+  Forge Construct
+TutukikiSnow: |-
+  Pikida Stonegrove
+Well_0013: |-
+  Mount Nabooru Well
+CheckPoint011: |-
+  Kawagom Lightroot
+DeepHole_Kakariko_EastHill: |-
+  East Hill Chasm
+Dungeon148: |-
+  Mayasiar Shrine
+FinrasForest: |-
+  Finra Woods
+GyunaIsland: |-
+  Ankel Island
+LittleBrotherBridge: |-
+  Little Twin Bridge
+OoosePlain: |-
+  Oseira Plains
+RodaiLake: |-
+  Rodai Lake
+ShariverMt: |-
+  Talonto Peak
+SmeltShopGolem_04: |-
+  Forge Construct
+Well_0014: |-
+  Rauru Settlement Ruins Well
+Assassin: |-
+  Yiga Clan Hideout
+Cave_GerudoDesert_0040: |-
+  South Gerudo Cave
+Cave_Hebra_0040: |-
+  North Biron Snowshelf Cave
+CheckPoint012: |-
+  Kimnaz Lightroot
+Dungeon149: |-
+  Mayam Shrine
+HatenoGate: |-
+  Fort Hateno
+MapArea_HyliaLake: |-
+  Lake Hylia
+MinusField_HimeidaSpa: |-
+  Meda Lavafalls
+MinusField_KumSpa: |-
+  Sturnida Lavafalls
+NitariBeach: |-
+  Korne Beach
+ShikuriIslands: |-
+  Wintre Island
+SmeltShopGolem_05: |-
+  Forge Construct
+TeraPlain: |-
+  Mabe Prairie
+Well_0015: |-
+  Hyrule Castle Town Ruins Well
+ZonauSatelliteShrine_LeftLeg: |-
+  Left-Leg Depot
+Cave_Akkala_0000: |-
+  Ulria Grotto South Cave
+Cave_GerudoDesert_0041: |-
+  Koukot Plateau Cave
+Cave_Hebra_0041: |-
+  East Biron Snowshelf Cave
+Cave_Lanayru_0060: |-
+  Upland Zorana Foothill Cave
+CheckPoint013: |-
+  Muokuij Lightroot
+KasuraMt: |-
+  Corvash Peak
+NishojiBridge: |-
+  Gleeok Bridge
+SmeltShopGolem_06: |-
+  Forge Construct
+TabantaCrater: |-
+  Gisa Crater
+Well_0016: |-
+  Mabe Village Ruins Well
+AkkareBigBridge: |-
+  Akkala Span
+ArafuraPlain: |-
+  Fural Plain
+BituoValley: |-
+  Tobio's Hollow
+Cave_CentralHyrule_0011: |-
+  Bottomless Cave
+Cave_GerudoHighlands_0002: |-
+  Taafei Hill Cave
+Cave_Lanayru_0061: |-
+  Cave Under Zora's Domain
+CheckPoint014: |-
+  Koro-nui Lightroot
+MakuminoValley: |-
+  Harfin Valley
+MinusField_OngiForest: |-
+  Applean Grove
+SmeltShopGolem_07: |-
+  Forge Construct
+Well_0017: |-
+  Rebonae Bridge Well
+AmonenePlateau: |-
+  Ralis Pond
+BuhaIslands: |-
+  Broca Island
+BuichadaPlateau: |-
+  Tumlea Heights
+Cave_GerudoDesert_0043: |-
+  East Gerudo Chasm
+CheckPoint120: |-
+  Busus Lightroot
+Dungeon050: |-
+  Kadaunar Shrine
+KirisasaPlateau: |-
+  Lanayru Bluff
+MapArea_GerudoHighlands: |-
+  Gerudo Highlands
+MapArea_TamulPlateau_Underground: |-
+  Akkala Highlands Depths
+MinusField_FlamingoSpa: |-
+  Goflam's Lavafalls
+MinusField_HawkMt: |-
+  Cuho Canyon Mine
+MinusField_LizardLake: |-
+  Scorching Coliseum
+ShopGeneral_Kakariko: |-
+  General Store
+ShopGeneral_Oasis: |-
+  General Store
+SmeltShopGolem_08: |-
+  Forge Construct
+SusonoLake: |-
+  Rutile Lake
+Well_0018: |-
+  Bottomless Pond Well
+ZamaPlain: |-
+  Seres Scablands
+Zora_FishIsland: |-
+  Floating Scales Island
+Cave_Akkala_0003: |-
+  Ulria Grotto East Cave
+Cave_CentralHyrule_0013: |-
+  Pit Cave
+Cave_GerudoDesert_0044: |-
+  Ancient Altar Ruins
+Cave_Lanayru_0063: |-
+  Chasm Under Zora's Domain
+CheckPoint016: |-
+  Gonatoyros Lightroot
+Dungeon051: |-
+  Domizuin Shrine
+ElegLake: |-
+  Nabi Lake
+EnRiver: |-
+  Menoat River
+MinusField_OpeningField: |-
+  Forgotten Foundation
+SmeltShopGolem_09: |-
+  Forge Construct
+TrakaIsland_Small: |-
+  Bannan Island
+Well_0019: |-
+  South Nabi Lake Well
+Cave_GerudoDesert_0045: |-
+  Oasis Source
+CheckPoint017: |-
+  Kayam Lightroot
+CheckPoint122: |-
+  Sohse Lightroot
+DeepHole_FirstLandEast: |-
+  Great Plateau East Chasm
+Dungeon052: |-
+  Mogisari Shrine
+GoronSpa: |-
+  Goron Hot Springs
+HeburaLodge: |-
+  Hebra Trailhead Lodge
+MinusField_BluePrintShrine: |-
+  Great Abandoned Central Mine
+Oasis: |-
+  Kara Kara Bazaar
+SarjonBridge: |-
+  Sarjon Bridge
+UbotsuPlateau: |-
+  Ubota Point
+Cave_Akkala_0005: |-
+  Tarrey Town Tunnel
+Cave_GerudoDesert_0046: |-
+  Gerudo Great Skeleton
+Cave_HateruEast_0013: |-
+  Eventide Island Cave
+CheckPoint018: |-
+  Kimimeg Lightroot
+CheckPoint123: |-
+  Oyimay Lightroot
+Dungeon053: |-
+  Kikakin Shrine
+GerudoFossil: |-
+  Gerudo Great Skeleton
+HeburaEastSummit: |-
+  Hebra East Summit
+HyruleCastle_Room_10: |-
+  East Passage
+KingfisherSpa: |-
+  Sherfin's Secret Hot Spring
+MeganeRock: |-
+  Spectacle Rock
+RingLegacy: |-
+  Ring Ruins
+RiverSideHatago: |-
+  Riverside Stable
+ShinikkyoForest: |-
+  Giant's Forest
+TsukaiePlateau: |-
+  Stinger Cliffs
+BokoboLake: |-
+  Gero Pond
+BonrasForest: |-
+  Bronas Forest
+Cave_HateruEast_0014: |-
+  Ubota Point Cave
+CheckPoint019: |-
+  Muihcoro Lightroot
+CheckPoint080: |-
+  Kawikatisar Lightroot
+CheckPoint124: |-
+  Netinet Lightroot
+City_BaseCamp: |-
+  Lookout Landing
+Dungeon054: |-
+  Sibajitak Shrine
+FloriaFalls: |-
+  Floria Falls
+HyruleCastle_Room_11: |-
+  West Passage
+LargeDungeonFire_2F: |-
+  Fire Temple 2F
+ShopArmor_Hateno: |-
+  Armor Shop
+SusukadiBridge: |-
+  Inogo Bridge
+BigBrotherBridge: |-
+  Big Twin Bridge
+Cave_Akkala_0007: |-
+  Construction Site Cave
+Cave_CentralHyrule_0017: |-
+  Pondside Cave
+Cave_GerudoHighlands_0008: |-
+  Statue of the Eighth Heroine Cave
+CheckPoint081: |-
+  Usukaz Lightroot
+CheckPoint125: |-
+  Ikatoayam Lightroot
+DeathCaldera: |-
+  Death Caldera
+Dungeon055: |-
+  Siyamotsus Shrine
+FuruboLake: |-
+  Lake Intenoch
+HyruleDepthHatago: |-
+  Outskirt Stable
+MapArea_LiveMountain_Sky: |-
+  Mount Lanayru Sky
+NaganizaHill: |-
+  Temto Hill
+RentalZarashiShop_Gerudo: |-
+  Sand-Seal Rental Shop
+RirimukuHighlands: |-
+  Drenan Highlands
+RishakutoPlateau: |-
+  Pillars of Levia
+RonronCity: |-
+  Mabe Village Ruins
+ShopInn_Uotori: |-
+  Inn
+ZitoGreens: |-
+  Passeri Greenbelt
+Cave_CentralHyrule_0018: |-
+  Royal Hidden Passage
+Cave_GerudoDesert_0049: |-
+  West Gerudo Underground Ruins
+Cave_HateruEast_0016: |-
+  Atun Valley Cave
+CheckPoint126: |-
+  Sikurukam Lightroot
+Dungeon056: |-
+  Utsushok Shrine
+Kakariko_EastHill: |-
+  East Hill
+MapArea_HeburaMountains_Underground: |-
+  Hebra Mountains Depths
+MinusField: |-
+  The Depths
+MinusField_KiyanbaTrees: |-
+  Minshi Grove
+OshoromaLake: |-
+  Ruto Lake
+SaihokuCastle: |-
+  North Lomei Labyrinth
+ShopArmor_Gerudo: |-
+  Armor Shop
+SkyIslands_Lanayru02: |-
+  South Lanayru Sky Archipelago
+TagonaTrees: |-
+  Tabahl Woods
+YamariRiver: |-
+  Squabble River
+AagetoMt: |-
+  Mount Agaat
+AdeyaVillage: |-
+  Deya Village Ruins
+Cave_CentralHyrule_0019: |-
+  Mining Cave
+Dungeon057: |-
+  Jikais Shrine
+KiyanbaTrees: |-
+  Minshi Woods
+SkyIslands_Lanayru03: |-
+  Lanayru Sky Archipelago
+TomiyoPlateau: |-
+  Trotter's Downfall
+CheckPoint084: |-
+  Nojoj Lightroot
+Circuit_Ichikara: |-
+  Tarrey Town Race
+Dungeon000: |-
+  Tajikats Shrine
+Dungeon058: |-
+  Kitawak Shrine
+MapArea_GerudoDesert: |-
+  Gerudo Desert
+MinusField_HeburaPeak: |-
+  Hebra Canyon Mine
+MinusField_KutiffMt: |-
+  Rhoam Canyon Mine
+UraitoLake: |-
+  Riola Spring
+CheckPoint085: |-
+  Mimufis Lightroot
+CheckPoint129: |-
+  Akinatanis Lightroot
+DeepHole_Minakkare: |-
+  South Akkala Plains Chasm
+Dungeon001: |-
+  Jochi-iu Shrine
+Dungeon059: |-
+  Sonapan Shrine
+HorseStableBranchOffice_Gerudo: |-
+  Mini Stable
+KakufusaPlain: |-
+  Whistling Hill
+KamasuPlateau: |-
+  Kamah Plateau
+LargeDungeonThunder_3F: |-
+  Lightning Temple 3F
+MapArea_EldinCanyon: |-
+  Eldin Canyon
+MapArea_FironeGrassland: |-
+  Faron Grasslands
+MinusField_Cohorint: |-
+  Lone Island Coliseum
+NorthHugeStone: |-
+  Great Cliffs
+Well_0030: |-
+  Lanayru Wetlands Well
+WholeOfHyrule: |-
+  Greater Hyrule
+Cave_Lanayru_0014: |-
+  Oren Bridge Cave
+CheckPoint086: |-
+  Kato Lightroot
+Dungeon002: |-
+  Sitsum Shrine
+EX_LowGravityIsland: |-
+  Wellspring Island
+HatenoFarm: |-
+  Hateno Pasture
+MapArea_DeathMountain: |-
+  Death Mountain
+MapRegion_Gerudo: |-
+  Gerudo
+Mine: |-
+  YunoboCo HQ
+MinusField_RiaroTrees: |-
+  Hickaly Grove
+MinusField_ShinikkyoForest: |-
+  Giant's Grove
+ShopInn_Goron: |-
+  Inn
+Well_0031: |-
+  Rikoka Hills Well
+BraveFountain: |-
+  Spring of Courage
+CheckPoint087: |-
+  Gonatoyrim Lightroot
+DeathMountainHatago: |-
+  Foothill Stable
+DeathMountainWestWorkshop: |-
+  Death Mountain West Site
+Dungeon003: |-
+  Oromuwak Shrine
+EastEunpoHighlands: |-
+  East Deplian Badlands
+SoridaPeninsula: |-
+  Tingel Island
+TompoPlain: |-
+  Romani Plains
+Well_0032: |-
+  Tabahl Woods Well
+AgunaiLake: |-
+  Darunia Lake
+BuramuPlateau: |-
+  Popla Foothills
+CheckPoint030: |-
+  Uoyoyuik Lightroot
+CheckPoint088: |-
+  Tayamik Lightroot
+Dungeon004: |-
+  Mayachin Shrine
+GasemaDam: |-
+  Rutala Dam
+GatakaraGarrison: |-
+  Kolomo Garrison Ruins
+KagossaMt: |-
+  Zokassa Ridge
+LightningPlateau: |-
+  Thundra Plateau
+LostForest: |-
+  Lost Woods
+MapArea_TamulPlateau: |-
+  Akkala Highlands
+MerkayaLowTrees: |-
+  Taobab Grassland
+Well_0033: |-
+  Shadow Hamlet Ruins Well
+CheckPoint031: |-
+  Uihcoke Lightroot
+CheckPoint089: |-
+  Kisomom Lightroot
+DeepHole_ZifForest: |-
+  Forest of Time Chasm
+Dungeon005: |-
+  Musanokir Shrine
+Dungeon110: |-
+  Natak Shrine
+HyruleCentralPlace: |-
+  Central Square
+KiriyabuMt: |-
+  Bonooru's Stand
+MorugaMt: |-
+  Mount Granajh
+OrdinBridge: |-
+  Bridge of Eldin
+OrdinFossil: |-
+  Eldin Great Skeleton
+TaruhoPlateau: |-
+  Firly Plateau
+Well_0034: |-
+  Kara Kara Bazaar Well
+CheckPoint032: |-
+  Koradat Lightroot
+Dungeon006: |-
+  Ren-iz Shrine
+Dungeon111: |-
+  Rutafu-um Shrine
+EldinRestaurants: |-
+  Bedrock Bistro
+KauLake: |-
+  Hebra Plunge
+KumPlateau: |-
+  Sturnida Basin
+RirimukuMt: |-
+  Mount Drena
+WestEunpoHighlands: |-
+  West Deplian Badlands
+BaseCamp_Shelter: |-
+  Emergency Shelter
+BrostarPlain: |-
+  Samasa Plain
+Cave_CentralHyrule_0030: |-
+  Sage Temple Cave
+Cave_Lanayru_0019: |-
+  Tabahl Woods Cave
+CheckPoint033: |-
+  Gataharak Lightroot
+Dungeon007: |-
+  Sahirow Shrine
+Dungeon112: |-
+  O-ogim Shrine
+GoinaPlateau: |-
+  Pierre Plateau
+KikinosaPlain: |-
+  Upland Lindor
+OkuwaLake: |-
+  Lake Siela
+SaphiasPlateau: |-
+  Sapphia's Table
+TabantaSnow_South: |-
+  South Tabantha Snowfield
+TohikiLake: |-
+  Koto Pond
+Tower10: |-
+  Gerudo Highlands Skyview Tower
+Cave_HateruWest_0011: |-
+  Dueling Peaks North Cave
+DatsuPlain: |-
+  Parache Plains
+DeepHole_GerudoSummit: |-
+  Gerudo Summit Chasm
+Dungeon008: |-
+  Rotsumamu Shrine
+Dungeon113: |-
+  Jogou Shrine
+LargeDungeonHyruleCastle_1F: |-
+  Hyrule Castle 1F
+MapRegion_Lanayru_Sky: |-
+  Lanayru Sky
+RirikendoBridge: |-
+  Oren Bridge
+Tower11: |-
+  Rabella Wetlands Skyview Tower
+Cave_HateruWest_0012: |-
+  Dueling Peaks South Cave
+CheckPoint035: |-
+  Anonisik Lightroot
+CheckPoint140: |-
+  Rasinaduk Lightroot
+Dungeon009: |-
+  Mayamats Shrine
+Dungeon070: |-
+  Nouda Shrine
+Dungeon114: |-
+  Marari-in Shrine
+EagleBridge: |-
+  Kolami Bridge
+FloriaBridge: |-
+  Floria Bridge
+InvestigatingGroupBase: |-
+  Zonai Survey Team Base
+MapArea_DeathMountain_Sky: |-
+  Death Mountain Sky
+MapArea_EldinCanyon_Underground: |-
+  Eldin Canyon Depths
+MapArea_LiveMountain: |-
+  Mount Lanayru
+MedakaValley: |-
+  Ulria Grotto
+PoponMt: |-
+  Satori Mountain
+PostTownRuin: |-
+  Outpost Ruins
+ShopGeneral_Gerudo: |-
+  General Store
+Tower12: |-
+  Thyphlo Ruins Skyview Tower
+ZonauSatelliteShrine_RightArm: |-
+  Right-Arm Depot
+Cave_FirstPlateau_0001: |-
+  River of the Dead Waterfall Cave
+ChagaraMt: |-
+  Gogobi Shores
+CheckPoint036: |-
+  U-nazohso Lightroot
+CheckPoint141: |-
+  U-u-ujoj Lightroot
+DeepHole_LomeiIsland: |-
+  Lomei Labyrinth Chasm
+Dungeon071: |-
+  Joku-usin Shrine
+Dungeon115: |-
+  Pupunke Shrine
+GumaroValley: |-
+  Atun Valley
+KondanaLake: |-
+  Darb Pond
+MapArea_LanayruWetlands: |-
+  Lanayru Wetlands
+MinakkareBridgeEast: |-
+  East Sokkala Bridge
+RitoHatago: |-
+  Rito Stable
+SanrosaLake: |-
+  Pico Pond
+SnowStatue: |-
+  Statue of the Eighth Heroine
+Tower13: |-
+  Popla Foothills Skyview Tower
+ValleyVillage: |-
+  Flight Range
+Cave_FirstPlateau_0002: |-
+  Shrine of Resurrection
+Cave_LanayruMountain_0002: |-
+  Lanayru Road South Cave
+CheckPoint037: |-
+  Sasag Lightroot
+CheckPoint142: |-
+  Nisoij Lightroot
+Dungeon072: |-
+  Eutoum Shrine
+Dungeon116: |-
+  Bamitok Shrine
+HigashinoBay: |-
+  Deepback Bay
+KakaomePlain: |-
+  Irch Plain
+KazuryuRiver: |-
+  Dracozu River
+KochuBridge: |-
+  Kakariko Bridge
+LargeDungeonFire: |-
+  Fire Temple
+MinusField_AkkareZhai: |-
+  Ancient Underground Fortress
+MinusField_NezuppoTrees: |-
+  Pappetto Grove
+MinusField_SaiMt: |-
+  Gustaf Canyon Mine
+ShigonDam: |-
+  Lanayru Promenade
+Tower14: |-
+  Mount Lanayru Skyview Tower
+TrakaIsland_South: |-
+  Zauz Island
+WabiLake: |-
+  Lake Akkala
+WhiteZora: |-
+  Zora's Domain
+AraisoBeach: |-
+  Aris Beach
+CheckPoint143: |-
+  Sisinatag Lightroot
+Dungeon073: |-
+  Isisim Shrine
+Dungeon117: |-
+  Ganos Shrine
+GasemaRiver: |-
+  Rutala River
+IooValley: |-
+  Trilby Valley
+MapRegion_Hebura: |-
+  Hebra
+MinakkareBridgeWest: |-
+  West Sokkala Bridge
+MinusField_PowerFountain: |-
+  Wellspring of Power
+NikakaIsland: |-
+  Isle of Rabac
+Tower15: |-
+  Rospro Pass Skyview Tower
+BarakkiPlain: |-
+  Dalite Forest
+CheckPoint039: |-
+  Kimakarut Lightroot
+CheckPoint144: |-
+  Korom Lightroot
+Dungeon074: |-
+  Mayachideg Shrine
+Dungeon118: |-
+  Irasak Shrine
+EastGerudoPlateau: |-
+  East Gerudo Mesa
+EzzuBridge: |-
+  Eagus Bridge
+HatenokoIsland: |-
+  Tenoko Island
+LargeDungeonFire_4F: |-
+  Fire Temple 4F
+MapArea_WestHateru: |-
+  West Necluda
+SkyIslands_Tabanta01: |-
+  Tabantha Sky Archipelago
+AkkareZhai: |-
+  Akkala Citadel Ruins
+BanmezaLake: |-
+  Harker Lake
+DeepHole_AkkareSkull: |-
+  Skull Lake Chasm
+DeepHole_B-6_Tower: |-
+  Birida Lookout Chasm
+DeepHole_FirstLandNorth: |-
+  Great Plateau North Chasm
+Dungeon075: |-
+  Otutsum Shrine
+Dungeon119: |-
+  Kurakat Shrine
+HopeBridge: |-
+  Bank of Wishes
+HyruleCastle_Hall_0: |-
+  Sanctum
+SkyIslands_Tabanta02: |-
+  North Tabantha Sky Archipelago
+TamourHatago: |-
+  East Akkala Stable
+VPlateau: |-
+  Zirco Mesa
+Cave_LanayruMountain_0006: |-
+  Mapla Point Cave
+Dungeon076: |-
+  Utojis Shrine
+GerudoPyramidDungeon_1: |-
+  Room of Hopeful Light
+Hateno: |-
+  Hateno Village
+HyruleCastle_Hall_1: |-
+  Second Gatehouse
+Kakariko: |-
+  Kakariko Village
+MinusField_TerumeMt: |-
+  Taran Canyon Mine
+MomoMt: |-
+  Scout's Hill
+RutsuPlain: |-
+  Rayne Highlands
+TargarPlain: |-
+  Brynna Plain
+WestGerudoRuins: |-
+  West Gerudo Ruins
+Cave_Eldin_0030: |-
+  Lizard's Burrow
+Cave_Lanayru_0031: |-
+  Pristine Sanctum
+CheckPoint147: |-
+  Katenim Lightroot
+Dungeon077: |-
+  Kamizun Shrine
+Execution: |-
+  Castle Town Prison
+GakanakkyoPlain: |-
+  West Hyrule Plains
+GarakishiVillage: |-
+  Shadow Hamlet Ruins
+GerudoPyramidDungeon_2: |-
+  Room of Ascension
+HyruleCastle_Hall_2: |-
+  First Gatehouse
+HyruleLabo: |-
+  Royal Ancient Lab Ruins
+HyruleUnderground: |-
+  The Depths
+KingValley: |-
+  Forgotten Temple
+MihekoBay: |-
+  Malin Bay
+MinusField_ForestColosseum: |-
+  Forest Coliseum
+MinusField_GobyMt: |-
+  Tuft Canyon Mine
+MinusField_KinshoiMt: |-
+  Daphnes Canyon Mine
+TabantaSnow: |-
+  Tabantha Tundra
+Cave_Eldin_0031: |-
+  Lake Intenoch Cave
+Cave_Hebra_0013: |-
+  Icefall Foothills Cave
+Cave_Lanayru_0032: |-
+  Upland Zorana Mountainside Cave
+Cave_LanayruMountain_0008: |-
+  Oakle's Navel Cave
+Dungeon020: |-
+  Sinakawak Shrine
+Dungeon078: |-
+  Suariwak Shrine
+GerudoPyramidDungeon_3: |-
+  Room of Offered Light
+HachijoBridge: |-
+  Owlan Bridge
+IceHouse: |-
+  Northern Icehouse
+IrimoLake: |-
+  Goronbi Lake
+MapArea_EastHateru_Sky: |-
+  East Necluda Sky
+MapArea_EldinMountains_Underground: |-
+  Eldin Mountains Depths
+MapRegion_Hateru_Sky: |-
+  Necluda Sky
+MinusField_MiddleTrees: |-
+  Midla Grove
+ShopInn_Rito: |-
+  Inn
+Cave_Firone_0002: |-
+  Floria River Upstream Excavation
+Cave_Lanayru_0033: |-
+  Upland Zorana Byroad
+Dungeon021: |-
+  Tauyosipun Shrine
+Dungeon079: |-
+  Rakakudaj Shrine
+GerudoPyramidDungeon_4: |-
+  Room of Light and Flame
+HashibiroLake: |-
+  Strock Lake
+LargeDungeonThunder_5F: |-
+  Lightning Temple 5F
+PafaBeach: |-
+  Puffer Beach
+RaruLake: |-
+  Calora Lake
+ShopJewelry_Gerudo: |-
+  Jewelry Shop
+TwinsMountain: |-
+  Dueling Peaks
+WatakaPlateau: |-
+  Quatta's Shelf
+Well_0047B: |-
+  Wetland Stable South Well
+Well_0050: |-
+  New Serenne Stable Well
+Bar: |-
+  Canteen
+Cave_Eldin_0033: |-
+  YunoboCo HQ East Cave
+Cave_GerudoDesert_0015: |-
+  Quicksand Lake Cave
+Cave_Hebra_0015: |-
+  Lake Kilsie Cave
+Dungeon022: |-
+  Tukarok Shrine
+GashamaHill: |-
+  Crenel Hills
+GerudoPyramidDungeon_5: |-
+  Room of Light and Shade
+HyruleWater: |-
+  Water Reservoir
+KazuryuLake: |-
+  Dracozu Lake
+KuhanLake: |-
+  Hanu Pond
+RogyLake: |-
+  Lake Jarrah
+TunbriPlain: |-
+  Courage Steppe
+Well_0051: |-
+  Kakariko Village Well
+Cave_Eldin_0034: |-
+  YunoboCo HQ South Cave
+Cave_Hebra_0016: |-
+  Hebra Headspring Cave
+Cave_Lanayru_0035: |-
+  Horon Lagoon Cave
+Dungeon023: |-
+  Sikukuu Shrine
+GerudoPyramidDungeon_6: |-
+  Room of Natural Light
+MenadaBeach: |-
+  Afromsia Coast
+MinusField_HeburaFossil: |-
+  Hebra Dark Skeleton
+TrakaIsland: |-
+  Linebeck Island
+Well_0052: |-
+  Woodland Stable Well
+Cave_Eldin_0035: |-
+  Death Mountain Foothill Cave
+Cave_Lanayru_0036: |-
+  Tarm Point Cave
+Dungeon024: |-
+  Siwakama Shrine
+GerudoCanyon: |-
+  Gerudo Canyon
+GerudoPyramidDungeon_7: |-
+  Room of Glorious Light
+HatenoSchool: |-
+  Hateno School
+LanayruWestEntrance: |-
+  Lanayru Road - West Gate
+MapArea_FironeSea: |-
+  Faron Sea
+MapArea_HateruSea: |-
+  Necluda Sea
+MapArea_HateruSea_Underground: |-
+  Necluda Sea Depths
+MinusField_FenaMt: |-
+  Nabooru Canyon Mine
+MinusField_Goron: |-
+  Abandoned Eldin Mine
+ShinyarkiVillage: |-
+  Rauru Settlement Ruins
+ShopArmor_BaseCamp: |-
+  Armor Shop
+UchoPlateau: |-
+  Mable Ridge
+Well_0053: |-
+  Lookout Landing Well
+CheckPoint051: |-
+  Niuzimod Lightroot
+Dungeon025: |-
+  Turakawak Shrine
+Dungeon130: |-
+  Jochisiu Shrine
+GibogaHill: |-
+  Rok Woods
+KingValley2: |-
+  Forgotten Temple
+MapArea_FironeSea_Underground: |-
+  Faron Sea Depths
+MinakkareFalls: |-
+  Akkala Falls
+NorthGerudoRuins: |-
+  North Gerudo Ruins
+Well_0054: |-
+  Foothill Stable Well
+AnoleTunnel: |-
+  Gorko Tunnel
+Cave_Eldin_0037: |-
+  Lake Ferona Cave
+Cave_Hebra_0019: |-
+  Pikida Stonegrove Northwest Cave
+Cave_HyruleRidge_0000: |-
+  North Hyrule Plain Cave
+Cokiri: |-
+  Korok Forest
+DeathMountain_Entrance: |-
+  Maw of Death Mountain
+Dungeon026: |-
+  Riogok Shrine
+Dungeon131: |-
+  Ishokin Shrine
+MapArea_TabantaFrontier: |-
+  Tabantha Frontier
+MinusField_DesertGrave: |-
+  Gerudo Underground Cemetery
+RazezePlateau: |-
+  Lanayru Heights
+TaserakaBridge: |-
+  Thims Bridge
+Well_0055: |-
+  Construction Site Well
+Cave_Eldin_0038: |-
+  Cephla Lake Cave
+Cave_Firone_0008: |-
+  Pagos Woods Excavation Site
+CheckPoint053: |-
+  Nikakik Lightroot
+Dungeon027: |-
+  Anedamimik Shrine
+Dungeon132: |-
+  Sisuran Shrine
+ErumedaPlateau: |-
+  Meadela's Mantle
+LakeHylia_Underground: |-
+  Lake Hylia Depths
+MapRegion_Hebura_Sky: |-
+  Hebra Sky
+MinusField_GibururuMt: |-
+  Ruto Canyon Mine
+MinusField_LomeiNorth: |-
+  North Lomei Depths Labyrinth
+PongagaMt: |-
+  Ebon Mountain
+PupukoreFalls: |-
+  Veiled Falls
+SkyIsland0001: |-
+  Courage Island
+SouthMine: |-
+  Southern Mine
+Taura: |-
+  Lurelin Village
+Well_0056: |-
+  South Akkala Stable Well
+Cave_Eldin_0039: |-
+  Foothill Monster Den
+Cave_Firone_0009: |-
+  Tobio's Hollow Cave
+Cave_HyruleRidge_0002: |-
+  Tamio River Downstream Cave
+CheckPoint054: |-
+  Katijabis Lightroot
+Dungeon028: |-
+  Mayausiy Shrine
+Dungeon133: |-
+  Tenmaten Shrine
+GoronBridge: |-
+  Stolock Bridge
+MemeMt: |-
+  Ploymus Mountain
+MinusField_PoponMt: |-
+  Blupee Burrow
+MoroLake: |-
+  Mikau Lake
+NiiLake: |-
+  Cora Lake
+ShopArmor_Goron: |-
+  Armor Shop
+SkyIsland0002: |-
+  Bravery Island
+Well_0057: |-
+  East Akkala Stable Well
+YashinoLegacy: |-
+  Palmorae Ruins
+Cave_HyruleRidge_0003: |-
+  Lindor's Brow Cave
+DeepHole_Saihateno: |-
+  Eventide Island Chasm
+Dungeon029: |-
+  Ishodag Shrine
+Dungeon090: |-
+  Igashuk Shrine
+Dungeon134: |-
+  Jochi-ihiga Shrine
+GameShiledSurf: |-
+  Selmie's Spot
+HyruleGround: |-
+  Hyrule Kingdom
+KokuwaLake: |-
+  Ash Swamp
+KurisobeSnow: |-
+  Risoka Snowfield
+MapArea_LanayruWetlands_Underground: |-
+  Lanayru Wetlands Depths
+MapArea_TamulOutback: |-
+  Deep Akkala
+PukuntoMt: |-
+  Bottomless Pond
+Rito_SkyHighIsland: |-
+  Rising Island Chain
+RuberaHill: |-
+  Cliffs of Ruvara
+ShopGeneral_Korok: |-
+  General Store
+SkyIsland0003: |-
+  Valor Island
+SkyIslands_Eldin01: |-
+  Eldin Sky Archipelago
+TimesShrine: |-
+  Temple of Time Ruins
+WeaponCureSpring_DressFairy_00: |-
+  Great Fairy Fountain
+Well_0058: |-
+  Haran Lakefront Well
+Cave_HyruleRidge_0004: |-
+  Hyrule Ridge Chasm
+CheckPoint056: |-
+  Kohsustu Lightroot
+CookingShop: |-
+  Restaurant
+DragonMarsh: |-
+  Dragon Bone Mire
+Dungeon091: |-
+  Taki-ihaban Shrine
+Dungeon135: |-
+  Makasura Shrine
+GibururuMt: |-
+  Ruto Mountain
+MapArea_DeathMountain_Underground: |-
+  Death Mountain Depths
+RonronRiver: |-
+  Hylia River
+SkyIsland0004: |-
+  Sky Mine
+SkyIslands_Eldin02: |-
+  South Eldin Sky Archipelago
+SotonkaBridge: |-
+  Manhala Bridge
+SwanLake: |-
+  Hebra Falls
+WeaponCureSpring_DressFairy_01: |-
+  Great Fairy Fountain
+Well_0001: |-
+  Dronoc's Pass Well
+Well_0059: |-
+  Tabantha Bridge Stable Well
+BlizzarValley: |-
+  Coldsnap Hollow
+Cave_HyruleRidge_0005: |-
+  Satori Mountain Foothill Cave
+Cave_LanayruMountain_0022: |-
+  Deepback Bay Cave
+CheckPoint057: |-
+  Siakij Lightroot
+Dungeon092: |-
+  En-oma Shrine
+Dungeon136: |-
+  Kyononis Shrine
+GerudoEightHeroStatue: |-
+  Statue of the Eighth Heroine Room
+HeburaMt_North: |-
+  Hebra North Crest
+HigakkarePlain: |-
+  East Akkala Plains
+HyliaMt: |-
+  Mount Hylia
+LargeDungeonSoul: |-
+  Spirit Temple
+ShopInn_Zora: |-
+  Inn
+TatsubaLake: |-
+  Batrea Lake
+WeaponCureSpring_DressFairy_02: |-
+  Great Fairy Fountain
+Well_0002: |-
+  Tabantha Village Ruins Well
+Cave_HyruleRidge_0006: |-
+  Thundra Plateau Cave
+CheckPoint000: |-
+  Stakijat Lightroot
+CheckPoint058: |-
+  Kawatik Lightroot
+DarinoPond: |-
+  Nirvata Lake
+DeepHole_FirstLandWest: |-
+  Great Plateau West Chasm
+DeepHole_KiyanbaTrees: |-
+  Minshi Woods Chasm
+Dungeon093: |-
+  Kumamayn Shrine
+Dungeon137: |-
+  Timawak Shrine
+EastPostTownRuin: |-
+  East Post Ruins
+GaneLake: |-
+  Purifier Lake
+GimpoMt: |-
+  Mount Floria
+HyruleTower: |-
+  Castle Town Watchtower
+KurindaPrairie: |-
+  Darybon Plains
+MapArea_GerudoDesert_Sky: |-
+  Gerudo Desert Sky
+MapArea_LanayruSea: |-
+  Lanayru Sea
+MapRegion_Eldin_Sky: |-
+  Eldin Sky
+MoriMt: |-
+  Ulri Mountain
+SanaePlateau: |-
+  Hills of Baumer
+ShopDye_Hateno: |-
+  Dye Shop
+ShopInn_Oasis: |-
+  Inn
+Well_0003: |-
+  Maritta Exchange Ruins Well
+Cave_HyruleRidge_0007: |-
+  Tanagar Canyon East Cave
+Cave_LanayruMountain_0024: |-
+  Cape Cales Cliffbase Cave
+Cave_Tabantha_0001: |-
+  Gisa Crater Cave
+CheckPoint001: |-
+  Ui-ihcoj Lightroot
+CheckPoint059: |-
+  Napanos Lightroot
+DamzelForest: |-
+  Damel Forest
+Dungeon094: |-
+  Yomizuk Shrine
+Dungeon138: |-
+  Jonsau Shrine
+HyruleTemple: |-
+  Hyrule Cathedral
+IbaraPlateau: |-
+  Ibara Butte
+KutenLake: |-
+  Uten Marsh
+LakeHylia: |-
+  Lake Hylia
+MapArea_GerudoHighlands_Sky: |-
+  Gerudo Highlands Sky
+MapRegion_Firone: |-
+  Faron
+MinusField_GobyLake: |-
+  Ancient Observation Deck
+PakanchiIsland: |-
+  Knuckel Island
+Well_0004: |-
+  Rowan Plain Well
+YashinoBeach: |-
+  Palmorae Beach
+AkkareGarrison: |-
+  Akkala Parade Ground Ruins
+AnchoBeach: |-
+  Toronbo Beach
+Cave_GerudoDesert_0030: |-
+  Stalry Plateau Cave
+Cave_Hebra_0030: |-
+  Hebra South Summit Cave
+Cave_HyruleRidge_0008: |-
+  Satori Mountain Cave
+Cave_LanayruMountain_0025: |-
+  Retsam Forest Cave
+Cave_Tabantha_0002: |-
+  Ancient Columns Cave
+CheckPoint002: |-
+  Mustis Lightroot
+Dungeon095: |-
+  Mayahisik Shrine
+Dungeon139: |-
+  Rasiwak Shrine
+GerudoUndergroundTown: |-
+  Gerudo Shelter
+JiuRiver: |-
+  Zora River
+MapArea_EastHateru_Underground: |-
+  East Necluda Depths
+MapRegion_Lanayru: |-
+  Lanayru
+MinusField_SouthGerudoLegacy: |-
+  Desert Coliseum
+OkuAkkarePlain: |-
+  Akkala Wilds
+TrakaIsland_Big: |-
+  Mercay Island
+Well_0005: |-
+  Irch Plain Well
+Cave_GerudoDesert_0031: |-
+  East Gerudo Ruins Cave
+Cave_Lanayru_0050: |-
+  Lanayru Wetlands Chasm
+Cave_LanayruMountain_0026: |-
+  Fort Hateno Cave
+Cave_Tabantha_0003: |-
+  Tanagar Canyon West Cave
+CheckPoint003: |-
+  Kawumoro Lightroot
+Dungeon096: |-
+  Motsusis Shrine
+FeoreRiver: |-
+  Lake Mekar
+GobyMt: |-
+  Tuft Mountain
+GoyoLake: |-
+  Bloodleaf Lake
+HamiyonPlain: |-
+  Ovli Plain
+NorthHatelHatago: |-
+  Wetland Stable
+RinosPass: |-
+  Dronoc's Pass
+SkyIsland0009: |-
+  Lightcast Island
+SusonoPlain: |-
+  Illumeni Plateau
+Well_0006: |-
+  Elma Knolls Well
+Cave_Firone_0020: |-
+  Finra Woods Excavation Site
+Cave_GerudoDesert_0032: |-
+  Central Gerudo Cave
+CheckPoint004: |-
+  Nihcayam Lightroot
+Dungeon097: |-
+  Maoikes Shrine
+EastDam: |-
+  East Reservoir Lake
+GutinizaPlain: |-
+  Guchini Plain
+HemaHill: |-
+  Hemaar's Descent
+LakeHylia_Sky: |-
+  Lake Hylia Sky
+MinusField_AncientTimeShrine: |-
+  Plains Bargainer Statue
+MinusField_TwinsMountain: |-
+  Dueling Canyons Mine
+ShopGeneral_Goron: |-
+  General Store
+SkyIslands_Hateru01: |-
+  Necluda Sky Archipelago
+TabantaHill: |-
+  Tabantha Hills
+Well_0007: |-
+  Carok Bridge Well
+WetGarrison: |-
+  Moor Garrison Ruins
+Cave_HateruEast_0000: |-
+  Mount Dunsel Cave
+Cave_Lanayru_0052: |-
+  Crenel Hills Cave
+CheckPoint005: |-
+  Rikonasum Lightroot
+Dungeon040: |-
+  Gatakis Shrine
+Dungeon098: |-
+  Moshapin Shrine
+ForestHatago: |-
+  Woodland Stable
+HyruleCave: |-
+  Hyrule Caves
+KarimikiLake: |-
+  Camphor Pond
+MacusePeninsula: |-
+  Rist Peninsula
+MinusField_StartPoint: |-
+  Secret Spring of Revival
+MinusField_ZifForest: |-
+  Grove of Time
+RiberaForest: |-
+  Ebara Forest
+RokomakuMt: |-
+  Madorna Mountain
+SkyIslands_Hateru02: |-
+  South Necluda Sky Archipelago
+SojijiHill: |-
+  Safula Hill
+Well_0008: |-
+  Mount Gustaf Well
+Zora_Belvedere: |-
+  Mipha Court
+Cave_Firone_0022: |-
+  Sarjon Woods Cave
+Cave_Lanayru_0053: |-
+  Rebonae Bridge Cave
+CheckPoint006: |-
+  Zi-ner Lightroot
+CheckPoint111: |-
+  Mu-ufatur Lightroot
+Dungeon041: |-
+  Ihen-a Shrine
+Dungeon099: |-
+  Gikaku Shrine
+HimeidaMt: |-
+  Meda Mountain
+KazanaDungeon: |-
+  Tempest Gulch
+LargeDungeonThunder_7F: |-
+  Lightning Temple 7F
+MapArea_EastHateru: |-
+  East Necluda
+MapArea_HateruSea_Sky: |-
+  Necluda Sea Sky
+MapRegion_Gerudo_Sky: |-
+  Gerudo Sky
+MinaminoBay: |-
+  Loshlo Harbor
+MinusField_KasuraMt: |-
+  Corvash Canyon Mine
+PearlWaste: |-
+  Palu Wasteland
+Well_0009: |-
+  Mount Daphnes Well
+Well_0049B: |-
+  Hateno Village West Well
+BlindForest: |-
+  Thyphlo Ruins
+Cave_Firone_0023: |-
+  Lake Hylia Whirlpool Cave
+Cave_GerudoDesert_0035: |-
+  Mount Nabooru South Cave
+Cave_HateruEast_0002: |-
+  Mount Floria Cave
+Cave_Hebra_0035: |-
+  Tabantha Hills Cave
+CheckPoint007: |-
+  Worihas Lightroot
+CheckPoint112: |-
+  Migo-o Lightroot
+Dungeon042: |-
+  Tsutsu-um Shrine
+EastGerudo: |-
+  East Barrens
+HyliaRiver: |-
+  River of the Dead
+MinusField_Gerudo: |-
+  Abandoned Gerudo Mine
+MinusField_RirimukuMt: |-
+  Drena Canyon Mine
+MorudaMt: |-
+  Daval Peak
+RutimaHill: |-
+  Rutimala Hill
+TamulPlain: |-
+  Ordorac Quarry
+Well_0049C: |-
+  Hateno Village East Well
+AnbonBeach: |-
+  Martha's Landing
+Cave_Firone_0024: |-
+  Popla Foothills Excavation Site
+Cave_GerudoDesert_0036: |-
+  Lower Spectacle Rock Cave
+Cave_Hebra_0036: |-
+  Mount Drena Foothill Cave
+Cave_Lanayru_0055: |-
+  Reservoir Lakefront Cavern
+CheckPoint008: |-
+  Umamustor Lightroot
+CheckPoint113: |-
+  Uogoj Lightroot
+DeepHole_Rito: |-
+  Rito Village Chasm
+DonLake: |-
+  Lulu Lake
+Dungeon043: |-
+  Mayaumekis Shrine
+FloriaRiver: |-
+  Floria River
+HyruleCastle: |-
+  Hyrule Castle
+HyruleSkyIsland: |-
+  Hyrule Sky Islands
+KapporeMt: |-
+  Mount Faloraa
+KaturaCastle: |-
+  Sage Temple Ruins
+MapArea_LanayruWaterSources_Sky: |-
+  Lanayru Great Spring Sky
+MapArea_LanayruWetlands_Sky: |-
+  Lanayru Wetlands Sky
+MinusField_TagonaTrees: |-
+  Tabahl Grove
+RentalZarashiShop_GerudoDesert: |-
+  Sand-Seal Rental Shop
+Well_0049D: |-
+  Hateno Village South Well
+ZoraBridge: |-
+  Great Zora Bridge
+Cave_GerudoDesert_0037: |-
+  Spectacle Rock Cave
+Cave_Hebra_0037: |-
+  Kopeeki Drifts Cave
+CheckPoint009: |-
+  Stamayam Lightroot
+CheckPoint070: |-
+  Aduon Lightroot
+CheckPoint114: |-
+  Ni-iraram Lightroot
+DotiBeach: |-
+  Rimba Beach
+Dungeon044: |-
+  Kamatukis Shrine
+ExpaTrees: |-
+  Retsam Forest
+KumSpa: |-
+  Sturnida Secret Hot Spring
+LanayruEastEntrance: |-
+  Lanayru Road - East Gate
+LargeDungeonFire_1F: |-
+  Fire Temple 1F
+MinusField_Rito: |-
+  Abandoned Hebra Mine
+TabantaBridgeHatago: |-
+  Tabantha Bridge Stable
+TeguriPlain: |-
+  Grinnden Plains
+Well_0049E: |-
+  Zelda's Secret Well
+AkkareZhaiBridge: |-
+  Akkala Bridge Ruins
+Cave_Lanayru_0057: |-
+  Ploymus Mountain Cave
+CheckPoint115: |-
+  Eknupup Lightroot
+Dungeon045: |-
+  Jirutagumac Shrine
+Dungeon150: |-
+  Ukoojisi Shrine
+JokuBridge: |-
+  Proxim Bridge
+KarusaValley: |-
+  Karusa Valley
+ManbaLake: |-
+  Goro Cove
+MapArea_HyruleForest: |-
+  Great Hyrule Forest
+MinusField_AncientColosseum: |-
+  Floating Coliseum
+NanaimoPlain: |-
+  Rowan Plain
+RiritotoLake: |-
+  Lake Totori
+TabantaSnow_North: |-
+  North Tabantha Snowfield
+Cave_CentralHyrule_0008: |-
+  Ranch Ruins Cave
+Cave_GerudoDesert_0039: |-
+  Ancient Prison Ruins
+Cave_HateruEast_0006: |-
+  Corta Lake Cave
+Cave_Hebra_0039: |-
+  West Lake Totori Cave
+CheckPoint072: |-
+  Muotue Lightroot
+CheckPoint116: |-
+  Kotimab Lightroot
+DragonsFar: |-
+  Dragon's Exile
+Dungeon046: |-
+  Sepapa Shrine
+Dungeon151: |-
+  Taninoud Shrine
+GerudoCanyon_Entrance: |-
+  Gerudo Canyon Pass
+GerudoDesert_Entrance: |-
+  Gerudo Desert Gateway
+HorseStableBranchOffice_BaseCamp: |-
+  Mini Stable
+KukujaValley: |-
+  Tanagar Canyon
+LargeDungeonWind_B1: |-
+  Wind Temple B1
+ShopGeneral_Hateno: |-
+  General Store
+TuaboSnow: |-
+  Vatorsa Snowfield
+ZonauLegacy: |-
+  Zonai Ruins
+AkazaMt: |-
+  Lanayru Range
+Cave_CentralHyrule_0009: |-
+  Great Plateau Foothill Cave
+Cave_HateruEast_0007: |-
+  Rodai Lakefront Tunnel
+CheckPoint073: |-
+  Misisi Lightroot
+Circuit_Uotori: |-
+  Lurelin Water Rally
+DasukidaMt: |-
+  Mount Dunsel
+Dungeon047: |-
+  Mayatat Shrine
+FairyForest: |-
+  Forest of Spirits
+HatenoLabo: |-
+  Hateno Ancient Tech Lab
+HawkMt: |-
+  Cuho Mountain
+KimarikaMt: |-
+  Peak of Awakening
+KitakkarePlain: |-
+  North Akkala Valley
+LargeDungeonWind_B2: |-
+  Wind Temple B2
+MapArea_TabantaFrontier_Underground: |-
+  Tabantha Frontier Depths
+MapArea_WestHateru_Underground: |-
+  West Necluda Depths
+MinusField_MacusePeninsula: |-
+  Rist Mine
+Rikona_Peninshra: |-
+  Rikoka Hills
+ShopArmor_Kakariko: |-
+  Armor Shop
+ZonauCentralShrine: |-
+  Construct Factory
+BigTree: |-
+  Ancient Tree Stump
+Cave_Firone_0029: |-
+  Puffer Beach Overhead Cave
+Cave_HateruEast_0008: |-
+  Calora Lake Cave
+CheckPoint074: |-
+  Gedihcayam Lightroot
+CheckPoint118: |-
+  Kasari Lightroot
+Dungeon048: |-
+  Susuyai Shrine
+GoanaValley: |-
+  Gama Cove
+HyruleCastleUnderground: |-
+  Beneath Hyrule Castle
+KaturaRiver: |-
+  Regencia River
+KinshoiMt: |-
+  Mount Daphnes
+MapArea_FironeGrassland_Sky: |-
+  Faron Grasslands Sky
+MapArea_TamulSea: |-
+  Akkala Sea
+MinusField_WiseFountain: |-
+  Wellspring of Wisdom
+Cave_HateruEast_0009: |-
+  Rassla Lake Cave
+CheckPoint075: |-
+  Mustuto Lightroot
+CheckPoint119: |-
+  Takaruk Lightroot
+DeepHole_HyruleCastleEast: |-
+  Hyrule Castle Moat East Chasm
+Dungeon049: |-
+  Apogek Shrine
+GameBitalockGolf: |-
+  Ultra Ball Haul Check-In
+GutinizaPlainTomb: |-
+  Guchini Plain Barrows
+HyrulePlace: |-
+  Military Training Camp
+LargeDungeonThunder_2F: |-
+  Lightning Temple 2F
+MinusField_KingfisherSpa: |-
+  Sherfin's Lavafalls
+NaruguPeninsula: |-
+  Mapla Point
+ShichijoBridge: |-
+  Horwell Bridge
+SmeltShopGolem_10: |-
+  Forge Construct
+TrakaIsland_North: |-
+  Shrine Island
+Well_0020: |-
+  Deya Village Ruins North Well
+ZonauSatelliteShrine_LeftArm: |-
+  Left-Arm Depot
+BantaValley: |-
+  Breach of Demise
+CheckPoint076: |-
+  Sijotu Lightroot
+DeepHole_TabantaMaze: |-
+  North Lomei Chasm
+GatinLake: |-
+  Cephla Lake
+IsakuIslands: |-
+  Millennio Sandbar
+MapArea_EldinCanyon_Sky: |-
+  Eldin Canyon Sky
+MinusField_AagetoMt: |-
+  Agaat Canyon Mine
+MinusField_HyliaMt: |-
+  Hylia Canyon Mine
+MinusField_OrdinFossil: |-
+  Eldin Dark Skeleton
+ShijoBridge: |-
+  Orsedd Bridge
+ShopInn_UMiiVillage: |-
+  Inn
+TorumaDesert: |-
+  Toruma Dunes
+TotenLake: |-
+  Oakle's Navel
+Well_0021: |-
+  Deya Village Ruins Well
+BeginningIsland: |-
+  Great Sky Island
+CheckPoint077: |-
+  Nuzimak Lightroot
+DeepHole_HyruleCastleWest: |-
+  Hyrule Castle Moat West Chasm
+DodoraBridge: |-
+  Luto's Crossing
+MapArea_EldinMountains: |-
+  Eldin Mountains
+MapArea_FironeSea_Sky: |-
+  Faron Sea Sky
+MarritaExchange: |-
+  Maritta Exchange Ruins
+MinusField_GerudoSummit: |-
+  Gerudo Canyon Mine
+MinusField_GimpoMt: |-
+  Floria Canyon Mine
+NezuppoTrees: |-
+  Pappetto Grove
+NutsLake: |-
+  Lake Saria
+TabantaVillage: |-
+  Tabantha Village Ruins
+Well_0022: |-
+  Deya Village Ruins East Well
+Cave_Lanayru_0006: |-
+  Crenel Peak Cave
+CheckPoint020: |-
+  Kawakanis Lightroot
+CheckPoint078: |-
+  Kawiraus Lightroot
+GerudoSummit: |-
+  Gerudo Summit
+GiankonIsland: |-
+  Mekar Island
+HyruleGarrison: |-
+  Hyrule Garrison Ruins
+MinusField_BarakkPlain: |-
+  Dalite Grove
+MinusField_KingValley: |-
+  Cliff Bargainer Statue
+UMiiVillage: |-
+  Tarrey Town
+Well_0023: |-
+  Deya Village Ruins South Well
+YarimoRiver: |-
+  Golow River
+ArmorOfLambda_01: |-
+  Powerful Outfit
+CheckPoint021: |-
+  Nupisoyuat Lightroot
+CheckPoint079: |-
+  Jadukakar Lightroot
+DeepHole_GerudoMaze: |-
+  South Lomei Chasm
+Dungeon100: |-
+  Usazum Shrine
+ForgeShopGolem: |-
+  Smithing Construct
+HeburaNorthSummit: |-
+  Hebra North Summit
+HeburaTundera: |-
+  Hebra Tundra
+LargeDungeonWind: |-
+  Wind Temple
+MarittaHill: |-
+  Salari Hill
+RosomaLake: |-
+  Toto Lake
+TurasuBridge: |-
+  Horse God Bridge
+Well_0024: |-
+  Hills of Baumer Well
+Cave_GerudoDesert_0050: |-
+  Yiga Blademaster Station
+Cave_Lanayru_0008: |-
+  Luto's Channel
+CheckPoint022: |-
+  Korakut Lightroot
+DeepHole_B-6_AssasisnBoss: |-
+  Yiga Clan Hideout Chasm
+Dungeon101: |-
+  Joniu Shrine
+ImeruMt: |-
+  Elma Knolls
+MinusField_Oasis: |-
+  Abandoned Kara Kara Mine
+SkyIslands_Hebra02: |-
+  East Hebra Sky Archipelago
+SouthGerudoLegacy: |-
+  Arbiter's Grounds
+UMiiVillage_JobField: |-
+  Hudson Construction Site
+Well_0025: |-
+  Popla Foothills North Well
+AncientLabo: |-
+  Akkala Ancient Tech Lab
+BiginaTrees: |-
+  Ginner Woods
+Cave_Akkala_0010: |-
+  Akkala Citadel Ruins Cave
+Cave_CentralHyrule_0020: |-
+  Ancient Tree Stump Cave
+Cave_GerudoDesert_0051: |-
+  Gerudo Canyon Mine
+CheckPoint023: |-
+  Uukukis Lightroot
+DeepHole_YuaSnow: |-
+  Naydra Snowfield Chasm
+Dungeon102: |-
+  Jiotak Shrine
+FrontGatePosttown: |-
+  Gatepost Town Ruins
+GatakaraPond: |-
+  Lake Kolomo
+MapRegion_Eldin: |-
+  Eldin
+SkyIslands_Firone01: |-
+  Faron Sky Archipelago
+SkyIslands_Hebra03: |-
+  South Hebra Sky Archipelago
+Unknown: |-
+  Unknown
+Well_0026: |-
+  Popla Foothills South Well
+AncientTimeShrine: |-
+  Temple of Time
+ArmorOfLambda_04: |-
+  Climbing Outfit
+BoraraCape: |-
+  Tarm Point
+BuibuiTrees: |-
+  Bubinga Forest
+Cave_Akkala_0011: |-
+  Skull Lake Cave
+Cave_CentralHyrule_0021: |-
+  Whistling Hill Cave
+CheckPoint024: |-
+  Amakawis Lightroot
+Dungeon103: |-
+  Ikatak Shrine
+HesonaiValley: |-
+  Yarna Valley
+IkokoPlateau: |-
+  Talus Plateau
+MinusField_MorugaMt: |-
+  Granajh Canyon Mine
+SkyIslands_Firone02: |-
+  West Necluda Sky Archipelago
+SkyIslands_Hebra04: |-
+  West Hebra Sky Archipelago
+Tower01: |-
+  Lookout Landing Skyview Tower
+TrakaIsland_East: |-
+  Kincean Island
+Well_0027: |-
+  Moor Garrison Ruins Well
+ZaridoLake: |-
+  Lake Darman
+BachimakuMt: |-
+  Solewood Range
+Cave_CentralHyrule_0022: |-
+  Passeri Greenbelt Cave
+Cave_HateruWest_0002: |-
+  Byroad to Lanayru Wetlands
+CheckPoint025: |-
+  Kawakarut Lightroot
+CheckPoint130: |-
+  Uisihcoj Lightroot
+Dungeon060: |-
+  Ukouh Shrine
+Dungeon104: |-
+  Chichim Shrine
+EastShrine: |-
+  Eastern Abbey
+EquePlateau: |-
+  Angel Peak
+MapArea_TamulPlateau_Sky: |-
+  Akkala Highlands Sky
+MaronSpring: |-
+  Malanya Spring
+MinusField_BraveFountain: |-
+  Wellspring of Courage
+SkyIslands_Hyrule01: |-
+  Central Hyrule Sky Archipelago
+Tower02: |-
+  Lindor's Brow Skyview Tower
+Well_0028: |-
+  Zauz Island Well
+Cave_CentralHyrule_0023: |-
+  Coliseum Ruins Cave
+Cave_GerudoHighlands_0014: |-
+  Meadela's Mantle Cave
+CheckPoint026: |-
+  Kogoir Lightroot
+CheckPoint131: |-
+  Nikohsi Lightroot
+Dungeon061: |-
+  Gutanbac Shrine
+Dungeon105: |-
+  Kahatanaum Shrine
+HatenoBeach: |-
+  Hateno Beach
+LakeFloria: |-
+  Lake Floria
+LeMarbeBridge: |-
+  Jeddo Bridge
+MapArea_TamulOutback_Sky: |-
+  Deep Akkala Sky
+MinusField_GibogaHill: |-
+  Rok Grove
+MizemakuMt: |-
+  Walnot Mountain
+SkyIslands_Hyrule02: |-
+  North Necluda Sky Archipelago
+Tower03: |-
+  Pikida Stonegrove Skyview Tower
+WeaponCureSpring: |-
+  Great Fairy Fountain
+Well_0029: |-
+  Goponga Village Ruins Well
+ArmorOfLambda_07: |-
+  Shock-Resistant Outfit
+BiridinHill: |-
+  Birida Lookout
+BironSnow: |-
+  Biron Snowshelf
+Cave_Akkala_0014: |-
+  North Akkala Beach Cave
+CheckPoint027: |-
+  Kimimadena Lightroot
+CheckPoint132: |-
+  Narusis Lightroot
+Dungeon062: |-
+  In-isa Shrine
+Dungeon106: |-
+  Ninjis Shrine
+FigureGallery: |-
+  Monster Gallery
+MapArea_EldinMountains_Sky: |-
+  Eldin Mountains Sky
+MapArea_TamulSea_Sky: |-
+  Akkala Sea Sky
+MinusField_WhiteZora: |-
+  Abandoned Lanayru Mine
+OrupaPlateau: |-
+  Laparoh Mesa
+ShopGeneral_Uotori: |-
+  General Store
+SkyIslands_Hyrule03: |-
+  South Hyrule Sky Archipelago
+Tower04: |-
+  Eldin Canyon Skyview Tower
+AzimetosPlateau: |-
+  Mystathi's Shelf
+Cave_HateruWest_0005: |-
+  Kakariko Village Cave
+CheckPoint028: |-
+  Yisuayam Lightroot
+CheckPoint133: |-
+  Netamnet Lightroot
+Dungeon063: |-
+  Nachoyah Shrine
+Dungeon107: |-
+  Tokiy Shrine
+FlamingoSpa: |-
+  Goflam's Secret Hot Spring
+HatenoBay: |-
+  Kitano Bay
+HyralBridge: |-
+  Bridge of Hylia
+KikinosaMt: |-
+  Lindor's Brow
+LargeDungeonWater: |-
+  Water Temple
+MinusField_DokuroPond: |-
+  Akkala House of Bones
+SaohPoint: |-
+  Ternio Trail
+ShopInn_Kakariko: |-
+  Inn
+SkyIslands_Hyrule04: |-
+  North Hyrule Sky Archipelago
+Tower05: |-
+  Ulri Mountain Skyview Tower
+UkkoPond: |-
+  Lake Kilsie
+Zora_Imperial_Palace: |-
+  Pristine Sanctum
+Cave_GerudoHighlands_0017: |-
+  Mystathi's Shelf Cave
+Cave_HateruWest_0006: |-
+  Cucco Hideaway
+CheckPoint029: |-
+  Gadohsi Lightroot
+CheckPoint090: |-
+  Kuhsagi Lightroot
+CheckPoint134: |-
+  Agihi-ihcoj Lightroot
+Dungeon064: |-
+  Marakuguc Shrine
+Dungeon108: |-
+  Sakunbomar Shrine
+JijigegeMt: |-
+  Mount Rozudo
+LargeDungeonFire_3F: |-
+  Fire Temple 3F
+MinusField_BiginaTrees: |-
+  Ginner Grove
+SkyIslands_Hyrule05: |-
+  West Hyrule Sky Archipelago
+Tower06: |-
+  Sahasra Slope Skyview Tower
+Cave_Akkala_0017: |-
+  Akkala Citadel Ruins Summit Cave
+Cave_Hebra_0000: |-
+  Sturnida Springs Cave
+CDungeon: |-
+  Shrine of Light
+CheckPoint091: |-
+  Nabahi-ikat Lightroot
+CheckPoint135: |-
+  Arusakam Lightroot
+Dungeon065: |-
+  Runakit Shrine
+Dungeon109: |-
+  Joku-u Shrine
+EunpoHighlands: |-
+  Deplian Badlands
+FironeForestEntrance: |-
+  Faron Woods
+GisaHill: |-
+  Nero Hill
+KutiffMt: |-
+  Mount Rhoam
+MapRegion_HyrulePrairie: |-
+  Central Hyrule
+MapRegion_Tamul: |-
+  Akkala
+MapRegion_Tamul_Sky: |-
+  Akkala Sky
+MinusField_BuibuiTrees: |-
+  Bubinga Grove
+Rito: |-
+  Rito Village
+Tower07: |-
+  Upland Zorana Skyview Tower
+TreasureBoxShop: |-
+  Lucky Treasure Shop
+ZonauSatelliteShrine_RightLeg: |-
+  Right-Leg Depot
+Cave_HateruWest_0008: |-
+  Sahasra Slope Cave
+CheckPoint092: |-
+  Amo-ne Lightroot
+CheckPoint136: |-
+  Sinonoyk Lightroot
+Cohorint: |-
+  Eventide Island
+DokuroPond: |-
+  Skull Lake
+Dungeon066: |-
+  Mayanas Shrine
+IrimoRiver: |-
+  Goronbi River
+LargeDungeonThunder_B1: |-
+  Lightning Temple B1
+MapArea_CentralHyrule: |-
+  Hyrule Field
+MinakkareLake: |-
+  South Lake Akkala
+SarjonForest: |-
+  Sarjon Woods
+Tower08: |-
+  Hyrule Field Skyview Tower
+BatteryExchangeShop_00: |-
+  Crystal Refinery
+Cave_Eldin_0020: |-
+  Death Mountain East Tunnel
+CheckPoint137: |-
+  Kawamit Lightroot
+DemonStatue_00: |-
+  Bargainer Statue
+Dungeon067: |-
+  Wao-os Shrine
+GamettaPlateau: |-
+  Cliffs of Quince
+HyruleCastle_Room_0: |-
+  Observation Room
+KinmePlateau: |-
+  Koholit Rock
+MapArea_TabantaFrontier_Sky: |-
+  Tabantha Frontier Sky
+MinusField_KazuryuLake: |-
+  Dracozu Altar
+SaiMt: |-
+  Mount Gustaf
+Tower09: |-
+  Gerudo Canyon Skyview Tower
+Akkare_OctaPond: |-
+  Octorok Lake
+BatteryExchangeShop_01: |-
+  Crystal Refinery
+Cave_Eldin_0021: |-
+  Death Mountain West Tunnel
+CheckPoint094: |-
+  Kuzimoy Lightroot
+CheckPoint138: |-
+  Uasnoj Lightroot
+DeepHole_HyrulePlains: |-
+  Hyrule Field Chasm
+DeepHole_SanaePlateau: |-
+  Hills of Baumer Chasm
+DemonStatue_01: |-
+  Bargainer Statue
+Dungeon010: |-
+  Serutabomac Shrine
+Dungeon068: |-
+  Kyokugon Shrine
+EastGerudoRuins: |-
+  East Gerudo Ruins
+GigiLake: |-
+  Boné Pond
+HyruleCastle_Room_1: |-
+  Dining Hall
+KibinaLake: |-
+  Herin Lake
+MapArea_WestHateru_Sky: |-
+  West Necluda Sky
+TerumePass: |-
+  Taran Pass
+TrakaIsland_Center: |-
+  Goponga Island
+ZonauThunderSkyIsland: |-
+  Thunderhead Isles
+Cave_Eldin_0022: |-
+  Lake Darman Monster Den
+CheckPoint095: |-
+  Kisihayam Lightroot
+CheckPoint139: |-
+  Kawisar Lightroot
+DeepHole_Higakkare: |-
+  East Akkala Plains Chasm
+DemonStatue_02: |-
+  Bargainer Statue
+Dungeon011: |-
+  Mogawak Shrine
+Dungeon069: |-
+  Igoshon Shrine
+HyruleCastle_Room_2: |-
+  Guards' Chamber
+KamutariPlateau: |-
+  Phalian Highlands
+LargeDungeonThunder_4F: |-
+  Lightning Temple 4F
+MarittaPrairie: |-
+  Salari Plain
+MinusField_Kakariko: |-
+  Abandoned Kakariko Mine
+MinusField_LomeiSouth: |-
+  South Lomei Depths Labyrinth
+NaierunPeninsula: |-
+  Lodrum Headland
+NewHyruleWestHatago: |-
+  New Serenne Stable
+ShopGeneral_Rito: |-
+  General Store
+ZifForest: |-
+  Forest of Time
+BumiPlain: |-
+  Windvane Meadow
+Cave_Eldin_0023: |-
+  Isle of Rabac Gallery
+Cave_Lanayru_0024: |-
+  Boné Pond East Cave
+CheckPoint096: |-
+  Sisustom Lightroot
+DemonStatue_03: |-
+  Bargainer Statue
+Dungeon012: |-
+  Zanmik Shrine
+GenLake: |-
+  Lake Ferona
+GeraRiver: |-
+  Fir River
+HeburaIcicle: |-
+  Icefall Foothills
+HopesPlateau: |-
+  Great Plateau
+HyruleCastle_Room_3: |-
+  Library
+JedaPlateau: |-
+  Koukot Plateau
+KomoreBeach: |-
+  Komo Shoreline
+MapArea_FironeGrassland_Underground: |-
+  Faron Grasslands Depths
+MapArea_HeburaMountains_Sky: |-
+  Hebra Mountains Sky
+NomyPlain: |-
+  Ludfo's Bog
+Well_0041: |-
+  Lurelin Village Well
+XehaPlateau: |-
+  Upland Zorana
+Cave_Eldin_0024: |-
+  YunoboCo Storage
+CheckPoint097: |-
+  Sekioam Lightroot
+DemonStatue_04: |-
+  Bargainer Statue
+Dungeon013: |-
+  Jiukoum Shrine
+GiminoPond: |-
+  Lake Sumac
+HyrulePark: |-
+  Hyrule Forest Park
+KimarikaPlateau: |-
+  Nirvata Plateau
+KoganeyaLake: |-
+  Keya Pond
+KoshaIsland: |-
+  Davdi Island
+LargeDungeonWater_B1: |-
+  Water Temple B1
+MapArea_LanayruWaterSources_Underground: |-
+  Lanayru Great Spring Depths
+MezusuPass: |-
+  Rospro Pass
+MinusField_GerudoFossil: |-
+  Gerudo Dark Skeleton
+OngiForest: |-
+  Applean Forest
+RapikuruPlateau: |-
+  Ja'Abu Ridge
+TehotaWet: |-
+  Nautelle Wetlands
+Well_0042: |-
+  Lakeside Stable Well
+ZaridoPlateau: |-
+  Eldin's Flank
+BaconCliff: |-
+  Gortram Cliff
+Cave_Eldin_0025: |-
+  Goronbi River Cave
+Cave_GerudoDesert_0007: |-
+  Gerudo Sanctuary
+CheckPoint040: |-
+  Sikatag Lightroot
+CheckPoint098: |-
+  Nipahsom Lightroot
+CresiaPeninsula: |-
+  Cape Cresia
+DekamuPlain: |-
+  Marblod Plain
+DemonStatue_05: |-
+  Bargainer Statue
+Dungeon014: |-
+  Iun-orok Shrine
+FlowerSandbank: |-
+  Floret Sandbar
+GerudoHatago: |-
+  Gerudo Canyon Stable
+HarayaLake: |-
+  Haran Lake
+HyruleCastle_Room_5: |-
+  Lockup
+KattoriPlateau: |-
+  Farosh Hills
+KibakkaSnow: |-
+  Hebra Headspring
+MapArea_LanayruSea_Underground: |-
+  Lanayru Sea Depths
+ShopInn_Korok: |-
+  Inn
+Well_0043: |-
+  Highland Stable Well
+Cave_Eldin_0026: |-
+  Southern Mine
+Cave_GerudoDesert_0008: |-
+  Valley of Silent Statues
+CheckPoint041: |-
+  A-nehi Lightroot
+Dungeon015: |-
+  Rakashog Shrine
+Dungeon120: |-
+  Susub Shrine
+HyruleCastle_Room_6: |-
+  Princess Zelda's Room
+MinusField_RokomakuMt: |-
+  Madorna Canyon Mine
+NefraHill: |-
+  Nephra Hill
+Well_0044: |-
+  Snowfield Stable Well
+Cave_Eldin_0027: |-
+  Gorko Tunnel
+CheckPoint042: |-
+  Mu-ustust Lightroot
+DeepHole_Chikurun: |-
+  Tingel Island Chasm
+Dungeon016: |-
+  Soryotanog Shrine
+Dungeon121: |-
+  Taunhiy Shrine
+FaronHatago000: |-
+  Dueling Peaks Stable
+HyruleCastle_Room_7: |-
+  Docks
+HyruleWestTown: |-
+  West Castle Town
+PowerFountain: |-
+  Spring of Power
+TamurulHatago_02: |-
+  South Akkala Stable
+Well_0045: |-
+  Gerudo Canyon Well
+Cave_Eldin_0028: |-
+  West Restaurant Cave
+Cave_HyruleForest_0001: |-
+  Rauru Hillside Cave
+DeepHole_HyruleLake: |-
+  Lake Hylia Chasm
+Dungeon017: |-
+  Mayak Shrine
+Dungeon122: |-
+  Eshos Shrine
+FaronHatago001: |-
+  Lakeside Stable
+GashamahiMt: |-
+  Crenel Peak
+HeburaSouthSummit: |-
+  Hebra South Summit
+HyruleCastle_Room_8: |-
+  Princess Zelda's Study
+IsakiCape: |-
+  Soka Point
+MinusField_PongagaMt: |-
+  Ebon Canyon Mine
+RapinyaPlateau: |-
+  Ruto Precipice
+RonronFarm: |-
+  Ranch Ruins
+SusonoPond: |-
+  Lake Illumeni
+TryCape: |-
+  Shatterback Point
+TurasuLake: |-
+  Lake of the Horse God
+Well_0046: |-
+  Riverside Stable Well
+Cave_Eldin_0029: |-
+  East Restaurant Cave
+CheckPoint044: |-
+  Sikutamak Lightroot
+DeepHole_DeathMountain: |-
+  Death Mountain Chasm
+DeepHole_HyruleCastle: |-
+  Hyrule Castle Chasm
+Dungeon018: |-
+  Gemimik Shrine
+Dungeon123: |-
+  Yamiyo Shrine
+FaronHatago002: |-
+  Highland Stable
+HigakkareBeach: |-
+  East Akkala Beach
+HyruleCastle_Room_9: |-
+  King's Study
+KaiyanPlain: |-
+  Rabia Plain
+LanayruBay: |-
+  Lanayru Bay
+MinusField_Hateno: |-
+  Abandoned Hateno Mine
+MinusField_KorokForest: |-
+  Korok Grove
+MinusField_LiveMountain: |-
+  Lanayru Canyon Mine
+NagyuPlateau: |-
+  Tal Tal Peak
+Well_0047: |-
+  Wetland Stable Well
+ZonauTriedForceSkyIsland: |-
+  Dragonhead Island
+Cave_LanayruMountain_0010: |-
+  Lanayru Road East Cave
+Dungeon019: |-
+  Orochium Shrine
+Dungeon080: |-
+  Rasitakiwak Shrine
+Dungeon124: |-
+  Teniten Shrine
+Goron: |-
+  Goron City
+KihirePlain: |-
+  Keelay Plain
+LargeDungeonThunder: |-
+  Lightning Temple
+LargeDungeonWind_1F: |-
+  Wind Temple 1F
+MinusField_GanondorfEnd: |-
+  Gloom's Origin
+MinusField_OpeningFieldEnd: |-
+  Imprisoning Chamber
+ShopArmor_Rito: |-
+  Armor Shop
+SouthGerudoRuinsCamp: |-
+  Southern Oasis Training Area
+SugrantForest: |-
+  Pagos Woods
+Well_0048: |-
+  Dueling Peaks Stable Well

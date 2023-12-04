@@ -1,0 +1,18 @@
+1000: |-
+  Back
+1010: |-
+  Check recipe
+1001: |-
+  Select
+1011: |-
+  Default settings
+1002: |-
+  Rotate
+1003: |-
+  Sort
+1008: |-
+  Back
+1004: |-
+  Select
+1009: |-
+  Hold

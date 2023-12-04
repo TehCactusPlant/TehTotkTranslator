@@ -1,0 +1,4 @@
+T_Finish_00: |-
+  Finished!
+T_Good_00: |-
+  New record!

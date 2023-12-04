@@ -1,0 +1,108 @@
+TerrorLightning_01: |-
+  Nooo!
+TerrorInsect_00: |-
+  Waaah!
+TerrorLightning_02: |-
+  I'm scared!
+TerrorInsect_01: |-
+  Stay away from me!
+TerrorInsect_02: |-
+  Eeek!
+TerrorEnemy_00: |-
+  Save me!
+TerrorEnemy_01: |-
+  Nooo!
+TerrorEnemy_02: |-
+  Why?!
+TerrorImpulse_00: |-
+  Eek!
+TerrorHorse_00: |-
+  What?!
+TerrorImpulse_01: |-
+  Whoa!
+TerrorHorse_01: |-
+  Danger!
+TerrorImpulse_02: |-
+  Stop that!
+TerrorHorse_02: |-
+  Eeek!
+TerrorGuardian_00: |-
+  Nooo!
+TerrorGuardian_01: |-
+  Aieee!
+TerrorGuardian_02: |-
+  Someone help!
+WaterPumpWater_00: |-
+  I love water!
+TerrorSword_00: |-
+  Huh?
+WaterPumpWater_01: |-
+  Splish! Splash!
+TerrorSword_01: |-
+  Eeep!
+WaterPumpWater_02: |-
+  Yaaay!
+TerrorSword_02: |-
+  Oh!
+TerrorAnimal_00: |-
+  No way!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  Whoa!
+TerrorAnimal_01: |-
+  Don't come any closer!
+ClearTerrorEnemy_01: |-
+  That was scary.
+TerrorBomb_01: |-
+  Eek!
+TerrorAnimal_02: |-
+  Eeek!
+ClearTerrorEnemy_02: |-
+  Phew!
+TerrorBomb_02: |-
+  What?!
+TerrorIce_00: |-
+  Whoa!
+TerrorFire_00: |-
+  Way too hot!
+TerrorIce_01: |-
+  Eeek!
+TerrorFire_01: |-
+  That heat!
+TerrorIce_02: |-
+  Chilly!
+TerrorFire_02: |-
+  Nooo!
+TerrorFlash_00: |-
+  Whaaa!
+TerrorFlash_01: |-
+  So shiny!
+ClearTerrorGuardian_00: |-
+  That was scary.
+TerrorArrow_00: |-
+  Stop it!
+TerrorFlash_02: |-
+  Eeek!
+ClearTerrorGuardian_01: |-
+  I'm saved!
+TerrorArrow_01: |-
+  No!
+ClearTerrorGuardian_02: |-
+  Sigh...
+TerrorArrow_02: |-
+  Waaah!
+TerrorGeneric_00: |-
+  Whoa!
+TerrorExplosion_00: |-
+  Waaah!
+TerrorGeneric_01: |-
+  Eek!
+TerrorExplosion_01: |-
+  Eek!
+TerrorGeneric_02: |-
+  Yikes!
+TerrorExplosion_02: |-
+  Huh?!
+TerrorLightning_00: |-
+  Eeep!

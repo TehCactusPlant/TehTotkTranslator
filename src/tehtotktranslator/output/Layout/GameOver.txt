@@ -1,0 +1,10 @@
+Pa_Button_01-T_Btn_00: |-
+  Quit
+0000: |-
+  Continue from last save.
+T_GameOver_00: |-
+  Game Over
+Pa_Button_00-T_Btn_00: |-
+  Continue
+0001: |-
+  Return to title screen.

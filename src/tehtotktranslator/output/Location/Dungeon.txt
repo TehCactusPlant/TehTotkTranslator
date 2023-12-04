@@ -1,0 +1,616 @@
+0086: |-
+  Otak Shrine
+2103: |-
+  Rauru's Blessing
+0087: |-
+  Miryotanog Shrine
+2060: |-
+  The Ability to Create
+2104: |-
+  Rauru's Blessing
+0030: |-
+  Kiuyoyou Shrine
+0088: |-
+  Kimayat Shrine
+2061: |-
+  The Ability to Rise
+2105: |-
+  Rauru's Blessing
+0031: |-
+  Ekochiu Shrine
+0089: |-
+  Momosik Shrine
+2062: |-
+  The Ability to Combine
+2106: |-
+  Rauru's Blessing
+0032: |-
+  Tadarok Shrine
+2063: |-
+  The Ability to Rewind
+2107: |-
+  Rauru's Blessing
+0033: |-
+  Karahatag Shrine
+2064: |-
+  Wheeled Wonders
+2108: |-
+  Rauru's Blessing
+0034: |-
+  Tenbez Shrine
+2065: |-
+  Built to Carry
+2109: |-
+  Rauru's Blessing
+0035: |-
+  Kisinona Shrine
+0140: |-
+  Kudanisar Shrine
+2066: |-
+  The Ice Guides You
+0036: |-
+  Oshozan-u Shrine
+0141: |-
+  Joju-u-u Shrine
+2067: |-
+  Lever Power
+0037: |-
+  Gasas Shrine
+0142: |-
+  Jiosin Shrine
+2010: |-
+  The Way Up
+2068: |-
+  Alignment of the Circles
+0038: |-
+  Ijo-o Shrine
+0143: |-
+  Gatanisis Shrine
+2011: |-
+  The Power of Water
+2069: |-
+  Orbs of Water
+0144: |-
+  Morok Shrine
+0039: |-
+  Turakamik Shrine
+2012: |-
+  Scoop It Out
+0145: |-
+  Jinodok Shrine
+2013: |-
+  Built for Rails
+0146: |-
+  Sihajog Shrine
+2014: |-
+  The Right Roll
+0147: |-
+  Minetak Shrine
+2015: |-
+  A Reflective Device
+2120: |-
+  Rauru's Blessing
+0148: |-
+  Mayasiar Shrine
+2016: |-
+  Buried Light
+2121: |-
+  Combat Training: Archery
+0149: |-
+  Mayam Shrine
+2017: |-
+  Timely Catches
+2122: |-
+  Combat Training: Shields
+2018: |-
+  Turbine Power
+2123: |-
+  Combat Training: Throwing
+2019: |-
+  Courage to Fall
+2080: |-
+  Proving Grounds: Vehicles
+2124: |-
+  Combat Training: Throwing
+0050: |-
+  Kadaunar Shrine
+2081: |-
+  Proving Grounds: Ascension
+2125: |-
+  Rauru's Blessing
+0051: |-
+  Domizuin Shrine
+2082: |-
+  Proving Grounds: Lights Out
+2126: |-
+  Combat Training: Archery
+0052: |-
+  Mogisari Shrine
+2083: |-
+  Proving Grounds: Low Gravity
+2127: |-
+  Rauru's Blessing
+0053: |-
+  Kikakin Shrine
+2084: |-
+  Proving Grounds: Rotation
+2128: |-
+  Rauru's Blessing
+0054: |-
+  Sibajitak Shrine
+2085: |-
+  Proving Grounds: Flow
+2129: |-
+  Combat Training: Sneakstrike
+0055: |-
+  Siyamotsus Shrine
+2086: |-
+  Proving Grounds: Traps
+0056: |-
+  Utsushok Shrine
+2087: |-
+  Proving Grounds: Lure
+0057: |-
+  Jikais Shrine
+2030: |-
+  Fire and Ice
+2088: |-
+  Proving Grounds: Smash
+0000: |-
+  Tajikats Shrine
+0058: |-
+  Kitawak Shrine
+2031: |-
+  Rise and Fall
+2089: |-
+  Rauru's Blessing
+0001: |-
+  Jochi-iu Shrine
+0059: |-
+  Sonapan Shrine
+2032: |-
+  Fire and Water
+0002: |-
+  Sitsum Shrine
+2033: |-
+  Drifting Flame
+0003: |-
+  Oromuwak Shrine
+2034: |-
+  Gravity and Velocity
+0004: |-
+  Mayachin Shrine
+2035: |-
+  Wind Power
+2140: |-
+  Bridging the Sands
+0005: |-
+  Musanokir Shrine
+0110: |-
+  Natak Shrine
+2036: |-
+  Mallet Smash
+2141: |-
+  Building Bridges
+0006: |-
+  Ren-iz Shrine
+0111: |-
+  Rutafu-um Shrine
+2037: |-
+  Well-Timed Cuts
+2142: |-
+  Shape Rotation
+0007: |-
+  Sahirow Shrine
+0112: |-
+  O-ogim Shrine
+2038: |-
+  More than Defense
+2143: |-
+  A Well-Timed Bounce
+0008: |-
+  Rotsumamu Shrine
+0113: |-
+  Jogou Shrine
+2039: |-
+  Hidden Metal
+2144: |-
+  A Bouncy Device
+0114: |-
+  Marari-in Shrine
+0070: |-
+  Nouda Shrine
+0009: |-
+  Mayamats Shrine
+2145: |-
+  Rauru's Blessing
+0115: |-
+  Pupunke Shrine
+0071: |-
+  Joku-usin Shrine
+2146: |-
+  Rauru's Blessing
+0072: |-
+  Eutoum Shrine
+0116: |-
+  Bamitok Shrine
+2147: |-
+  Rauru's Blessing
+0073: |-
+  Isisim Shrine
+0117: |-
+  Ganos Shrine
+2148: |-
+  Rauru's Blessing
+Ref_CheckPointSuffix: |-
+  Lightroot
+0118: |-
+  Irasak Shrine
+0074: |-
+  Mayachideg Shrine
+2149: |-
+  Rauru's Blessing
+0119: |-
+  Kurakat Shrine
+0075: |-
+  Otutsum Shrine
+0076: |-
+  Utojis Shrine
+0077: |-
+  Kamizun Shrine
+2050: |-
+  Water Makes a Way
+0020: |-
+  Sinakawak Shrine
+0078: |-
+  Suariwak Shrine
+2051: |-
+  A Prone Pathway
+0079: |-
+  Rakakudaj Shrine
+0021: |-
+  Tauyosipun Shrine
+2052: |-
+  Courage to Jump
+0022: |-
+  Tukarok Shrine
+2053: |-
+  Shining in Darkness
+0023: |-
+  Sikukuu Shrine
+2054: |-
+  Alignment
+0024: |-
+  Siwakama Shrine
+2055: |-
+  Unlit Blessing
+0130: |-
+  Jochisiu Shrine
+0025: |-
+  Turakawak Shrine
+2056: |-
+  Long or Wide
+0026: |-
+  Riogok Shrine
+0131: |-
+  Ishokin Shrine
+2057: |-
+  Jailbreak
+0132: |-
+  Sisuran Shrine
+0027: |-
+  Anedamimik Shrine
+2000: |-
+  Building with Logs
+2058: |-
+  Upward and Forward
+0028: |-
+  Mayausiy Shrine
+0133: |-
+  Tenmaten Shrine
+2001: |-
+  Courage to Pluck
+2059: |-
+  Missing Pathways
+0134: |-
+  Jochi-ihiga Shrine
+0090: |-
+  Igashuk Shrine
+0029: |-
+  Ishodag Shrine
+2002: |-
+  A Controlling Device
+0135: |-
+  Makasura Shrine
+0091: |-
+  Taki-ihaban Shrine
+2003: |-
+  A Launching Device
+0092: |-
+  En-oma Shrine
+0136: |-
+  Kyononis Shrine
+2004: |-
+  A Fixed Device
+0093: |-
+  Kumamayn Shrine
+0137: |-
+  Timawak Shrine
+2005: |-
+  Swing to Hit
+2110: |-
+  Rauru's Blessing
+0138: |-
+  Jonsau Shrine
+0094: |-
+  Yomizuk Shrine
+2006: |-
+  Jump the Gaps
+2111: |-
+  Rauru's Blessing
+0095: |-
+  Mayahisik Shrine
+0139: |-
+  Rasiwak Shrine
+2007: |-
+  Aid from Above
+2112: |-
+  Rauru's Blessing
+0096: |-
+  Motsusis Shrine
+2008: |-
+  A Balanced Plan
+2113: |-
+  Rauru's Blessing
+0097: |-
+  Maoikes Shrine
+2009: |-
+  A Route for a Ball
+2070: |-
+  Proving Grounds: Intermediate
+2114: |-
+  Rauru's Blessing
+0040: |-
+  Gatakis Shrine
+0098: |-
+  Moshapin Shrine
+2071: |-
+  Proving Grounds: Short Circuit
+2115: |-
+  Rauru's Blessing
+0041: |-
+  Ihen-a Shrine
+0099: |-
+  Gikaku Shrine
+2072: |-
+  Proving Grounds: Infiltration
+2116: |-
+  Rauru's Blessing
+0042: |-
+  Tsutsu-um Shrine
+2073: |-
+  Proving Grounds: In Reverse
+2117: |-
+  Rauru's Blessing
+0043: |-
+  Mayaumekis Shrine
+2074: |-
+  Proving Grounds: The Hunt
+2118: |-
+  Rauru's Blessing
+0044: |-
+  Kamatukis Shrine
+2075: |-
+  Rauru's Blessing
+2119: |-
+  Rauru's Blessing
+0045: |-
+  Jirutagumac Shrine
+0150: |-
+  Ukoojisi Shrine
+2076: |-
+  Rauru's Blessing
+0046: |-
+  Sepapa Shrine
+0151: |-
+  Taninoud Shrine
+2077: |-
+  Proving Grounds: Beginner
+0047: |-
+  Mayatat Shrine
+2020: |-
+  An Uplifting Device
+2078: |-
+  Rauru's Blessing
+0048: |-
+  Susuyai Shrine
+2021: |-
+  Forward or Backward?
+2079: |-
+  Rauru's Blessing
+0049: |-
+  Apogek Shrine
+2022: |-
+  Forward Force
+2023: |-
+  Spinning Gears
+2024: |-
+  Moving the Spheres
+2025: |-
+  Stacking a Path
+2130: |-
+  Rauru's Blessing
+0100: |-
+  Usazum Shrine
+2026: |-
+  Force Transfer
+2131: |-
+  Rauru's Blessing
+0101: |-
+  Joniu Shrine
+2027: |-
+  A Retraced Path
+2132: |-
+  Rauru's Blessing
+Ref_DungeonOfBlessingSuffix: |-
+  Rauru's Blessing
+0102: |-
+  Jiotak Shrine
+2028: |-
+  Building Blocks
+2133: |-
+  Rauru's Blessing
+0103: |-
+  Ikatak Shrine
+2029: |-
+  A Windy Device
+2090: |-
+  Rauru's Blessing
+2134: |-
+  Rauru's Blessing
+0060: |-
+  Ukouh Shrine
+0104: |-
+  Chichim Shrine
+2091: |-
+  Rauru's Blessing
+2135: |-
+  An Upright Device
+Ref_DungeonOfStrangth: |-
+  Proving Grounds
+0061: |-
+  Gutanbac Shrine
+0105: |-
+  Kahatanaum Shrine
+2092: |-
+  Rauru's Blessing
+2136: |-
+  Combat Training
+0062: |-
+  In-isa Shrine
+0106: |-
+  Ninjis Shrine
+2093: |-
+  Rauru's Blessing
+2137: |-
+  Against the Flow
+0063: |-
+  Nachoyah Shrine
+0107: |-
+  Tokiy Shrine
+2094: |-
+  Rauru's Blessing
+2138: |-
+  Deep Force
+0064: |-
+  Marakuguc Shrine
+0108: |-
+  Sakunbomar Shrine
+2095: |-
+  Rauru's Blessing
+2139: |-
+  Flotational Brilliance
+0065: |-
+  Runakit Shrine
+0109: |-
+  Joku-u Shrine
+2096: |-
+  Rauru's Blessing
+0066: |-
+  Mayanas Shrine
+2097: |-
+  Rauru's Blessing
+0067: |-
+  Wao-os Shrine
+2040: |-
+  Ride the Winds
+2098: |-
+  Rauru's Blessing
+0010: |-
+  Serutabomac Shrine
+0068: |-
+  Kyokugon Shrine
+2041: |-
+  Midair Perch
+2099: |-
+  Rauru's Blessing
+0069: |-
+  Igoshon Shrine
+0011: |-
+  Mogawak Shrine
+2042: |-
+  The Stakes Guide You
+0012: |-
+  Zanmik Shrine
+2043: |-
+  Downward Force
+0013: |-
+  Jiukoum Shrine
+2044: |-
+  A Precise Strike
+0014: |-
+  Iun-orok Shrine
+2045: |-
+  A Flying Device
+2150: |-
+  Rauru's Blessing
+0015: |-
+  Rakashog Shrine
+0120: |-
+  Susub Shrine
+2046: |-
+  Backtrack
+2151: |-
+  Rauru's Blessing
+0016: |-
+  Soryotanog Shrine
+0121: |-
+  Taunhiy Shrine
+2047: |-
+  A Sliding Device
+0122: |-
+  Eshos Shrine
+0017: |-
+  Mayak Shrine
+2048: |-
+  A Spinning Device
+0018: |-
+  Gemimik Shrine
+0123: |-
+  Yamiyo Shrine
+2049: |-
+  Wings on the Wind
+0019: |-
+  Orochium Shrine
+0080: |-
+  Rasitakiwak Shrine
+0124: |-
+  Teniten Shrine
+Ref_DungeonSuffix: |-
+   Shrine
+0081: |-
+  Zakusu Shrine
+0125: |-
+  Mayaotaki Shrine
+0082: |-
+  Simosiwak Shrine
+0126: |-
+  Makurukis Shrine
+0083: |-
+  Yansamin Shrine
+0127: |-
+  Josiu Shrine
+2100: |-
+  Rauru's Blessing
+0128: |-
+  Ga-ahisas Shrine
+0084: |-
+  Jojon Shrine
+2101: |-
+  Rauru's Blessing
+0129: |-
+  Sinatanika Shrine
+0085: |-
+  Sifumim Shrine
+2102: |-
+  Rauru's Blessing

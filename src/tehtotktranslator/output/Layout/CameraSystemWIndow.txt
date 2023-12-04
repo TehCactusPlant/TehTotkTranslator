@@ -1,0 +1,14 @@
+Pa_BtnL_01-T_Btn_00: |-
+  Delete
+Save_PictureBookNew: |-
+  Image added to Hyrule Compendium.
+0000: |-
+  Replace Picture
+0001: |-
+  Keep Old Picture
+Pa_BtnR_01-T_Btn_00: |-
+  OK
+Save_Photograph: |-
+  Save to album?
+Save_PictureBookChange: |-
+  Replace image in Hyrule Compendium?
