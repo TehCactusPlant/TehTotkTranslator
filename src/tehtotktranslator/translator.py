@@ -41,10 +41,12 @@ class Translator(ABC):
 
     def bad_translate(self, text_to_translate, iterations=5):
         before = text_to_translate.strip()
-        for i in range(0, iterations):
-            text_to_translate = self.random_iteration(text_to_translate)
-        text_to_translate = self.translate_text(self.from_lang, 'en', text_to_translate)
-        logger.info(f"Translated over {iterations} iterations: {before} -> {text_to_translate}")
+        while before.lower() == text_to_translate.strip().lower():
+            for i in range(0, iterations):
+                text_to_translate = self.random_iteration(text_to_translate)
+            if self.from_lang != 'en':
+                text_to_translate = self.translate_text(self.from_lang, 'en', text_to_translate)
+            logger.info(f"Translated over {iterations} iterations: {before} -> {text_to_translate}")
         return text_to_translate
 
     def write_file(self, data):
@@ -68,7 +70,7 @@ class GenericTranslator(Translator):
                 # Filename, ignore
                 pass
             else:
-                entry = f"  {self.bad_translate(entry, random.randint(self.min_iterations, self.max_iterations))}"
+                output_data[i] = f"  {self.bad_translate(entry, random.randint(self.min_iterations, self.max_iterations))}"
 
         logging.info("Dumping entries in case of fatal error:")
         for entry in output_data:

@@ -1,12 +1,8 @@
-import os, windscribe
+import os
 
 from src.tehtotktranslator.translator import GenericTranslator
 
-windscribe.login("")
-status = windscribe.locations()
-print(status)
 
-"""
 INPUT_FOLDER = "input"
 OUTPUT_FOLDER = "output"
 test_filename = "Boss.txt"
@@ -16,4 +12,3 @@ output_file = f"{os.getcwd()}/{OUTPUT_FOLDER}/Boss.txt"
 t = GenericTranslator(input_file, output_file)
 
 t.mass_translate()
-"""
