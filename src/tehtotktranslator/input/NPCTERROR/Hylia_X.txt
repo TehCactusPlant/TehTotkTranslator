@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  Ahh, to be young...
+TerrorLightning_01: |-
+  Hyaaah!
+TerrorInsect_00: |-
+  Ughhh!
+NakedPlayer_01: |-
+  Not a fan of clothes, eh?
+TerrorLightning_02: |-
+  Eeeeee!
+TerrorInsect_01: |-
+  I don't like thiiis!
+NakedPlayer_02: |-
+  He's in good shape...
+TerrorInsect_02: |-
+  Beeees!
+TerrorEnemy_00: |-
+  Help...
+TerrorEnemy_01: |-
+  Hyahhh!
+TerrorEnemy_02: |-
+  Noooooo!
+TerrorImpulse_00: |-
+  Stop that!
+TerrorHorse_00: |-
+  Hey!
+TerrorImpulse_01: |-
+  Yipes!
+TerrorHorse_01: |-
+  Yiiikes!
+TerrorImpulse_02: |-
+  Whoa!
+TerrorHorse_02: |-
+  Whoa!
+TerrorGuardian_00: |-
+  Somebody, heeelp!
+TerrorGuardian_01: |-
+  Yaaah!
+TerrorGuardian_02: |-
+  I don't want to die!
+TerrorSword_00: |-
+  Hyahh!
+TerrorSword_01: |-
+  Stop that!
+TerrorSword_02: |-
+  Hey!
+TerrorAnimal_00: |-
+  Yiiikes!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  What's the deal?
+TerrorAnimal_01: |-
+  Help meee!
+ClearTerrorEnemy_01: |-
+  I thought I was a goner!
+TerrorBomb_01: |-
+  Hm?
+TerrorAnimal_02: |-
+  Get away!
+ClearTerrorEnemy_02: |-
+  Hoh...
+TerrorBomb_02: |-
+  Aah!
+TerrorIce_00: |-
+  Oof!
+TerrorFire_00: |-
+  Hot! Hot!
+TerrorIce_01: |-
+  Yaaah!
+TerrorFire_01: |-
+  Yow, that smarts!
+TerrorIce_02: |-
+  I'll freeze!
+Enokida_00: |-
+  Well done.
+TerrorFire_02: |-
+  Yowch!
+TerrorFlash_00: |-
+  What's going on?!
+Enokida_01: |-
+  Let's see... This was...
+TerrorFlash_01: |-
+  I can't bear the brightness!
+ClearTerrorGuardian_00: |-
+  I could have died...
+Enokida_02: |-
+  President Mudson!
+TerrorArrow_00: |-
+  Please, stop...
+TerrorFlash_02: |-
+  Oh!
+ClearTerrorGuardian_01: |-
+  Whew, I'm beat...
+TerrorArrow_01: |-
+  What are you doing?
+ClearTerrorGuardian_02: |-
+  I thought I was a goner...
+TerrorArrow_02: |-
+  Hey now...
+TerrorGeneric_00: |-
+  Muh.
+TerrorExplosion_00: |-
+  Yiiikes!
+TerrorGeneric_01: |-
+  Heeyugh!
+TerrorExplosion_01: |-
+  Waaah!
+TerrorGeneric_02: |-
+  Hee!
+TerrorExplosion_02: |-
+  Whoa!
+TerrorLightning_00: |-
+  Aaah!

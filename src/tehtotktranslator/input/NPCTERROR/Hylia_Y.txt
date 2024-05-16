@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  No clothes, hm?
+TerrorLightning_01: |-
+  Ngh!
+TerrorInsect_00: |-
+  Uh-oh!
+NakedPlayer_01: |-
+  He hasn't got a stitch on...
+TerrorLightning_02: |-
+  Hyah!
+TerrorInsect_01: |-
+  I don't like thiiis!
+NakedPlayer_02: |-
+  You're a wild one!
+TerrorInsect_02: |-
+  Ahhh!
+TerrorEnemy_00: |-
+  Where is everybody?
+TerrorEnemy_01: |-
+  How terrible...
+TerrorEnemy_02: |-
+  Aaack!
+TerrorImpulse_00: |-
+  Eyah!
+TerrorHorse_00: |-
+  Yikes!
+TerrorImpulse_01: |-
+  Wahhh!
+TerrorHorse_01: |-
+  Heeh!
+TerrorImpulse_02: |-
+  Do that someplace else!
+TerrorHorse_02: |-
+  What are you doing?!
+TerrorGuardian_00: |-
+  Help! Help me!
+TerrorGuardian_01: |-
+  This is very not good!
+TerrorGuardian_02: |-
+  Eeek! Eeek!
+TerrorSword_00: |-
+  Hey!
+TerrorSword_01: |-
+  Stop that!
+TerrorSword_02: |-
+  Yikes!
+TerrorAnimal_00: |-
+  Take cover!
+ClearTerrorEnemy_00: |-
+  Is it over?
+TerrorBomb_00: |-
+  What? Why?!
+TerrorAnimal_01: |-
+  Hyaaah!
+ClearTerrorEnemy_01: |-
+  Phew...
+TerrorBomb_01: |-
+  Huh?
+TerrorAnimal_02: |-
+  Whyyy?
+ClearTerrorEnemy_02: |-
+  Hoh...
+TerrorBomb_02: |-
+  Aaah!
+TerrorIce_00: |-
+  Hyaaah!
+TerrorFire_00: |-
+  Ooh, that's hot!
+TerrorIce_01: |-
+  Hoo!
+TerrorFire_01: |-
+  Hot, hot!
+TerrorIce_02: |-
+  Cold!
+Enokida_00: |-
+  Well, well. It's Hudson.
+TerrorFire_02: |-
+  Hot, hot, hot...
+TerrorFlash_00: |-
+  What kind of light is this?
+Enokida_01: |-
+  Also on a walk, Hudson?
+TerrorFlash_01: |-
+  Whoa.
+ClearTerrorGuardian_00: |-
+  Phew...
+Enokida_02: |-
+  Hard work done well.
+TerrorArrow_00: |-
+  Please stop...
+TerrorFlash_02: |-
+  Hyah!
+ClearTerrorGuardian_01: |-
+  I need to lie down...
+TerrorArrow_01: |-
+  Wh-what are you...
+ClearTerrorGuardian_02: |-
+  I'm still all nerves...
+TerrorArrow_02: |-
+  Aaah!
+TerrorGeneric_00: |-
+  Hey!
+TerrorExplosion_00: |-
+  Waaagh!
+TerrorGeneric_01: |-
+  Hyaaah!
+TerrorExplosion_01: |-
+  Yah!
+TerrorGeneric_02: |-
+  Hoo!
+TerrorExplosion_02: |-
+  Wah! Waaah!
+TerrorLightning_00: |-
+  Bluhhh?!

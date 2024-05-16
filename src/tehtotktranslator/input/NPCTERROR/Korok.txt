@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  Hey, where's your shirt?
+TerrorLightning_01: |-
+  Zappity zap!
+TerrorInsect_00: |-
+  Buzz, buzz!
+NakedPlayer_01: |-
+  Hee-hee! No clothes!
+TerrorLightning_02: |-
+  Yikes!
+TerrorInsect_01: |-
+  Don't sting meee!
+NakedPlayer_02: |-
+  Underpants! Underpants!
+TerrorInsect_02: |-
+  Wah!
+TerrorEnemy_00: |-
+  Ruuun!
+TerrorEnemy_01: |-
+  Nooo!
+TerrorEnemy_02: |-
+  Heeelp! Heeelp!
+TerrorImpulse_00: |-
+  Huh?
+TerrorHorse_00: |-
+  It's so BIG!
+TerrorImpulse_01: |-
+  Aaargh!
+TerrorHorse_01: |-
+  Neigh!
+TerrorImpulse_02: |-
+  Whoa!
+TerrorHorse_02: |-
+  Yah! Yah!
+TerrorGuardian_00: |-
+  I'm scared!
+TerrorGuardian_01: |-
+  Nooo!
+TerrorGuardian_02: |-
+  Save meee!
+TerrorSword_00: |-
+  Argh!
+TerrorSword_01: |-
+  Aaah!
+TerrorSword_02: |-
+  Hey!
+TerrorAnimal_00: |-
+  Scary!
+ClearTerrorEnemy_00: |-
+  That was close!
+TerrorBomb_00: |-
+  What the?
+TerrorAnimal_01: |-
+  Nooo!
+ClearTerrorEnemy_01: |-
+  Phewf.
+TerrorBomb_01: |-
+  Huh?
+TerrorAnimal_02: |-
+  Help!
+ClearTerrorEnemy_02: |-
+  Wow...
+TerrorBomb_02: |-
+  Kaboom!
+TerrorIce_00: |-
+  Brrr!
+TerrorFire_00: |-
+  Ouchie!
+TerrorIce_01: |-
+  Cold!
+TerrorFire_01: |-
+  It's too hot!
+TerrorIce_02: |-
+  That's freezing!
+Enokida_00: |-
+  Don't I know you?
+TerrorFire_02: |-
+  Eep!
+TerrorFlash_00: |-
+  Huh?
+Enokida_01: |-
+  Nice disguise!
+TerrorFlash_01: |-
+  It's too bright!
+ClearTerrorGuardian_00: |-
+  I'm saved...
+Enokida_02: |-
+  You're dressed weird...
+TerrorArrow_00: |-
+  Whoa, whoa!
+TerrorFlash_02: |-
+  Aaah, my eyes!
+ClearTerrorGuardian_01: |-
+  Phew!
+TerrorArrow_01: |-
+  Ouch...
+ClearTerrorGuardian_02: |-
+  Whew. Scary!
+TerrorArrow_02: |-
+  Oof!
+TerrorGeneric_00: |-
+  Hyah!
+TerrorExplosion_00: |-
+  Yeeek!
+TerrorGeneric_01: |-
+  Oof!
+TerrorExplosion_01: |-
+  Gyaah!
+TerrorGeneric_02: |-
+  Pyah!
+TerrorExplosion_02: |-
+  Gahhh!
+TerrorLightning_00: |-
+  Pretty flash!

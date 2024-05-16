@@ -1,0 +1,12 @@
+Pa_Guide_03-T_Guide_00: |-
+  Back
+Pa_SlideListB_00-Pa_SlideItem_00-T_Kakeru_00: |-
+  x
+Pa_Guide_00-T_Guide_00: |-
+  Select
+Pa_Guide_02-T_Guide_00: |-
+  Drop
+Pa_SortWindow_00-Pa_Guide_00-T_Guide_00: |-
+  Sort
+Pa_Guide_01-T_Guide_00: |-
+  Sort

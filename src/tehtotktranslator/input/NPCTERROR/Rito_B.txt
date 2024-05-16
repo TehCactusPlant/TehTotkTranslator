@@ -1,0 +1,30 @@
+TerrorFlash_00: |-
+  Too bright!
+TerrorIce_00: |-
+  Augh!
+TerrorInsect_00: |-
+  I'm gonna get stung!
+TerrorFlash_01: |-
+  Argh!
+TerrorIce_01: |-
+  Hey!
+TerrorInsect_01: |-
+  Leave me alone!
+TerrorFlash_02: |-
+  Whoa!
+TerrorIce_02: |-
+  That's cold!
+TerrorInsect_02: |-
+  Uwaaah!
+TerrorHorse_00: |-
+  Don't kick me, horsey!
+TerrorGeneric_00: |-
+  Whoa!
+TerrorHorse_01: |-
+  Too close!
+TerrorGeneric_01: |-
+  Hey!
+TerrorHorse_02: |-
+  Wuhhh?!
+TerrorGeneric_02: |-
+  Aaaaaah!

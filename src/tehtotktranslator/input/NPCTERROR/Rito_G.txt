@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  Aren't you cold?
+TerrorLightning_01: |-
+  Thunder freaks me out.
+TerrorInsect_00: |-
+  I don't wanna get stung!
+NakedPlayer_01: |-
+  Ew, go get dressed!
+TerrorLightning_02: |-
+  I hate lightning!
+TerrorInsect_01: |-
+  Ew! I hate bugs!
+NakedPlayer_02: |-
+  Where's your clothes?
+TerrorInsect_02: |-
+  Go bug a flower!
+TerrorEnemy_00: |-
+  Somebody, help me!
+TerrorEnemy_01: |-
+  Eek! I'm in trouble!
+TerrorEnemy_02: |-
+  I've gotta run!
+TerrorImpulse_00: |-
+  Eeep!
+TerrorHorse_00: |-
+  Don't stomp me!
+TerrorImpulse_01: |-
+  Go away!
+TerrorHorse_01: |-
+  Wah! You scared me!
+TerrorImpulse_02: |-
+  Hey, c'mon...
+TerrorHorse_02: |-
+  Watch it!
+TerrorGuardian_00: |-
+  Leave me alone!
+TerrorGuardian_01: |-
+  What IS that?!
+TerrorGuardian_02: |-
+  No, I'm scared!
+TerrorSword_00: |-
+  Cut it OUT!
+TerrorSword_01: |-
+  Kyaaah!
+TerrorSword_02: |-
+  Whoa, careful!
+TerrorAnimal_00: |-
+  Don't eat me!
+ClearTerrorEnemy_00: |-
+  Is it safe?
+TerrorBomb_00: |-
+  Is that gonna explode?!
+TerrorAnimal_01: |-
+  Eeek!
+ClearTerrorEnemy_01: |-
+  That was scary...
+TerrorBomb_01: |-
+  That's dangerous, mister!
+TerrorAnimal_02: |-
+  Help me!
+ClearTerrorEnemy_02: |-
+  I thought I was done for.
+TerrorBomb_02: |-
+  Wh-what is that?
+TerrorIce_00: |-
+  Wah!
+TerrorFire_00: |-
+  Hot! Hot! Waaah!
+TerrorIce_01: |-
+  Peep!
+TerrorFire_01: |-
+  That's WAY too hot!
+TerrorIce_02: |-
+  C-c-cold!
+TerrorFire_02: |-
+  Ow! It's burning me!
+TerrorFlash_00: |-
+  So bright!
+TerrorFlash_01: |-
+  Aaah!
+ClearTerrorGuardian_00: |-
+  Ugh, that was scary.
+TerrorArrow_00: |-
+  Don't! No!
+TerrorFlash_02: |-
+  Eek!
+ClearTerrorGuardian_01: |-
+  I was so shocked!
+TerrorArrow_01: |-
+  Yaaah!
+ClearTerrorGuardian_02: |-
+  I think I'm OK...
+TerrorArrow_02: |-
+  Stop it, stop it!
+TerrorGeneric_00: |-
+  Eeek!
+TerrorExplosion_00: |-
+  Eeep!
+TerrorGeneric_01: |-
+  Waaah!
+TerrorExplosion_01: |-
+  Cut it out!
+TerrorGeneric_02: |-
+  Eeep!
+TerrorExplosion_02: |-
+  Ridiculous...
+TerrorLightning_00: |-
+  Kyah!

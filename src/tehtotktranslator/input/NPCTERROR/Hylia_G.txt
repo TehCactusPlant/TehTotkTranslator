@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  Get some clothes!
+TerrorLightning_01: |-
+  Yahh!
+TerrorInsect_00: |-
+  Uwahh!
+NakedPlayer_01: |-
+  Weirdo!
+TerrorLightning_02: |-
+  I'm scaaared!
+TerrorInsect_01: |-
+  Ick!
+NakedPlayer_02: |-
+  He's got no clothes!
+TerrorInsect_02: |-
+  Waah!
+TerrorEnemy_00: |-
+  Help meee!
+TerrorEnemy_01: |-
+  Waaagh!
+TerrorEnemy_02: |-
+  I'm scaaared!
+TerrorImpulse_00: |-
+  Go away!
+TerrorHorse_00: |-
+  Kyaaah!
+TerrorImpulse_01: |-
+  Wah!
+TerrorHorse_01: |-
+  Waaah!
+TerrorImpulse_02: |-
+  Eek!
+TerrorHorse_02: |-
+  Yah!
+TerrorGuardian_00: |-
+  Nooo!
+TerrorGuardian_01: |-
+  Waaaaaagh!
+TerrorGuardian_02: |-
+  It's so scaryyy!
+TerrorSword_00: |-
+  Uwah...
+TerrorSword_01: |-
+  Kyah!
+TerrorSword_02: |-
+  Yah!
+TerrorAnimal_00: |-
+  I'm scaaared!
+ClearTerrorEnemy_00: |-
+  I want my mom...
+TerrorBomb_00: |-
+  Um...
+TerrorAnimal_01: |-
+  Go away!
+ClearTerrorEnemy_01: |-
+  That was so scary!
+TerrorBomb_01: |-
+  Augh!
+TerrorAnimal_02: |-
+  Kyaaah!
+ClearTerrorEnemy_02: |-
+  Is it over?
+TerrorBomb_02: |-
+  Huh?!
+TerrorIce_00: |-
+  Oooh!
+TerrorFire_00: |-
+  Hot...
+TerrorIce_01: |-
+  Wah!
+TerrorFire_01: |-
+  That's hot!
+TerrorIce_02: |-
+  Cooold!
+TerrorFire_02: |-
+  Hot, hot, hot!
+TerrorFlash_00: |-
+  Sparkly!
+TerrorFlash_01: |-
+  Waaah!
+ClearTerrorGuardian_00: |-
+  I want my dad...
+TerrorArrow_00: |-
+  Stop iiit!
+TerrorFlash_02: |-
+  So bright!
+ClearTerrorGuardian_01: |-
+  That was scary...
+TerrorArrow_01: |-
+  Yahh!
+ClearTerrorGuardian_02: |-
+  My heart's still thumping.
+TerrorArrow_02: |-
+  Yaah!
+TerrorGeneric_00: |-
+  Hey!
+TerrorExplosion_00: |-
+  Wahh!
+TerrorGeneric_01: |-
+  Yaaah!
+TerrorExplosion_01: |-
+  Kyaaah!
+TerrorGeneric_02: |-
+  Waaah!
+TerrorExplosion_02: |-
+  Eee!
+TerrorLightning_00: |-
+  Wahhh!

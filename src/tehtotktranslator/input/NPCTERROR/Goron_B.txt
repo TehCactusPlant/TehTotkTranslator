@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  Hey! Where's your pants?!
+TerrorLightning_01: |-
+  Yikes!
+TerrorInsect_00: |-
+  Yikes!
+NakedPlayer_01: |-
+  Where are your clothes?
+TerrorLightning_02: |-
+  That's dangerous!
+TerrorInsect_01: |-
+  Yeeek!
+NakedPlayer_02: |-
+  No pants! NO PANTS!
+TerrorInsect_02: |-
+  Bwahhh!
+TerrorEnemy_00: |-
+  Get away!
+TerrorEnemy_01: |-
+  Gwaaah!
+TerrorEnemy_02: |-
+  Help me!
+TerrorImpulse_00: |-
+  Hey!
+TerrorHorse_00: |-
+  Whoa!
+TerrorImpulse_01: |-
+  Huh?
+TerrorHorse_01: |-
+  That's dangerous!
+TerrorImpulse_02: |-
+  Yikes.
+TerrorHorse_02: |-
+  Wawawaaah!
+TerrorGuardian_00: |-
+  Yikes!
+TerrorGuardian_01: |-
+  Ugh!
+TerrorGuardian_02: |-
+  Help me!
+TerrorSword_00: |-
+  Whoa!
+TerrorSword_01: |-
+  Hey!
+TerrorSword_02: |-
+  Agh!
+TerrorAnimal_00: |-
+  Whoa!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  Wah!
+TerrorAnimal_01: |-
+  That's dangerous!
+ClearTerrorEnemy_01: |-
+  That was close...
+TerrorBomb_01: |-
+  Stop!
+TerrorAnimal_02: |-
+  Wawawaaah!
+ClearTerrorEnemy_02: |-
+  I thought I was a goner...
+TerrorBomb_02: |-
+  No, no, no!
+TerrorIce_00: |-
+  Bwaaah!
+TerrorFire_00: |-
+  Oooh, refreshing.
+TerrorIce_01: |-
+  Yikes!
+TerrorFire_01: |-
+  Hm?
+TerrorIce_02: |-
+  That's cold!
+Enokida_00: |-
+  Hey, Prez!
+TerrorFire_02: |-
+  That's almost chilly!
+TerrorFlash_00: |-
+  So bright!
+Enokida_01: |-
+  Prez! Good to see ya!
+TerrorFlash_01: |-
+  Ah!
+ClearTerrorGuardian_00: |-
+  That was stressful...
+Enokida_02: |-
+  The Prez is here!
+TerrorArrow_00: |-
+  Waaah!
+TerrorFlash_02: |-
+  Wah!
+ClearTerrorGuardian_01: |-
+  That was close.
+TerrorArrow_01: |-
+  Stop!
+ClearTerrorGuardian_02: |-
+  I thought I was a goner...
+TerrorArrow_02: |-
+  That's dangerous!
+TerrorGeneric_00: |-
+  Whoa!
+TerrorExplosion_00: |-
+  Waaah!
+TerrorGeneric_01: |-
+  Wah!
+TerrorExplosion_01: |-
+  Bwah!
+TerrorGeneric_02: |-
+  Ack!
+TerrorExplosion_02: |-
+  Gaaah!
+TerrorLightning_00: |-
+  Aaagh!

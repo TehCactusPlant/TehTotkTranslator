@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  Bandits got your clothes?
+TerrorLightning_01: |-
+  Eee!
+TerrorInsect_00: |-
+  Help meee!
+NakedPlayer_01: |-
+  Can't afford pants, huh?
+TerrorLightning_02: |-
+  Wah!
+TerrorInsect_01: |-
+  Ouch...
+NakedPlayer_02: |-
+  Is that the new style?
+TerrorInsect_02: |-
+  Uwahh!
+TerrorEnemy_00: |-
+  I'll never retreat!
+TerrorEnemy_01: |-
+  I'm just warming up...
+TerrorEnemy_02: |-
+  Say goodbye!
+TerrorImpulse_00: |-
+  Waaah!
+TerrorHorse_00: |-
+  Whoaaa!
+TerrorImpulse_01: |-
+  Quit it!
+TerrorHorse_01: |-
+  What?!
+TerrorImpulse_02: |-
+  Watch it!
+TerrorHorse_02: |-
+  Watch it!
+TerrorGuardian_00: |-
+  We've gotta run!
+TerrorGuardian_01: |-
+  Let's get away from here!
+TerrorGuardian_02: |-
+  Heeelp!
+WaterPumpWater_00: |-
+  Keep it coming!
+TerrorSword_00: |-
+  Really?
+WaterPumpWater_01: |-
+  Much appreciated.
+TerrorSword_01: |-
+  This is a joke, right?
+WaterPumpWater_02: |-
+  Very refreshing...
+TerrorSword_02: |-
+  Put that away.
+TerrorAnimal_00: |-
+  Oh, this is bad!
+ClearTerrorEnemy_00: |-
+  That was close!
+TerrorBomb_00: |-
+  What the?
+TerrorAnimal_01: |-
+  Shoo! Shoo!
+ClearTerrorEnemy_01: |-
+  Well then.
+TerrorBomb_01: |-
+  Guh!
+TerrorAnimal_02: |-
+  Uwah!
+ClearTerrorEnemy_02: |-
+  Phew.
+TerrorBomb_02: |-
+  Urgh...
+TerrorIce_00: |-
+  Hah!
+TerrorFire_00: |-
+  Yeowch!
+TerrorIce_01: |-
+  What are you doing?!
+TerrorFire_01: |-
+  Hot!
+TerrorIce_02: |-
+  Cold!
+TerrorFire_02: |-
+  Hey! HEY!
+TerrorFlash_00: |-
+  I can't see!
+TerrorFlash_01: |-
+  Wha?
+ClearTerrorGuardian_00: |-
+  That was close...
+TerrorArrow_00: |-
+  Hey!
+TerrorFlash_02: |-
+  What?!
+ClearTerrorGuardian_01: |-
+  Phew...
+TerrorArrow_01: |-
+  Stop that.
+ClearTerrorGuardian_02: |-
+  The danger has passed...
+TerrorArrow_02: |-
+  I'm warning you!
+TerrorGeneric_00: |-
+  What?!
+TerrorExplosion_00: |-
+  Uwahh!
+TerrorGeneric_01: |-
+  Wah?
+TerrorExplosion_01: |-
+  Oof!
+TerrorGeneric_02: |-
+  Ngh!
+TerrorExplosion_02: |-
+  Whoa!
+TerrorLightning_00: |-
+  Uwah!

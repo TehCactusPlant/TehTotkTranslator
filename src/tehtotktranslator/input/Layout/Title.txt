@@ -1,0 +1,8 @@
+0002: |-
+  Options
+0000: |-
+  New Game
+0003: |-
+  amiibo
+0001: |-
+  Continue

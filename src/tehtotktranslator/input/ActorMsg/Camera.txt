@@ -1,0 +1,120 @@
+FldObj_HoleWhirlingWaves_A_04_Name: |-
+  Whirlpool
+NorthHatelHatago_PhotographTarget_2_Name: |-
+  Ring Ruins
+Obj_Zonau_RockRelief_A_10_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_11_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_12_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_13_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_14_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_07_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_08_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_09_Name: |-
+  Tablet in ancient Hyrulean
+Obj_TreeCherry_A_01_Name: |-
+  Cherry-blossom tree
+GerudoHatago_LaughFace_PhotographTarget_Name: |-
+  Smiling Spectacle Rock
+SkyObj_Zonau_RockRelief_A_01_Name: |-
+  Ring Ruins stone slab
+Obj_Zonau_RockRelief_A_03_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_04_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_05_Name: |-
+  Tablet in ancient Hyrulean
+Obj_Zonau_RockRelief_A_06_Name: |-
+  Tablet in ancient Hyrulean
+FldObj_RuinStatueKnightSword_B_01_Name: |-
+  Forgotten Sword
+GoronReturntoNature_PhotographTarget_Name: |-
+  Full moon shining down
+TabanthaBridgeHatago_PhotographTarget_Name: |-
+  Ancient Columns at sunrise
+Npc_Goron032_Name: |-
+  Goron soaking in hot springs
+Obj_GerudoUndergroundStatueHead_A_01_Name: |-
+  Monument to Seven Heroines
+FldObj_HoleQuicksand_A_01_Name: |-
+  Quicksand sinkhole
+LostMemoryInUotori_PhotographTarget_Name: |-
+  Hyrule's finest sunrise
+TwnObj_GoddesStatue_Wisdom_A_10_Name: |-
+  Spring of Wisdom Statue
+TwnObj_Village_SheikerZeldaTradition_Name: |-
+  Screen depicting the Calamity
+EightHeroStatues_PhotographTarget_Name: |-
+  Monument to Seven Heroines
+SnowfieldHatago_PhotographTarget_Name: |-
+  Bird with outstretched wings
+TwnObj_SuperGoddesStatue_A_01_Name: |-
+  Forgotten Temple Statue
+DeathMountainHatago_PhotographTarget_New_Name: |-
+  Daruk sculpture
+ZoraStatue_Picture_PhotographTarget_Name: |-
+  Moonlit Mipha statue
+Npc_UMiiVillage033_Gerudo_Name: |-
+  Mattison
+TwnObj_GoddesStatue_Courage_A_10_Name: |-
+  Spring of Courage Statue
+NewHyruleWestHatago_01_PhotographTarget_Name: |-
+  Geoglyph
+Npc_Goron013_Name: |-
+  Goron soaking in hot springs
+Npc_Goron014_Name: |-
+  Goron soaking in hot springs
+Npc_Goron015_Name: |-
+  Goron soaking in hot springs
+TwnObj_GoddesStatue_Power_A_10_Name: |-
+  Spring of Power Statue
+EastAkkalaHatago_PhotographTarget_Name: |-
+  Octorok-shaped Octorok Lake
+LakeSideHatago_PhotographTarget_Name: |-
+  Floria Falls on a clear day
+NewHyruleWestHatago_01_PhotographTarget_10_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_11_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_4_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_5_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_6_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_7_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_8_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_9_Name: |-
+  Geoglyph
+TwnObj_GerudoUndergroundStatue_A_02_Name: |-
+  Monument to Seven Heroines
+TwnObj_GerudoUndergroundStatue_A_06_Name: |-
+  Monument to Seven Heroines
+TwnObj_Village_IchikaraSpring_A_02_Name: |-
+  Unity Bell
+SkyObj_GoddesStatue_A_01_Name: |-
+  Great Goddess Statue
+NewHyruleWestHatago_01_PhotographTarget_2_Name: |-
+  Geoglyph
+NewHyruleWestHatago_01_PhotographTarget_3_Name: |-
+  Geoglyph
+NorthHatelHatago_PhotographTarget_Name: |-
+  Ring Ruins
+FldObj_WisemanStatue_A_01_Name: |-
+  Statue bearing a sword
+FldObj_WisemanStatue_A_04_Name: |-
+  Statue with raised arm
+FldObj_WisemanStatue_A_06_Name: |-
+  Winged statue
+FldObj_WisemanStatue_A_07_Name: |-
+  Finned statue
+TwnObj_GoddesStatue_A_01_Name: |-
+  Temple of Time Statue

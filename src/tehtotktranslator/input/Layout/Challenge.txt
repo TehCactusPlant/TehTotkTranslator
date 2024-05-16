@@ -1,0 +1,18 @@
+Category_0003: |-
+  Side Quests
+T_Guide_00: |-
+  Open Adventure Log
+Category_0000: |-
+  Main Quests
+T_TitleMark_00: |-
+  New Objective
+T_KeyIcon_00: |-
+  
+Type_0000: |-
+  Updated
+Category_0001: |-
+  Side Adventures
+T_Complete_00: |-
+  Complete
+Category_0002: |-
+  Shrine Quests

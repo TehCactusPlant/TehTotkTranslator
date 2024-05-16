@@ -1,0 +1,114 @@
+NakedPlayer_00: |-
+  You go around like that?
+TerrorLightning_01: |-
+  Uwah!
+TerrorInsect_00: |-
+  Get them away!
+NakedPlayer_01: |-
+  How...brave.
+TerrorLightning_02: |-
+  Eee!
+TerrorInsect_01: |-
+  Wait, stop!
+NakedPlayer_02: |-
+  Where's your shirt?
+TerrorInsect_02: |-
+  Waaah!
+TerrorEnemy_00: |-
+  Bring it on!
+TerrorEnemy_01: |-
+  I accept your challenge!
+TerrorEnemy_02: |-
+  You'll pay for that!
+TerrorImpulse_00: |-
+  Eep!
+TerrorHorse_00: |-
+  Careful!
+TerrorImpulse_01: |-
+  Hey!
+TerrorHorse_01: |-
+  Hey!
+TerrorImpulse_02: |-
+  Ack!
+TerrorHorse_02: |-
+  Look out!
+TerrorGuardian_00: |-
+  I'm not ready to die!
+TerrorGuardian_01: |-
+  This is bad!
+TerrorGuardian_02: |-
+  Gyaah!
+WaterPumpWater_00: |-
+  Where is it coming from?
+TerrorSword_00: |-
+  You wanna fight, huh?
+WaterPumpWater_01: |-
+  That feels nice.
+TerrorSword_01: |-
+  What are you doing?!
+WaterPumpWater_02: |-
+  How refreshing.
+TerrorSword_02: |-
+  Bring it on!
+TerrorAnimal_00: |-
+  It looks angry.
+ClearTerrorEnemy_00: |-
+  Phew... I'm safe.
+TerrorBomb_00: |-
+  What?
+TerrorAnimal_01: |-
+  Bring it!
+ClearTerrorEnemy_01: |-
+  I think I'm in the clear.
+TerrorBomb_01: |-
+  Ungh!
+TerrorAnimal_02: |-
+  You pest!
+ClearTerrorEnemy_02: |-
+  Phew...
+TerrorBomb_02: |-
+  What's this?
+TerrorIce_00: |-
+  Ooof!
+TerrorFire_00: |-
+  Hot!
+TerrorIce_01: |-
+  Kah!
+TerrorFire_01: |-
+  I'll get burned!
+TerrorIce_02: |-
+  Stop it! That's cold!
+TerrorFire_02: |-
+  Wah!
+TerrorFlash_00: |-
+  Am I being blinded?!
+TerrorFlash_01: |-
+  Wah!
+ClearTerrorGuardian_00: |-
+  Phew... Safe at last...
+TerrorArrow_00: |-
+  What are you doing?!
+TerrorFlash_02: |-
+  Heeyah!
+ClearTerrorGuardian_01: |-
+  I think I'm in the clear.
+TerrorArrow_01: |-
+  Stop that!
+ClearTerrorGuardian_02: |-
+  That was a close one!
+TerrorArrow_02: |-
+  Do it again. I dare you.
+TerrorGeneric_00: |-
+  Gaah!
+TerrorExplosion_00: |-
+  Yikes!
+TerrorGeneric_01: |-
+  Ungh!
+TerrorExplosion_01: |-
+  Waaah!
+TerrorGeneric_02: |-
+  Hoowaaah!
+TerrorExplosion_02: |-
+  Ahhh!
+TerrorLightning_00: |-
+  Kyah!

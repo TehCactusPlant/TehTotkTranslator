@@ -1,0 +1,302 @@
+IronBall_Adjective: |-
+  Iron-Ball
+ShieldFence_Adjective: |-
+  Barricade
+ZonauGolem_Senior_Adjective: |-
+  Captain III
+Mogurudo_Senior_Adjective: |-
+  Blue-White Frox
+Octarock_Adjective: |-
+  Octorok
+Rectangle_Lava_Adjective: |-
+  Lava-Slab
+Log_Name: |-
+  Log
+Lumber_Name: |-
+  Lumber
+Propeller_Adjective: |-
+  Propeller
+Rectangle_Lava_Name: |-
+  Lava Slab
+Giant_Bone_Adjective: |-
+  Stalnox
+Icicle_Name: |-
+  Icicle
+IronLump_Adjective: |-
+  Iron-Lump
+StoneFragment_Adjective: |-
+  Stone-Shard
+ArmorFragment_Name: |-
+  Armor Shard
+ZonauGolem_Dark_Adjective: |-
+  Captain IV
+Ice_Name: |-
+  Ice
+StoneBall_Name: |-
+  Stone Ball
+Block_Name: |-
+  Block
+BokoblinBoss_Junior_Adjective: |-
+  Boss Boko
+Keese_Adjective: |-
+  Keese
+Lattice_Adjective: |-
+  Lattice
+RemainsBlock_Name: |-
+  Ruins Rubble
+Signboard_Adjective: |-
+  Signboard
+Barrel_Name: |-
+  Barrel
+Bokoblin_Middle_Adjective: |-
+  Blue Boko
+Raft_Adjective: |-
+  Raft
+Rock_Large_Adjective: |-
+  Boulder
+BokoblinBoss_Senior_Adjective: |-
+  Black Boss Boko
+LikeLike_Electric_Adjective: |-
+  Shock Like
+Lynel_Middle_Adjective: |-
+  Blue-Maned Lynel
+Block_Adjective: |-
+  Block
+Bokoblin_Junior_Adjective: |-
+  Boko
+Drake_Junior_Adjective: |-
+  Gleeok
+ZonauRobot_Middle_Adjective: |-
+  Soldier II
+Bokoblin_Senior_Adjective: |-
+  Black Boko
+Log_Adjective: |-
+  Log
+Keese_Fire_Adjective: |-
+  Fire Keese
+Lizalfos_Dark_Adjective: |-
+  Silver Lizal
+Pot_Adjective: |-
+  Pot
+Sandworm_Adjective: |-
+  Molduga
+WireMesh_Adjective: |-
+  Wire-Mesh
+WireMesh_Name: |-
+  Wire Mesh
+StoneFragment_Name: |-
+  Stone Shard
+Train_Name: |-
+  Mine Cart
+Keese_Electric_Adjective: |-
+  Electric Keese
+Raft_Name: |-
+  Raft
+Bokoblin_Dark_Adjective: |-
+  Silver Boko
+Ice_Adjective: |-
+  Ice
+LikeLike_Ice_Adjective: |-
+  Ice Like
+BarrelBomb_Adjective: |-
+  Bomb-Barrel
+MeatRock_Adjective: |-
+  Marbled-Rock-Roast
+Spike_Name: |-
+  Spikes
+TreantLog_Name: |-
+  Evermean Log
+Basket_Adjective: |-
+  Basket
+Scrap_Name: |-
+  Scrap
+SnowBall_Name: |-
+  Snowball
+Dragon_Ice_Adjective: |-
+  Naydra
+Rock_Name: |-
+  Rock
+IronLump_Name: |-
+  Iron Lump
+Propeller_Name: |-
+  Propeller
+Lynel_Dark_Adjective: |-
+  Silver Lynel
+Table_Name: |-
+  Desk
+Train_Adjective: |-
+  Mine-Cart
+Barrel_Adjective: |-
+  Barrel
+SimpleStone_Name: |-
+  Stone
+Moriblin_Middle_Adjective: |-
+  Blue Moblin
+Pot_Name: |-
+  Pot
+Lizalfos_Electric_Adjective: |-
+  Electric Lizal
+Lattice_Name: |-
+  Lattice
+Rectangle_Iron_Adjective: |-
+  Metal-Plate
+Moriblin_Junior_Adjective: |-
+  Moblin
+Giant_Middle_Adjective: |-
+  Blue Hinox
+Hook_Adjective: |-
+  Hook
+Box_Stone_Name: |-
+  Stone Box
+MeatRock_Name: |-
+  Marbled Rock Roast
+FloatingWater_Adjective: |-
+  Water-Globule
+Horablin_Dark_Adjective: |-
+  Silver Horriblin
+Moriblin_Senior_Adjective: |-
+  Black Moblin
+LikeLike_Fire_Adjective: |-
+  Fire Like
+TimerBomb_Adjective: |-
+  Time-Bomb
+Box_Stone_Adjective: |-
+  Stone-Box
+Giant_Junior_Adjective: |-
+  Hinox
+IronBall_Name: |-
+  Iron Ball
+Lizalfos_Middle_Adjective: |-
+  Blue Lizal
+IronSpikeBall_Name: |-
+  Spiked Iron Ball
+SnowBall_Adjective: |-
+  Snowball
+BarrelBomb_Name: |-
+  Bomb Barrel
+IronSpikeBall_Adjective: |-
+  Spiked-Iron-Ball
+Lynel_Junior_Adjective: |-
+  Lynel
+Rectangle_Stone_Adjective: |-
+  Stone-Slab
+Rectangle_Wood_Adjective: |-
+  Board
+ArmorFragment_Adjective: |-
+  Armor-Shard
+Ball_Name: |-
+  Ball
+Dragon_Electric_Adjective: |-
+  Farosh
+Giant_Senior_Adjective: |-
+  Black Hinox
+Horablin_Middle_Adjective: |-
+  Blue Horriblin
+Rectangle_Iron_Name: |-
+  Metal Plate
+ZonauRobot_Dark_Adjective: |-
+  Soldier IV
+Ball_Adjective: |-
+  Ball
+Lizalfos_Junior_Adjective: |-
+  Lizal
+Lumber_Adjective: |-
+  Lumber
+ShieldFence_Name: |-
+  Barricade
+ZonauRobot_Junior_Adjective: |-
+  Soldier
+Dragon_Fire_Adjective: |-
+  Dinraal
+IronPole_Adjective: |-
+  Iron-Pole
+Lynel_Senior_Adjective: |-
+  White-Maned Lynel
+Horablin_Junior_Adjective: |-
+  Horriblin
+Icicle_Adjective: |-
+  Icicle
+Lizalfos_Senior_Adjective: |-
+  Black Lizal
+Spike_Adjective: |-
+  Spiky
+ZonauRobot_Senior_Adjective: |-
+  Soldier III
+Box_Iron_Name: |-
+  Iron Box
+Horablin_Senior_Adjective: |-
+  Black Horriblin
+Keese_Ice_Adjective: |-
+  Ice Keese
+BokoblinBoss_Middle_Adjective: |-
+  Blue Boss Boko
+Sail_Adjective: |-
+  Sail
+StoneBall_Adjective: |-
+  Stone-Ball
+Rectangle_Wood_Name: |-
+  Board
+Moriblin_Dark_Adjective: |-
+  Silver Moblin
+Scrap_Adjective: |-
+  Scrap
+Basket_Name: |-
+  Basket
+Box_Iron_Adjective: |-
+  Iron-Box
+RemainsBlock_Adjective: |-
+  Ruins-Rubble
+Table_Adjective: |-
+  Desk
+Dragon_Light_Adjective: |-
+  Light Dragon
+Stick_Adjective: |-
+  Pole
+Box_Wood_Name: |-
+  Wooden Box
+Sail_Name: |-
+  Sail
+TimerBomb_Name: |-
+  Time Bomb
+TreantLog_Adjective: |-
+  Evermean
+Zombie_Adjective: |-
+  Gibdo
+Lizalfos_Ice_Adjective: |-
+  Ice-Breath Lizal
+Rock_Adjective: |-
+  Rock
+Toby_Adjective: |-
+  Aerocuda
+Rock_Large_Name: |-
+  Boulder
+Stick_Name: |-
+  Pole
+LikeLike_Adjective: |-
+  Like Like
+ZonauGolem_Middle_Adjective: |-
+  Captain II
+Box_Wood_Adjective: |-
+  Wooden-Box
+Hook_Name: |-
+  Hook
+Mogurudo_Middle_Adjective: |-
+  Obsidian Frox
+SimpleStone_Adjective: |-
+  Stone
+IronPole_Name: |-
+  Iron Pole
+Lizalfos_Fire_Adjective: |-
+  Fire-Breath Lizal
+Rectangle_Stone_Name: |-
+  Stone Slab
+FloatingWater_Name: |-
+  Water Globule
+Signboard_Name: |-
+  Signboard
+ZonauGolem_Junior_Adjective: |-
+  Captain I
+BokoblinBoss_Dark_Adjective: |-
+  Silver Boss Boko
+Mogurudo_Junior_Adjective: |-
+  Frox

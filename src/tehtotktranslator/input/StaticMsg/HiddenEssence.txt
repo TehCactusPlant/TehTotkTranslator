@@ -1,0 +1,32 @@
+RicketyDamageUp_Name: |-
+  Breaking Point
+RushDamageUp_Name: |-
+  Improved Flurry Rush
+CreateWind_Name: |-
+  Wind Burst
+Miasma_Name: |-
+  Gloom Toll
+WaterDamageUp_Name: |-
+  Water Warrior
+ShatterLevelUp_Name: |-
+  Demolisher
+DefeatMiasma_Name: |-
+  Revitalized Sword of Legend
+HystericalStrength_Name: |-
+  Desperate Strength
+StealthAttackUp_Name: |-
+  Improved Sneakstrike
+ZonauDamageUp_Name: |-
+  Zonaite-Powered
+ChargeSpeedUp_Name: |-
+  Quick Charge
+AttachmentDamageUp_Name: |-
+  Strong Fusion
+Reuse_Name: |-
+  Fuse Recycling
+DecreaseChargeAttackStamina_Name: |-
+  Charge Atk. Stamina Up
+HighDurability_Name: |-
+  Extra Durable
+Katana_Name: |-
+  Wind Razor

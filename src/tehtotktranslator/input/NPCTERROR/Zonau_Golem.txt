@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  You look cold.
+TerrorLightning_01: |-
+  Uh-oh.
+TerrorInsect_00: |-
+  Danger!
+NakedPlayer_01: |-
+  Are you hot?
+TerrorLightning_02: |-
+  Look out!
+TerrorInsect_01: |-
+  I must protect myself.
+NakedPlayer_02: |-
+  You are unclothed.
+TerrorInsect_02: |-
+  This creature is a threat.
+TerrorEnemy_00: |-
+  We are under threat.
+TerrorEnemy_01: |-
+  I must protect myself.
+TerrorEnemy_02: |-
+  I am in danger.
+TerrorImpulse_00: |-
+  Danger!
+TerrorHorse_00: |-
+  Danger!
+TerrorImpulse_01: |-
+  I must protect myself.
+TerrorHorse_01: |-
+  I must protect myself.
+TerrorImpulse_02: |-
+  Your behavior is a threat.
+TerrorHorse_02: |-
+  This creature is a threat.
+TerrorGuardian_00: |-
+  Danger sighted.
+TerrorGuardian_01: |-
+  Oh no.
+TerrorGuardian_02: |-
+  Be careful.
+TerrorSword_00: |-
+  Danger!
+TerrorSword_01: |-
+  I must protect myself.
+TerrorSword_02: |-
+  Your behavior is a threat.
+TerrorAnimal_00: |-
+  Danger!
+ClearTerrorEnemy_00: |-
+  Has the danger passed?
+TerrorBomb_00: |-
+  Hazardous object sighted.
+TerrorAnimal_01: |-
+  I must protect myself.
+ClearTerrorEnemy_01: |-
+  Is it safe now?
+TerrorBomb_01: |-
+  What is that?
+TerrorAnimal_02: |-
+  This creature is a threat.
+ClearTerrorEnemy_02: |-
+  Lowering defenses.
+TerrorBomb_02: |-
+  Bomb!
+TerrorIce_00: |-
+  Uh-oh.
+TerrorFire_00: |-
+  I sense heat.
+TerrorIce_01: |-
+  Danger!
+TerrorFire_01: |-
+  I may burn up.
+TerrorIce_02: |-
+  I must protect myself.
+TerrorFire_02: |-
+  High heat detected.
+TerrorFlash_00: |-
+  What happened?
+TerrorFlash_01: |-
+  Uh-oh.
+ClearTerrorGuardian_00: |-
+  Has the danger passed?
+TerrorArrow_00: |-
+  Danger!
+TerrorFlash_02: |-
+  Brightness overload.
+ClearTerrorGuardian_01: |-
+  Is it safe now?
+TerrorArrow_01: |-
+  I must protect myself.
+ClearTerrorGuardian_02: |-
+  Lowering defenses.
+TerrorArrow_02: |-
+  Your behavior is a threat.
+TerrorGeneric_00: |-
+  Danger!
+TerrorExplosion_00: |-
+  Danger!
+TerrorGeneric_01: |-
+  Uh-oh.
+TerrorExplosion_01: |-
+  Uh-oh.
+TerrorGeneric_02: |-
+  Your behavior is a threat.
+TerrorExplosion_02: |-
+  Look out!
+TerrorLightning_00: |-
+  Danger!

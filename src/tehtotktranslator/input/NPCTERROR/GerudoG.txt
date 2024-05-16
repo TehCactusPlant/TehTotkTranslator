@@ -1,0 +1,108 @@
+NakedPlayer_00: |-
+  What a weirdo.
+TerrorLightning_01: |-
+  Mama!
+TerrorInsect_00: |-
+  I'm n-not scared!
+NakedPlayer_01: |-
+  Where are your clothes?
+TerrorLightning_02: |-
+  I'm scared!
+TerrorInsect_01: |-
+  Shoo!
+NakedPlayer_02: |-
+  Why is he...
+TerrorInsect_02: |-
+  Go away!
+TerrorEnemy_00: |-
+  Help me!
+TerrorEnemy_01: |-
+  Go away!
+TerrorEnemy_02: |-
+  I'm scared!
+TerrorImpulse_00: |-
+  Wh-what?
+TerrorHorse_00: |-
+  Ack!
+TerrorImpulse_01: |-
+  Wah!
+TerrorHorse_01: |-
+  Wah!
+TerrorImpulse_02: |-
+  Ack!
+TerrorHorse_02: |-
+  Eeek!
+TerrorGuardian_00: |-
+  Help me!
+TerrorGuardian_01: |-
+  Go away!
+TerrorGuardian_02: |-
+  I'm scared!
+TerrorSword_00: |-
+  Ack!
+TerrorSword_01: |-
+  Eeek!
+TerrorSword_02: |-
+  Wah!
+TerrorAnimal_00: |-
+  Ack!
+ClearTerrorEnemy_00: |-
+  Phew...
+TerrorBomb_00: |-
+  Go away!
+TerrorAnimal_01: |-
+  Eeek!
+ClearTerrorEnemy_01: |-
+  That was scary...
+TerrorBomb_01: |-
+  Aaah!
+TerrorAnimal_02: |-
+  Help me!
+ClearTerrorEnemy_02: |-
+  I'm still shaking a little...
+TerrorBomb_02: |-
+  Is that—
+TerrorIce_00: |-
+  Eeep!
+TerrorFire_00: |-
+  Hot! Hot, hot, hot!
+TerrorIce_01: |-
+  Ack!
+TerrorFire_01: |-
+  Ouch, that's hot!
+TerrorIce_02: |-
+  That's cold!
+TerrorFire_02: |-
+  Put it out! Quick!
+TerrorFlash_00: |-
+  Whoa!
+TerrorFlash_01: |-
+  Ack!
+ClearTerrorGuardian_00: |-
+  That surprised me...
+TerrorArrow_00: |-
+  I'm scared!
+TerrorFlash_02: |-
+  My eyes!
+ClearTerrorGuardian_01: |-
+  That was scary.
+TerrorArrow_01: |-
+  Mama!
+ClearTerrorGuardian_02: |-
+  Phew...
+TerrorArrow_02: |-
+  Aaah!
+TerrorGeneric_00: |-
+  Wah!
+TerrorExplosion_00: |-
+  Whoa!
+TerrorGeneric_01: |-
+  Aaah!
+TerrorExplosion_01: |-
+  Waaah!
+TerrorGeneric_02: |-
+  Waaah!
+TerrorExplosion_02: |-
+  Aaah!
+TerrorLightning_00: |-
+  Aaah!

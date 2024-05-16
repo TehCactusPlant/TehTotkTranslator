@@ -1,0 +1,66 @@
+0008: |-
+  Use amiibo
+1002: |-
+  Shield Surf
+0009: |-
+  Whistle
+1003: |-
+  Charged Attacks
+1004: |-
+  Jump Slash
+1005: |-
+  Backflip
+0999: |-
+  ???
+1006: |-
+  Side Hop
+1007: |-
+  Perfect Guard
+2000: |-
+  Select material from your inventory to throw.
+1008: |-
+  Use amiibo
+2001: |-
+  View distant things and mark them with pins.
+1009: |-
+  Whistle
+2002: |-
+  Hop on your shield and slide down hills.
+2003: |-
+  Prepare and unleash a powerful attack.
+0000: |-
+  Throw Material
+2004: |-
+  Attack from above and do splash damage.
+0001: |-
+  The Scope and Pins
+2005: |-
+  Dodge enemy attacks by flipping backward.
+0002: |-
+  Shield Surf
+2006: |-
+  Dodge enemy attacks by hopping sideways.
+Pa_Btn_00-T_New_00: |-
+  New
+0003: |-
+  Charged Attacks
+2007: |-
+  Parry at the right time to repel enemy attacks.
+0004: |-
+  Jump Slash
+2008: |-
+  Touch an amiibo to the NFC touchpoint.
+T_Title_00: |-
+  Special Controls
+0005: |-
+  Backflip
+2009: |-
+  Call your horse to you if it's nearby.
+0006: |-
+  Side Hop
+1000: |-
+  Throw Material
+0007: |-
+  Perfect Guard
+1001: |-
+  The Scope and Pins
